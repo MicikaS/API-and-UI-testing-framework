@@ -1,0 +1,36 @@
+services:
+  api:
+    environment:
+      HOST: http://jsonplaceholder:3000
+    depends_on:
+      jsonplaceholder:
+        condition: service_started
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./logs:/api/logs
+      - .:/api/'result.xml'
+    # command: ["pytest","./tests/test_create.py","./tests/test_read.py","./tests/test_delete.py",'--junitxml="result.xml"']
+    command: ["pytest","./tests/api",'--junitxml="result.xml"']
+
+
+  jsonplaceholder:
+    image: svenwal/jsonplaceholder
+    ports:
+      - 3000:3000
+
+
+  ui:
+    environment:
+      - HEROKUAPP="https://the-internet.herokuapp.com"
+    build:
+      dockerfile: Dockerfile_ui
+    volumes:
+      - ./logs:/ui/logs
+      - .:/ui/'result.xml'
+    # command: ["pytest",'--browser "chrome"', "./tests/test_disappearing_elements.py", "./tests/test_login.py"]
+    # command: pytest --browser "chrome" ./tests/test_disappearing_elements.py ./tests/test_login.py
+
+    # for video recording --video=retain-on-failure
+    command: pytest --browser "chrome" --screenshot=only-on-failure ./tests/ui/ --junitxml="result.xml"

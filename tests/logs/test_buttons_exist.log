@@ -1,0 +1,651 @@
+[INFO] -  2023-02-20 at 14:27:10 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:27:12 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio', 'Gallery') visible 
+[INFO] -  2023-02-20 at 14:27:12 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 14:27:12 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:27:12 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 14:27:12 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:27:12 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:27:12 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:32:42 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:32:45 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio', 'Gallery') visible 
+[INFO] -  2023-02-20 at 14:32:45 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 14:32:45 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:32:45 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 14:32:45 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:32:45 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:32:45 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:43:13 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:43:15 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio', 'Gallery') visible 
+[INFO] -  2023-02-20 at 14:43:15 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 14:43:15 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:43:15 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 14:43:15 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:43:15 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:43:15 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:46:38 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:46:40 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio', 'Gallery') visible 
+[INFO] -  2023-02-20 at 14:46:40 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 14:46:40 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:46:40 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 14:46:40 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:46:40 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 14:46:40 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:46:40 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 14:46:40 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 14:46:40 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 14:46:40 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:46:40 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 14:46:40 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 14:46:40 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 14:46:40 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:46:40 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 14:46:40 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 14:46:40 - is_element_visible - Checking is Gallery visible 
+[INFO] -  2023-02-20 at 14:46:40 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:46:40 - _get_element - Waiting 10 seconds until partial link text: Gallery appear 
+[INFO] -  2023-02-20 at 14:46:40 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:40 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:41 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:41 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:42 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:42 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:43 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:44 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:44 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:45 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:45 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:46 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:46 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:47 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:47 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:48 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:48 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:49 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:49 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:50 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:46:50 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:46:50 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:54:21 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:54:23 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 14:54:23 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 14:54:23 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:54:23 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 14:54:23 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:54:23 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 14:54:23 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:54:23 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 14:54:23 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 14:54:23 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 14:54:23 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:54:23 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 14:54:23 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 14:54:23 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 14:54:23 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:54:23 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 14:54:23 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 14:54:23 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 14:54:23 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:02:54 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 15:02:56 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 15:02:56 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 15:02:56 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 15:02:56 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 15:02:56 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 15:02:56 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 15:02:56 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 15:02:56 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 15:02:56 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 15:02:56 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 15:02:56 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 15:02:56 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 15:02:56 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 15:02:56 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 15:02:56 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 15:02:56 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 15:02:56 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 15:02:56 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 15:02:56 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:06:14 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 15:06:16 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 15:06:16 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 15:06:16 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 15:06:16 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 15:06:16 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 15:06:16 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 15:06:16 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 15:06:16 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 15:06:16 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 15:06:16 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 15:06:16 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 15:06:16 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 15:06:16 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 15:06:16 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 15:06:16 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 15:06:16 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 15:06:16 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 15:06:16 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 15:06:16 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:07:11 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:07:13 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 16:07:13 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 16:07:13 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:07:13 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:07:13 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:07:13 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 16:07:13 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:07:13 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 16:07:13 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:07:13 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 16:07:13 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:07:13 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 16:07:13 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 16:07:13 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 16:07:13 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:07:13 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 16:07:13 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 16:07:13 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 16:07:13 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:17:59 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:18:01 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 16:18:01 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 16:18:01 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:18:01 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:18:01 - wait_for - Waiting until <framework.ui.drivers.driver.Driver object at 0x10e71b910> is satisfied  
+[INFO] -  2023-02-20 at 16:18:01 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:18:01 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:27:45 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:27:47 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 16:27:47 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 16:27:47 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:27:47 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:27:47 - wait_for - Waiting until <framework.ui.drivers.driver.Driver object at 0x1054443d0> is satisfied  
+[INFO] -  2023-02-20 at 16:27:47 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:27:47 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:29:38 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:29:40 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 16:29:40 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 16:29:40 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:29:40 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:29:40 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110eac430> is satisfied  
+[INFO] -  2023-02-20 at 16:29:40 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:29:40 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 16:29:40 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:29:40 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 16:29:40 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110eac430> is satisfied  
+[INFO] -  2023-02-20 at 16:29:40 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:29:40 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 16:29:40 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:29:40 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 16:29:40 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110eac430> is satisfied  
+[INFO] -  2023-02-20 at 16:29:40 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 16:29:40 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 16:29:40 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:29:40 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 16:29:40 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110eac430> is satisfied  
+[INFO] -  2023-02-20 at 16:29:40 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 16:29:40 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 16:29:40 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:36:47 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:36:48 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 16:36:48 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 16:36:48 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:36:48 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:36:48 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1109cc430> is satisfied  
+[INFO] -  2023-02-20 at 16:36:48 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:36:48 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 16:36:48 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:36:48 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 16:36:48 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1109cc430> is satisfied  
+[INFO] -  2023-02-20 at 16:36:48 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:36:48 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 16:36:48 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:36:48 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 16:36:48 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1109cc430> is satisfied  
+[INFO] -  2023-02-20 at 16:36:48 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 16:36:48 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 16:36:48 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:36:48 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 16:36:48 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1109cc430> is satisfied  
+[INFO] -  2023-02-20 at 16:36:48 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 16:36:48 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 16:36:48 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:39:47 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:39:48 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 16:39:48 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 16:39:48 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:39:48 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:39:48 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1095a84c0> is satisfied  
+[INFO] -  2023-02-20 at 16:39:48 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:39:48 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 16:39:48 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:39:48 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 16:39:48 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1095a84c0> is satisfied  
+[INFO] -  2023-02-20 at 16:39:48 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:39:48 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 16:39:48 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:39:48 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 16:39:48 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1095a84c0> is satisfied  
+[INFO] -  2023-02-20 at 16:39:48 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 16:39:48 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 16:39:48 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:39:48 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 16:39:48 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1095a84c0> is satisfied  
+[INFO] -  2023-02-20 at 16:39:48 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 16:39:48 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 16:39:48 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:42:08 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:42:10 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 16:42:10 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 16:42:10 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:42:10 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:42:10 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x108564430> is satisfied  
+[INFO] -  2023-02-20 at 16:42:10 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:42:10 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 16:42:10 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:42:10 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 16:42:10 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x108564430> is satisfied  
+[INFO] -  2023-02-20 at 16:42:10 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:42:10 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 16:42:10 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:42:10 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 16:42:10 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x108564430> is satisfied  
+[INFO] -  2023-02-20 at 16:42:10 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 16:42:10 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 16:42:10 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:42:10 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 16:42:10 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x108564430> is satisfied  
+[INFO] -  2023-02-20 at 16:42:10 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 16:42:10 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 16:42:10 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:45:22 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:45:24 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 16:45:24 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 16:45:24 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:45:24 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:45:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10f5ac0d0> is satisfied  
+[INFO] -  2023-02-20 at 16:45:24 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:45:24 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 16:45:24 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:45:24 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 16:45:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10f5ac0d0> is satisfied  
+[INFO] -  2023-02-20 at 16:45:24 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:45:24 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 16:45:24 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:45:24 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 16:45:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10f5ac0d0> is satisfied  
+[INFO] -  2023-02-20 at 16:45:24 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 16:45:24 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 16:45:24 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:45:24 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 16:45:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10f5ac0d0> is satisfied  
+[INFO] -  2023-02-20 at 16:45:24 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 16:45:24 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 16:45:24 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:47:40 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:47:41 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 16:47:41 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 16:47:41 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:47:41 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:47:41 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110d804c0> is satisfied  
+[INFO] -  2023-02-20 at 16:47:41 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:47:41 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 16:47:41 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:47:41 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 16:47:41 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110d804c0> is satisfied  
+[INFO] -  2023-02-20 at 16:47:41 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:47:41 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 16:47:41 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:47:41 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 16:47:41 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110d804c0> is satisfied  
+[INFO] -  2023-02-20 at 16:47:41 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 16:47:41 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 16:47:41 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:47:41 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 16:47:41 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110d804c0> is satisfied  
+[INFO] -  2023-02-20 at 16:47:41 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 16:47:41 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 16:47:41 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:50:03 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:50:05 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 16:50:05 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 16:50:05 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:50:05 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:50:05 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1127884c0> is satisfied  
+[INFO] -  2023-02-20 at 16:50:05 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:50:05 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 16:50:05 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:50:05 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 16:50:05 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1127884c0> is satisfied  
+[INFO] -  2023-02-20 at 16:50:05 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:50:05 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 16:50:05 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:50:05 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 16:50:05 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1127884c0> is satisfied  
+[INFO] -  2023-02-20 at 16:50:05 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 16:50:05 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 16:50:05 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:50:05 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 16:50:05 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1127884c0> is satisfied  
+[INFO] -  2023-02-20 at 16:50:05 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 16:50:05 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 16:50:05 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:53:09 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:53:11 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 16:53:11 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 16:53:11 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:53:11 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:53:11 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b9e04c0> is satisfied  
+[INFO] -  2023-02-20 at 16:53:11 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:53:11 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 16:53:11 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:53:11 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 16:53:11 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b9e04c0> is satisfied  
+[INFO] -  2023-02-20 at 16:53:11 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:53:11 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 16:53:11 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:53:11 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 16:53:11 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b9e04c0> is satisfied  
+[INFO] -  2023-02-20 at 16:53:11 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 16:53:11 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 16:53:11 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:53:11 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 16:53:11 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b9e04c0> is satisfied  
+[INFO] -  2023-02-20 at 16:53:11 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 16:53:11 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 16:53:11 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:00:57 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:00:59 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:00:59 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:00:59 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:00:59 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:00:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1126a0430> is satisfied  
+[INFO] -  2023-02-20 at 17:00:59 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:00:59 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 17:00:59 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:00:59 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 17:00:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1126a0430> is satisfied  
+[INFO] -  2023-02-20 at 17:00:59 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:00:59 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 17:00:59 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:00:59 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 17:00:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1126a0430> is satisfied  
+[INFO] -  2023-02-20 at 17:00:59 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 17:00:59 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 17:00:59 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:00:59 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 17:00:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1126a0430> is satisfied  
+[INFO] -  2023-02-20 at 17:00:59 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 17:00:59 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 17:00:59 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:02:31 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:02:32 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:02:32 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:02:32 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:02:32 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:02:32 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1098d4430> is satisfied  
+[INFO] -  2023-02-20 at 17:02:32 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:02:32 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 17:02:32 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:02:32 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 17:02:32 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1098d4430> is satisfied  
+[INFO] -  2023-02-20 at 17:02:32 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:02:32 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 17:02:32 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:02:32 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 17:02:32 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1098d4430> is satisfied  
+[INFO] -  2023-02-20 at 17:02:32 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 17:02:32 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 17:02:32 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:02:32 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 17:02:32 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1098d4430> is satisfied  
+[INFO] -  2023-02-20 at 17:02:32 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 17:02:32 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 17:02:32 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:10:28 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:10:30 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:10:30 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:10:30 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:10:30 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:10:30 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10fca4310> is satisfied  
+[INFO] -  2023-02-20 at 17:10:30 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:10:30 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 17:10:30 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:10:30 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 17:10:30 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10fca4310> is satisfied  
+[INFO] -  2023-02-20 at 17:10:30 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:10:30 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 17:10:30 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:10:30 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 17:10:30 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10fca4310> is satisfied  
+[INFO] -  2023-02-20 at 17:10:30 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 17:10:30 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 17:10:30 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:10:30 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 17:10:30 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10fca4310> is satisfied  
+[INFO] -  2023-02-20 at 17:10:30 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 17:10:30 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 17:10:30 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:20:13 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:20:14 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:20:14 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:20:14 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:20:14 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:20:14 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x103840670> is satisfied  
+[INFO] -  2023-02-20 at 17:20:14 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:20:15 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:21:28 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:21:30 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:21:30 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:21:30 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:21:30 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:21:30 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x112058310> is satisfied  
+[INFO] -  2023-02-20 at 17:21:30 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:21:30 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 17:21:30 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:21:30 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 17:21:30 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x112058310> is satisfied  
+[INFO] -  2023-02-20 at 17:21:30 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:21:30 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 17:21:30 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:21:30 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 17:21:30 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x112058310> is satisfied  
+[INFO] -  2023-02-20 at 17:21:30 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 17:21:30 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 17:21:30 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:21:30 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 17:21:30 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x112058310> is satisfied  
+[INFO] -  2023-02-20 at 17:21:30 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 17:21:30 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 17:21:30 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:25:22 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:25:24 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:25:24 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:25:24 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:25:24 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:25:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x104bbc670> is satisfied  
+[INFO] -  2023-02-20 at 17:25:24 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:25:24 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:26:44 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:26:45 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:26:45 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:26:45 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:26:45 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:26:45 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111d20310> is satisfied  
+[INFO] -  2023-02-20 at 17:26:45 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:26:45 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 17:26:45 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:26:45 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 17:26:45 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111d20310> is satisfied  
+[INFO] -  2023-02-20 at 17:26:45 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:26:46 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 17:26:46 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:26:46 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 17:26:46 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111d20310> is satisfied  
+[INFO] -  2023-02-20 at 17:26:46 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 17:26:46 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 17:26:46 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:26:46 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 17:26:46 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111d20310> is satisfied  
+[INFO] -  2023-02-20 at 17:26:46 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 17:26:46 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 17:26:46 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:31:32 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:31:34 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:31:34 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:31:34 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:31:34 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:31:34 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x108000670> is satisfied  
+[INFO] -  2023-02-20 at 17:31:34 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:31:34 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:33:16 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:33:17 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:33:17 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:33:17 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:33:17 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:33:17 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111430670> is satisfied  
+[INFO] -  2023-02-20 at 17:33:17 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:33:17 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:35:00 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:35:01 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:35:01 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:35:01 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:35:01 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:35:01 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b04c310> is satisfied  
+[INFO] -  2023-02-20 at 17:35:01 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:35:01 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 17:35:01 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:35:01 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 17:35:01 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b04c310> is satisfied  
+[INFO] -  2023-02-20 at 17:35:01 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:35:01 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 17:35:01 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:35:01 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 17:35:01 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b04c310> is satisfied  
+[INFO] -  2023-02-20 at 17:35:01 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 17:35:01 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 17:35:01 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:35:01 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 17:35:01 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b04c310> is satisfied  
+[INFO] -  2023-02-20 at 17:35:01 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 17:35:01 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 17:35:01 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:36:27 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:36:29 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:36:29 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:36:29 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:36:29 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:36:29 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x109624310> is satisfied  
+[INFO] -  2023-02-20 at 17:36:29 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:36:29 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 17:36:29 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:36:29 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 17:36:29 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x109624310> is satisfied  
+[INFO] -  2023-02-20 at 17:36:29 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:36:29 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 17:36:29 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:36:29 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 17:36:29 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x109624310> is satisfied  
+[INFO] -  2023-02-20 at 17:36:29 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 17:36:29 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 17:36:29 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:36:29 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 17:36:29 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x109624310> is satisfied  
+[INFO] -  2023-02-20 at 17:36:29 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 17:36:29 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 17:36:29 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:37:17 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:37:18 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:37:18 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:37:18 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:37:18 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:37:18 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1114003a0> is satisfied  
+[INFO] -  2023-02-20 at 17:37:18 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:37:18 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 17:37:18 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:37:18 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 17:37:18 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1114003a0> is satisfied  
+[INFO] -  2023-02-20 at 17:37:18 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:37:18 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 17:37:18 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:37:18 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 17:37:18 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1114003a0> is satisfied  
+[INFO] -  2023-02-20 at 17:37:18 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 17:37:18 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 17:37:18 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:37:18 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 17:37:18 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1114003a0> is satisfied  
+[INFO] -  2023-02-20 at 17:37:18 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 17:37:18 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 17:37:18 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:48:53 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:48:54 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 17:48:54 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 17:48:54 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:48:54 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:48:54 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1104001f0> is satisfied  
+[INFO] -  2023-02-20 at 17:48:54 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:48:54 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 17:48:54 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:48:54 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 17:48:54 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1104001f0> is satisfied  
+[INFO] -  2023-02-20 at 17:48:54 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:48:54 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 17:48:54 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:48:54 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 17:48:54 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1104001f0> is satisfied  
+[INFO] -  2023-02-20 at 17:48:54 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 17:48:54 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 17:48:54 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:48:54 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 17:48:54 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1104001f0> is satisfied  
+[INFO] -  2023-02-20 at 17:48:54 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 17:48:54 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 17:48:54 - close - Closing driver 
+[INFO] -  2023-02-20 at 18:06:08 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 18:06:09 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-20 at 18:06:09 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-20 at 18:06:09 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 18:06:09 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 18:06:09 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1108ff520> is satisfied  
+[INFO] -  2023-02-20 at 18:06:09 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 18:06:09 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-20 at 18:06:09 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 18:06:09 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-20 at 18:06:09 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1108ff520> is satisfied  
+[INFO] -  2023-02-20 at 18:06:09 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 18:06:09 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-20 at 18:06:09 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 18:06:09 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-20 at 18:06:09 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1108ff520> is satisfied  
+[INFO] -  2023-02-20 at 18:06:09 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-20 at 18:06:09 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-20 at 18:06:09 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 18:06:09 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-20 at 18:06:09 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1108ff520> is satisfied  
+[INFO] -  2023-02-20 at 18:06:09 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-20 at 18:06:10 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-20 at 18:06:10 - close - Closing driver 
+[INFO] -  2023-02-21 at 11:48:58 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-21 at 11:48:59 - are_elements_visible - Checking is ('Home', 'About', 'Contact Us', 'Portfolio') visible 
+[INFO] -  2023-02-21 at 11:48:59 - is_element_visible - Checking is Home visible 
+[INFO] -  2023-02-21 at 11:48:59 - visible - Checking if element is visible 
+[INFO] -  2023-02-21 at 11:48:59 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-21 at 11:48:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10e1e8310> is satisfied  
+[INFO] -  2023-02-21 at 11:48:59 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-21 at 11:48:59 - is_element_visible - Checking is About visible 
+[INFO] -  2023-02-21 at 11:48:59 - visible - Checking if element is visible 
+[INFO] -  2023-02-21 at 11:48:59 - _get_element - Waiting 10 seconds until partial link text: About appear 
+[INFO] -  2023-02-21 at 11:48:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10e1e8310> is satisfied  
+[INFO] -  2023-02-21 at 11:48:59 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-21 at 11:48:59 - is_element_visible - Checking is Contact Us visible 
+[INFO] -  2023-02-21 at 11:48:59 - visible - Checking if element is visible 
+[INFO] -  2023-02-21 at 11:48:59 - _get_element - Waiting 10 seconds until partial link text: Contact Us appear 
+[INFO] -  2023-02-21 at 11:48:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10e1e8310> is satisfied  
+[INFO] -  2023-02-21 at 11:48:59 - find_element - Finding element with partial link text:Contact Us 
+[INFO] -  2023-02-21 at 11:48:59 - is_element_visible - Checking is Portfolio visible 
+[INFO] -  2023-02-21 at 11:48:59 - visible - Checking if element is visible 
+[INFO] -  2023-02-21 at 11:48:59 - _get_element - Waiting 10 seconds until partial link text: Portfolio appear 
+[INFO] -  2023-02-21 at 11:48:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10e1e8310> is satisfied  
+[INFO] -  2023-02-21 at 11:48:59 - find_element - Finding element with partial link text:Portfolio 
+[INFO] -  2023-02-21 at 11:48:59 - are_elements_visible - All elements: ('Home', 'About', 'Contact Us', 'Portfolio') exist page 
+[INFO] -  2023-02-21 at 11:48:59 - close - Closing driver 

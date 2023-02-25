@@ -1,0 +1,1326 @@
+[INFO] -  2023-02-20 at 14:26:53 - create_user - Creating user with name='Daniel Martin' username='santoskelly' email='sanderson@example.com' address=Address(street='Sharon Views', suite='Apt. 655', city='New Juan', zipcode='47039', geo=Geo(lat='19.525033', lng='-86.109971')) phone='(566)182-7477' website='lt-36.jacobs.com' company=Company(name='Heather Fleming', catchPhrase='Extended methodical hardware', bs='revolutionize magnetic web-readiness') 
+[DEBUG] -  2023-02-20 at 14:26:53 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Daniel Martin', 'username': 'santoskelly', 'email': 'sanderson@example.com', 'address': {'street': 'Sharon Views', 'suite': 'Apt. 655', 'city': 'New Juan', 'zipcode': '47039', 'geo': {'lat': '19.525033', 'lng': '-86.109971'}}, 'phone': '(566)182-7477', 'website': 'lt-36.jacobs.com', 'company': {'name': 'Heather Fleming', 'catchPhrase': 'Extended methodical hardware', 'bs': 'revolutionize magnetic web-readiness'}}} 
+[DEBUG] -  2023-02-20 at 14:26:54 - post - Got response with status code = 201. Response = {
+  "name": "Daniel Martin",
+  "username": "santoskelly",
+  "email": "sanderson@example.com",
+  "address": {
+    "street": "Sharon Views",
+    "suite": "Apt. 655",
+    "city": "New Juan",
+    "zipcode": "47039",
+    "geo": {
+      "lat": "19.525033",
+      "lng": "-86.109971"
+    }
+  },
+  "phone": "(566)182-7477",
+  "website": "lt-36.jacobs.com",
+  "company": {
+    "name": "Heather Fleming",
+    "catchPhrase": "Extended methodical hardware",
+    "bs": "revolutionize magnetic web-readiness"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 14:26:54 - create_user - User was created 
+[INFO] -  2023-02-20 at 14:32:26 - create_user - Creating user with name='Norman Friedman' username='summerrobinson' email='samantha54@example.net' address=Address(street='Hanna Islands', suite='Apt. 760', city='Aprilberg', zipcode='61426', geo=Geo(lat='-32.885840', lng='-133.407942')) phone='693.184.6010x5195' website='db-71.young-hansen.com' company=Company(name='Jake Lambert', catchPhrase='Sharable discrete matrix', bs='transition 24/7 interfaces') 
+[DEBUG] -  2023-02-20 at 14:32:26 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Norman Friedman', 'username': 'summerrobinson', 'email': 'samantha54@example.net', 'address': {'street': 'Hanna Islands', 'suite': 'Apt. 760', 'city': 'Aprilberg', 'zipcode': '61426', 'geo': {'lat': '-32.885840', 'lng': '-133.407942'}}, 'phone': '693.184.6010x5195', 'website': 'db-71.young-hansen.com', 'company': {'name': 'Jake Lambert', 'catchPhrase': 'Sharable discrete matrix', 'bs': 'transition 24/7 interfaces'}}} 
+[DEBUG] -  2023-02-20 at 14:32:26 - post - Got response with status code = 201. Response = {
+  "name": "Norman Friedman",
+  "username": "summerrobinson",
+  "email": "samantha54@example.net",
+  "address": {
+    "street": "Hanna Islands",
+    "suite": "Apt. 760",
+    "city": "Aprilberg",
+    "zipcode": "61426",
+    "geo": {
+      "lat": "-32.885840",
+      "lng": "-133.407942"
+    }
+  },
+  "phone": "693.184.6010x5195",
+  "website": "db-71.young-hansen.com",
+  "company": {
+    "name": "Jake Lambert",
+    "catchPhrase": "Sharable discrete matrix",
+    "bs": "transition 24/7 interfaces"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 14:32:26 - create_user - User was created 
+[INFO] -  2023-02-20 at 14:42:56 - create_user - Creating user with name='Amy Reid' username='whitneykristopher' email='bethsheppard@example.org' address=Address(street='Keller Rapids', suite='Suite 502', city='North Derekside', zipcode='47807', geo=Geo(lat='-25.679519', lng='-36.730528')) phone='001-648-284-3912x566' website='email-45.duffy.org' company=Company(name='Roberto Horton', catchPhrase='Up-sized value-added attitude', bs='expedite one-to-one vortals') 
+[DEBUG] -  2023-02-20 at 14:42:56 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Amy Reid', 'username': 'whitneykristopher', 'email': 'bethsheppard@example.org', 'address': {'street': 'Keller Rapids', 'suite': 'Suite 502', 'city': 'North Derekside', 'zipcode': '47807', 'geo': {'lat': '-25.679519', 'lng': '-36.730528'}}, 'phone': '001-648-284-3912x566', 'website': 'email-45.duffy.org', 'company': {'name': 'Roberto Horton', 'catchPhrase': 'Up-sized value-added attitude', 'bs': 'expedite one-to-one vortals'}}} 
+[DEBUG] -  2023-02-20 at 14:42:56 - post - Got response with status code = 201. Response = {
+  "name": "Amy Reid",
+  "username": "whitneykristopher",
+  "email": "bethsheppard@example.org",
+  "address": {
+    "street": "Keller Rapids",
+    "suite": "Suite 502",
+    "city": "North Derekside",
+    "zipcode": "47807",
+    "geo": {
+      "lat": "-25.679519",
+      "lng": "-36.730528"
+    }
+  },
+  "phone": "001-648-284-3912x566",
+  "website": "email-45.duffy.org",
+  "company": {
+    "name": "Roberto Horton",
+    "catchPhrase": "Up-sized value-added attitude",
+    "bs": "expedite one-to-one vortals"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 14:42:56 - create_user - User was created 
+[INFO] -  2023-02-20 at 14:46:21 - create_user - Creating user with name='Rebecca Yates' username='dillonjohn' email='katelynmiller@example.net' address=Address(street='Joseph Knoll', suite='Suite 304', city='North Juan', zipcode='89401', geo=Geo(lat='-9.2838475', lng='71.005458')) phone='519.836.7233x776' website='laptop-14.long.com' company=Company(name='Melinda Sanders', catchPhrase='Monitored foreground circuit', bs='leverage B2C convergence') 
+[DEBUG] -  2023-02-20 at 14:46:21 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Rebecca Yates', 'username': 'dillonjohn', 'email': 'katelynmiller@example.net', 'address': {'street': 'Joseph Knoll', 'suite': 'Suite 304', 'city': 'North Juan', 'zipcode': '89401', 'geo': {'lat': '-9.2838475', 'lng': '71.005458'}}, 'phone': '519.836.7233x776', 'website': 'laptop-14.long.com', 'company': {'name': 'Melinda Sanders', 'catchPhrase': 'Monitored foreground circuit', 'bs': 'leverage B2C convergence'}}} 
+[DEBUG] -  2023-02-20 at 14:46:21 - post - Got response with status code = 201. Response = {
+  "name": "Rebecca Yates",
+  "username": "dillonjohn",
+  "email": "katelynmiller@example.net",
+  "address": {
+    "street": "Joseph Knoll",
+    "suite": "Suite 304",
+    "city": "North Juan",
+    "zipcode": "89401",
+    "geo": {
+      "lat": "-9.2838475",
+      "lng": "71.005458"
+    }
+  },
+  "phone": "519.836.7233x776",
+  "website": "laptop-14.long.com",
+  "company": {
+    "name": "Melinda Sanders",
+    "catchPhrase": "Monitored foreground circuit",
+    "bs": "leverage B2C convergence"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 14:46:22 - create_user - User was created 
+[INFO] -  2023-02-20 at 14:54:05 - create_user - Creating user with name='Christina Gonzales' username='brian91' email='kquinn@example.com' address=Address(street='Tony Squares', suite='Apt. 484', city='Pamelaberg', zipcode='70504', geo=Geo(lat='-77.6846515', lng='122.528025')) phone='620.487.7823' website='email-79.johnson-lewis.net' company=Company(name='Leah Hendrix', catchPhrase='Open-architected human-resource firmware', bs='optimize viral action-items') 
+[DEBUG] -  2023-02-20 at 14:54:05 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Christina Gonzales', 'username': 'brian91', 'email': 'kquinn@example.com', 'address': {'street': 'Tony Squares', 'suite': 'Apt. 484', 'city': 'Pamelaberg', 'zipcode': '70504', 'geo': {'lat': '-77.6846515', 'lng': '122.528025'}}, 'phone': '620.487.7823', 'website': 'email-79.johnson-lewis.net', 'company': {'name': 'Leah Hendrix', 'catchPhrase': 'Open-architected human-resource firmware', 'bs': 'optimize viral action-items'}}} 
+[DEBUG] -  2023-02-20 at 14:54:05 - post - Got response with status code = 201. Response = {
+  "name": "Christina Gonzales",
+  "username": "brian91",
+  "email": "kquinn@example.com",
+  "address": {
+    "street": "Tony Squares",
+    "suite": "Apt. 484",
+    "city": "Pamelaberg",
+    "zipcode": "70504",
+    "geo": {
+      "lat": "-77.6846515",
+      "lng": "122.528025"
+    }
+  },
+  "phone": "620.487.7823",
+  "website": "email-79.johnson-lewis.net",
+  "company": {
+    "name": "Leah Hendrix",
+    "catchPhrase": "Open-architected human-resource firmware",
+    "bs": "optimize viral action-items"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 14:54:05 - create_user - User was created 
+[INFO] -  2023-02-20 at 15:02:38 - create_user - Creating user with name='David Delacruz' username='david16' email='elizabeth39@example.com' address=Address(street='Davis Glen', suite='Suite 182', city='Kathrynport', zipcode='87818', geo=Geo(lat='33.2077385', lng='-60.857560')) phone='(117)147-5037x4641' website='lt-64.castillo.com' company=Company(name='Richard Montoya', catchPhrase='Persistent empowering project', bs='visualize extensible paradigms') 
+[DEBUG] -  2023-02-20 at 15:02:38 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'David Delacruz', 'username': 'david16', 'email': 'elizabeth39@example.com', 'address': {'street': 'Davis Glen', 'suite': 'Suite 182', 'city': 'Kathrynport', 'zipcode': '87818', 'geo': {'lat': '33.2077385', 'lng': '-60.857560'}}, 'phone': '(117)147-5037x4641', 'website': 'lt-64.castillo.com', 'company': {'name': 'Richard Montoya', 'catchPhrase': 'Persistent empowering project', 'bs': 'visualize extensible paradigms'}}} 
+[DEBUG] -  2023-02-20 at 15:02:38 - post - Got response with status code = 201. Response = {
+  "name": "David Delacruz",
+  "username": "david16",
+  "email": "elizabeth39@example.com",
+  "address": {
+    "street": "Davis Glen",
+    "suite": "Suite 182",
+    "city": "Kathrynport",
+    "zipcode": "87818",
+    "geo": {
+      "lat": "33.2077385",
+      "lng": "-60.857560"
+    }
+  },
+  "phone": "(117)147-5037x4641",
+  "website": "lt-64.castillo.com",
+  "company": {
+    "name": "Richard Montoya",
+    "catchPhrase": "Persistent empowering project",
+    "bs": "visualize extensible paradigms"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 15:02:38 - create_user - User was created 
+[INFO] -  2023-02-20 at 15:05:58 - create_user - Creating user with name='James Cole' username='hreynolds' email='mortonsarah@example.net' address=Address(street='Nicholas Plain', suite='Suite 202', city='North Sabrinastad', zipcode='77064', geo=Geo(lat='-79.475427', lng='-69.534467')) phone='831.704.7268' website='db-08.campbell-smith.org' company=Company(name='Sharon Williams', catchPhrase='Cross-platform optimal process improvement', bs='unleash visionary content') 
+[DEBUG] -  2023-02-20 at 15:05:58 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'James Cole', 'username': 'hreynolds', 'email': 'mortonsarah@example.net', 'address': {'street': 'Nicholas Plain', 'suite': 'Suite 202', 'city': 'North Sabrinastad', 'zipcode': '77064', 'geo': {'lat': '-79.475427', 'lng': '-69.534467'}}, 'phone': '831.704.7268', 'website': 'db-08.campbell-smith.org', 'company': {'name': 'Sharon Williams', 'catchPhrase': 'Cross-platform optimal process improvement', 'bs': 'unleash visionary content'}}} 
+[DEBUG] -  2023-02-20 at 15:05:59 - post - Got response with status code = 201. Response = {
+  "name": "James Cole",
+  "username": "hreynolds",
+  "email": "mortonsarah@example.net",
+  "address": {
+    "street": "Nicholas Plain",
+    "suite": "Suite 202",
+    "city": "North Sabrinastad",
+    "zipcode": "77064",
+    "geo": {
+      "lat": "-79.475427",
+      "lng": "-69.534467"
+    }
+  },
+  "phone": "831.704.7268",
+  "website": "db-08.campbell-smith.org",
+  "company": {
+    "name": "Sharon Williams",
+    "catchPhrase": "Cross-platform optimal process improvement",
+    "bs": "unleash visionary content"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 15:05:59 - create_user - User was created 
+[INFO] -  2023-02-20 at 16:06:55 - create_user - Creating user with name='Megan Moore' username='hortoncharles' email='caitlinsimon@example.org' address=Address(street='Scott Pine', suite='Suite 907', city='Timothybury', zipcode='53599', geo=Geo(lat='50.2841835', lng='85.333684')) phone='(276)104-7074x6177' website='web-39.martinez-pham.com' company=Company(name='Lorraine West', catchPhrase='Stand-alone non-volatile functionalities', bs='e-enable clicks-and-mortar content') 
+[DEBUG] -  2023-02-20 at 16:06:55 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Megan Moore', 'username': 'hortoncharles', 'email': 'caitlinsimon@example.org', 'address': {'street': 'Scott Pine', 'suite': 'Suite 907', 'city': 'Timothybury', 'zipcode': '53599', 'geo': {'lat': '50.2841835', 'lng': '85.333684'}}, 'phone': '(276)104-7074x6177', 'website': 'web-39.martinez-pham.com', 'company': {'name': 'Lorraine West', 'catchPhrase': 'Stand-alone non-volatile functionalities', 'bs': 'e-enable clicks-and-mortar content'}}} 
+[DEBUG] -  2023-02-20 at 16:06:55 - post - Got response with status code = 201. Response = {
+  "name": "Megan Moore",
+  "username": "hortoncharles",
+  "email": "caitlinsimon@example.org",
+  "address": {
+    "street": "Scott Pine",
+    "suite": "Suite 907",
+    "city": "Timothybury",
+    "zipcode": "53599",
+    "geo": {
+      "lat": "50.2841835",
+      "lng": "85.333684"
+    }
+  },
+  "phone": "(276)104-7074x6177",
+  "website": "web-39.martinez-pham.com",
+  "company": {
+    "name": "Lorraine West",
+    "catchPhrase": "Stand-alone non-volatile functionalities",
+    "bs": "e-enable clicks-and-mortar content"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 16:06:55 - create_user - User was created 
+[INFO] -  2023-02-20 at 16:17:42 - create_user - Creating user with name='Henry Zamora' username='thompsongeorge' email='darrell37@example.com' address=Address(street='Sabrina Forest', suite='Apt. 664', city='Collinfort', zipcode='26843', geo=Geo(lat='65.801775', lng='65.044262')) phone='198-656-1250x92823' website='web-54.sanford.com' company=Company(name='Tiffany Richmond', catchPhrase='Team-oriented value-added budgetary management', bs='deliver cutting-edge partnerships') 
+[DEBUG] -  2023-02-20 at 16:17:42 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Henry Zamora', 'username': 'thompsongeorge', 'email': 'darrell37@example.com', 'address': {'street': 'Sabrina Forest', 'suite': 'Apt. 664', 'city': 'Collinfort', 'zipcode': '26843', 'geo': {'lat': '65.801775', 'lng': '65.044262'}}, 'phone': '198-656-1250x92823', 'website': 'web-54.sanford.com', 'company': {'name': 'Tiffany Richmond', 'catchPhrase': 'Team-oriented value-added budgetary management', 'bs': 'deliver cutting-edge partnerships'}}} 
+[DEBUG] -  2023-02-20 at 16:17:42 - post - Got response with status code = 201. Response = {
+  "name": "Henry Zamora",
+  "username": "thompsongeorge",
+  "email": "darrell37@example.com",
+  "address": {
+    "street": "Sabrina Forest",
+    "suite": "Apt. 664",
+    "city": "Collinfort",
+    "zipcode": "26843",
+    "geo": {
+      "lat": "65.801775",
+      "lng": "65.044262"
+    }
+  },
+  "phone": "198-656-1250x92823",
+  "website": "web-54.sanford.com",
+  "company": {
+    "name": "Tiffany Richmond",
+    "catchPhrase": "Team-oriented value-added budgetary management",
+    "bs": "deliver cutting-edge partnerships"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 16:17:42 - create_user - User was created 
+[INFO] -  2023-02-20 at 16:27:28 - create_user - Creating user with name='Cynthia Cruz' username='travisschwartz' email='mmoore@example.org' address=Address(street='Everett Ports', suite='Apt. 803', city='Carolstad', zipcode='28524', geo=Geo(lat='-29.137242', lng='105.779483')) phone='+1-899-405-3827x2456' website='db-18.peterson.com' company=Company(name='Andrea Graham', catchPhrase='Integrated 24/7 instruction set', bs='seize 24/365 systems') 
+[DEBUG] -  2023-02-20 at 16:27:28 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Cynthia Cruz', 'username': 'travisschwartz', 'email': 'mmoore@example.org', 'address': {'street': 'Everett Ports', 'suite': 'Apt. 803', 'city': 'Carolstad', 'zipcode': '28524', 'geo': {'lat': '-29.137242', 'lng': '105.779483'}}, 'phone': '+1-899-405-3827x2456', 'website': 'db-18.peterson.com', 'company': {'name': 'Andrea Graham', 'catchPhrase': 'Integrated 24/7 instruction set', 'bs': 'seize 24/365 systems'}}} 
+[DEBUG] -  2023-02-20 at 16:27:28 - post - Got response with status code = 201. Response = {
+  "name": "Cynthia Cruz",
+  "username": "travisschwartz",
+  "email": "mmoore@example.org",
+  "address": {
+    "street": "Everett Ports",
+    "suite": "Apt. 803",
+    "city": "Carolstad",
+    "zipcode": "28524",
+    "geo": {
+      "lat": "-29.137242",
+      "lng": "105.779483"
+    }
+  },
+  "phone": "+1-899-405-3827x2456",
+  "website": "db-18.peterson.com",
+  "company": {
+    "name": "Andrea Graham",
+    "catchPhrase": "Integrated 24/7 instruction set",
+    "bs": "seize 24/365 systems"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 16:27:28 - create_user - User was created 
+[INFO] -  2023-02-20 at 16:29:21 - create_user - Creating user with name='Scott Weber' username='johnsonchristopher' email='ashleyrodriguez@example.com' address=Address(street='Frey Extensions', suite='Suite 255', city='Mistyburgh', zipcode='74643', geo=Geo(lat='82.9667025', lng='-57.558086')) phone='+1-938-622-9420' website='lt-06.garcia.com' company=Company(name='Edward Mcgee', catchPhrase='Upgradable intermediate conglomeration', bs='architect B2C platforms') 
+[DEBUG] -  2023-02-20 at 16:29:21 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Scott Weber', 'username': 'johnsonchristopher', 'email': 'ashleyrodriguez@example.com', 'address': {'street': 'Frey Extensions', 'suite': 'Suite 255', 'city': 'Mistyburgh', 'zipcode': '74643', 'geo': {'lat': '82.9667025', 'lng': '-57.558086'}}, 'phone': '+1-938-622-9420', 'website': 'lt-06.garcia.com', 'company': {'name': 'Edward Mcgee', 'catchPhrase': 'Upgradable intermediate conglomeration', 'bs': 'architect B2C platforms'}}} 
+[DEBUG] -  2023-02-20 at 16:29:21 - post - Got response with status code = 201. Response = {
+  "name": "Scott Weber",
+  "username": "johnsonchristopher",
+  "email": "ashleyrodriguez@example.com",
+  "address": {
+    "street": "Frey Extensions",
+    "suite": "Suite 255",
+    "city": "Mistyburgh",
+    "zipcode": "74643",
+    "geo": {
+      "lat": "82.9667025",
+      "lng": "-57.558086"
+    }
+  },
+  "phone": "+1-938-622-9420",
+  "website": "lt-06.garcia.com",
+  "company": {
+    "name": "Edward Mcgee",
+    "catchPhrase": "Upgradable intermediate conglomeration",
+    "bs": "architect B2C platforms"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 16:29:21 - create_user - User was created 
+[INFO] -  2023-02-20 at 16:36:29 - create_user - Creating user with name='Alex Shaffer' username='michaelacevedo' email='bfletcher@example.com' address=Address(street='Carter Knolls', suite='Suite 351', city='Bradyville', zipcode='07844', geo=Geo(lat='27.678691', lng='-142.233910')) phone='462-240-5383' website='desktop-26.perry-cole.com' company=Company(name='Julie Taylor', catchPhrase='Persevering interactive support', bs='engineer wireless web-readiness') 
+[DEBUG] -  2023-02-20 at 16:36:29 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Alex Shaffer', 'username': 'michaelacevedo', 'email': 'bfletcher@example.com', 'address': {'street': 'Carter Knolls', 'suite': 'Suite 351', 'city': 'Bradyville', 'zipcode': '07844', 'geo': {'lat': '27.678691', 'lng': '-142.233910'}}, 'phone': '462-240-5383', 'website': 'desktop-26.perry-cole.com', 'company': {'name': 'Julie Taylor', 'catchPhrase': 'Persevering interactive support', 'bs': 'engineer wireless web-readiness'}}} 
+[DEBUG] -  2023-02-20 at 16:36:30 - post - Got response with status code = 201. Response = {
+  "name": "Alex Shaffer",
+  "username": "michaelacevedo",
+  "email": "bfletcher@example.com",
+  "address": {
+    "street": "Carter Knolls",
+    "suite": "Suite 351",
+    "city": "Bradyville",
+    "zipcode": "07844",
+    "geo": {
+      "lat": "27.678691",
+      "lng": "-142.233910"
+    }
+  },
+  "phone": "462-240-5383",
+  "website": "desktop-26.perry-cole.com",
+  "company": {
+    "name": "Julie Taylor",
+    "catchPhrase": "Persevering interactive support",
+    "bs": "engineer wireless web-readiness"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 16:36:30 - create_user - User was created 
+[INFO] -  2023-02-20 at 16:39:30 - create_user - Creating user with name='Susan Hampton' username='sthomas' email='crystal00@example.com' address=Address(street='Rocha Squares', suite='Suite 678', city='North Ruthmouth', zipcode='10150', geo=Geo(lat='-25.5749165', lng='10.925735')) phone='+1-196-924-0318x0811' website='desktop-75.nguyen-patterson.com' company=Company(name='Tara Singleton', catchPhrase='Assimilated non-volatile matrices', bs='mesh rich networks') 
+[DEBUG] -  2023-02-20 at 16:39:30 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Susan Hampton', 'username': 'sthomas', 'email': 'crystal00@example.com', 'address': {'street': 'Rocha Squares', 'suite': 'Suite 678', 'city': 'North Ruthmouth', 'zipcode': '10150', 'geo': {'lat': '-25.5749165', 'lng': '10.925735'}}, 'phone': '+1-196-924-0318x0811', 'website': 'desktop-75.nguyen-patterson.com', 'company': {'name': 'Tara Singleton', 'catchPhrase': 'Assimilated non-volatile matrices', 'bs': 'mesh rich networks'}}} 
+[DEBUG] -  2023-02-20 at 16:39:30 - post - Got response with status code = 201. Response = {
+  "name": "Susan Hampton",
+  "username": "sthomas",
+  "email": "crystal00@example.com",
+  "address": {
+    "street": "Rocha Squares",
+    "suite": "Suite 678",
+    "city": "North Ruthmouth",
+    "zipcode": "10150",
+    "geo": {
+      "lat": "-25.5749165",
+      "lng": "10.925735"
+    }
+  },
+  "phone": "+1-196-924-0318x0811",
+  "website": "desktop-75.nguyen-patterson.com",
+  "company": {
+    "name": "Tara Singleton",
+    "catchPhrase": "Assimilated non-volatile matrices",
+    "bs": "mesh rich networks"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 16:39:30 - create_user - User was created 
+[INFO] -  2023-02-20 at 16:41:51 - create_user - Creating user with name='Jennifer Sanders MD' username='robertcurtis' email='walkermichael@example.com' address=Address(street='Rachel Turnpike', suite='Apt. 757', city='Kathrynland', zipcode='46466', geo=Geo(lat='-89.1361725', lng='-84.332147')) phone='975.901.1329' website='db-58.hardin.com' company=Company(name='Brian Mills', catchPhrase='Organic full-range task-force', bs='expedite distributed metrics') 
+[DEBUG] -  2023-02-20 at 16:41:51 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Jennifer Sanders MD', 'username': 'robertcurtis', 'email': 'walkermichael@example.com', 'address': {'street': 'Rachel Turnpike', 'suite': 'Apt. 757', 'city': 'Kathrynland', 'zipcode': '46466', 'geo': {'lat': '-89.1361725', 'lng': '-84.332147'}}, 'phone': '975.901.1329', 'website': 'db-58.hardin.com', 'company': {'name': 'Brian Mills', 'catchPhrase': 'Organic full-range task-force', 'bs': 'expedite distributed metrics'}}} 
+[DEBUG] -  2023-02-20 at 16:41:52 - post - Got response with status code = 201. Response = {
+  "name": "Jennifer Sanders MD",
+  "username": "robertcurtis",
+  "email": "walkermichael@example.com",
+  "address": {
+    "street": "Rachel Turnpike",
+    "suite": "Apt. 757",
+    "city": "Kathrynland",
+    "zipcode": "46466",
+    "geo": {
+      "lat": "-89.1361725",
+      "lng": "-84.332147"
+    }
+  },
+  "phone": "975.901.1329",
+  "website": "db-58.hardin.com",
+  "company": {
+    "name": "Brian Mills",
+    "catchPhrase": "Organic full-range task-force",
+    "bs": "expedite distributed metrics"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 16:41:52 - create_user - User was created 
+[INFO] -  2023-02-20 at 16:45:05 - create_user - Creating user with name='Margaret Spears' username='ojenkins' email='tracy32@example.com' address=Address(street='Tina Ports', suite='Suite 259', city='East Kellyton', zipcode='34238', geo=Geo(lat='60.3602805', lng='-84.547381')) phone='001-497-244-0212x9546' website='db-35.olson.com' company=Company(name='Kristen Mcintyre', catchPhrase='Down-sized maximized alliance', bs='re-contextualize strategic e-markets') 
+[DEBUG] -  2023-02-20 at 16:45:05 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Margaret Spears', 'username': 'ojenkins', 'email': 'tracy32@example.com', 'address': {'street': 'Tina Ports', 'suite': 'Suite 259', 'city': 'East Kellyton', 'zipcode': '34238', 'geo': {'lat': '60.3602805', 'lng': '-84.547381'}}, 'phone': '001-497-244-0212x9546', 'website': 'db-35.olson.com', 'company': {'name': 'Kristen Mcintyre', 'catchPhrase': 'Down-sized maximized alliance', 'bs': 're-contextualize strategic e-markets'}}} 
+[DEBUG] -  2023-02-20 at 16:45:05 - post - Got response with status code = 201. Response = {
+  "name": "Margaret Spears",
+  "username": "ojenkins",
+  "email": "tracy32@example.com",
+  "address": {
+    "street": "Tina Ports",
+    "suite": "Suite 259",
+    "city": "East Kellyton",
+    "zipcode": "34238",
+    "geo": {
+      "lat": "60.3602805",
+      "lng": "-84.547381"
+    }
+  },
+  "phone": "001-497-244-0212x9546",
+  "website": "db-35.olson.com",
+  "company": {
+    "name": "Kristen Mcintyre",
+    "catchPhrase": "Down-sized maximized alliance",
+    "bs": "re-contextualize strategic e-markets"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 16:45:05 - create_user - User was created 
+[INFO] -  2023-02-20 at 16:47:23 - create_user - Creating user with name='Timothy Jones' username='khall' email='huynhamber@example.net' address=Address(street='Haynes Burgs', suite='Suite 754', city='Reginabury', zipcode='42485', geo=Geo(lat='22.3020185', lng='-172.213163')) phone='(666)020-0507x9399' website='db-32.howard-brown.biz' company=Company(name='William Scott', catchPhrase='Devolved homogeneous project', bs='whiteboard one-to-one metrics') 
+[DEBUG] -  2023-02-20 at 16:47:23 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Timothy Jones', 'username': 'khall', 'email': 'huynhamber@example.net', 'address': {'street': 'Haynes Burgs', 'suite': 'Suite 754', 'city': 'Reginabury', 'zipcode': '42485', 'geo': {'lat': '22.3020185', 'lng': '-172.213163'}}, 'phone': '(666)020-0507x9399', 'website': 'db-32.howard-brown.biz', 'company': {'name': 'William Scott', 'catchPhrase': 'Devolved homogeneous project', 'bs': 'whiteboard one-to-one metrics'}}} 
+[DEBUG] -  2023-02-20 at 16:47:23 - post - Got response with status code = 201. Response = {
+  "name": "Timothy Jones",
+  "username": "khall",
+  "email": "huynhamber@example.net",
+  "address": {
+    "street": "Haynes Burgs",
+    "suite": "Suite 754",
+    "city": "Reginabury",
+    "zipcode": "42485",
+    "geo": {
+      "lat": "22.3020185",
+      "lng": "-172.213163"
+    }
+  },
+  "phone": "(666)020-0507x9399",
+  "website": "db-32.howard-brown.biz",
+  "company": {
+    "name": "William Scott",
+    "catchPhrase": "Devolved homogeneous project",
+    "bs": "whiteboard one-to-one metrics"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 16:47:23 - create_user - User was created 
+[INFO] -  2023-02-20 at 16:49:46 - create_user - Creating user with name='Lisa Ford' username='kellyjacobson' email='stucker@example.com' address=Address(street='Fernandez Landing', suite='Suite 701', city='North Danastad', zipcode='12838', geo=Geo(lat='31.797722', lng='139.434345')) phone='+1-899-055-9556x55356' website='desktop-60.payne.com' company=Company(name='Emily Jackson', catchPhrase='Triple-buffered asynchronous orchestration', bs='transition integrated paradigms') 
+[DEBUG] -  2023-02-20 at 16:49:46 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Lisa Ford', 'username': 'kellyjacobson', 'email': 'stucker@example.com', 'address': {'street': 'Fernandez Landing', 'suite': 'Suite 701', 'city': 'North Danastad', 'zipcode': '12838', 'geo': {'lat': '31.797722', 'lng': '139.434345'}}, 'phone': '+1-899-055-9556x55356', 'website': 'desktop-60.payne.com', 'company': {'name': 'Emily Jackson', 'catchPhrase': 'Triple-buffered asynchronous orchestration', 'bs': 'transition integrated paradigms'}}} 
+[DEBUG] -  2023-02-20 at 16:49:46 - post - Got response with status code = 201. Response = {
+  "name": "Lisa Ford",
+  "username": "kellyjacobson",
+  "email": "stucker@example.com",
+  "address": {
+    "street": "Fernandez Landing",
+    "suite": "Suite 701",
+    "city": "North Danastad",
+    "zipcode": "12838",
+    "geo": {
+      "lat": "31.797722",
+      "lng": "139.434345"
+    }
+  },
+  "phone": "+1-899-055-9556x55356",
+  "website": "desktop-60.payne.com",
+  "company": {
+    "name": "Emily Jackson",
+    "catchPhrase": "Triple-buffered asynchronous orchestration",
+    "bs": "transition integrated paradigms"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 16:49:46 - create_user - User was created 
+[INFO] -  2023-02-20 at 16:52:52 - create_user - Creating user with name='Michelle Johnson' username='jtorres' email='ecamacho@example.org' address=Address(street='Hicks Path', suite='Suite 290', city='West Ashley', zipcode='03547', geo=Geo(lat='37.187609', lng='91.187390')) phone='668.767.0431' website='db-09.hodge.biz' company=Company(name='Lori Sellers', catchPhrase='Cross-platform needs-based ability', bs='deliver wireless platforms') 
+[DEBUG] -  2023-02-20 at 16:52:52 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Michelle Johnson', 'username': 'jtorres', 'email': 'ecamacho@example.org', 'address': {'street': 'Hicks Path', 'suite': 'Suite 290', 'city': 'West Ashley', 'zipcode': '03547', 'geo': {'lat': '37.187609', 'lng': '91.187390'}}, 'phone': '668.767.0431', 'website': 'db-09.hodge.biz', 'company': {'name': 'Lori Sellers', 'catchPhrase': 'Cross-platform needs-based ability', 'bs': 'deliver wireless platforms'}}} 
+[DEBUG] -  2023-02-20 at 16:52:52 - post - Got response with status code = 201. Response = {
+  "name": "Michelle Johnson",
+  "username": "jtorres",
+  "email": "ecamacho@example.org",
+  "address": {
+    "street": "Hicks Path",
+    "suite": "Suite 290",
+    "city": "West Ashley",
+    "zipcode": "03547",
+    "geo": {
+      "lat": "37.187609",
+      "lng": "91.187390"
+    }
+  },
+  "phone": "668.767.0431",
+  "website": "db-09.hodge.biz",
+  "company": {
+    "name": "Lori Sellers",
+    "catchPhrase": "Cross-platform needs-based ability",
+    "bs": "deliver wireless platforms"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 16:52:52 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:00:40 - create_user - Creating user with name='Kyle Fisher' username='sharon94' email='fowlerjoshua@example.net' address=Address(street='Le Radial', suite='Suite 642', city='Garcialand', zipcode='63859', geo=Geo(lat='-23.5637955', lng='-140.436759')) phone='073.986.6052x22014' website='srv-86.herrera.com' company=Company(name='Roberta Nichols', catchPhrase='Open-architected global adapter', bs='enable visionary markets') 
+[DEBUG] -  2023-02-20 at 17:00:40 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Kyle Fisher', 'username': 'sharon94', 'email': 'fowlerjoshua@example.net', 'address': {'street': 'Le Radial', 'suite': 'Suite 642', 'city': 'Garcialand', 'zipcode': '63859', 'geo': {'lat': '-23.5637955', 'lng': '-140.436759'}}, 'phone': '073.986.6052x22014', 'website': 'srv-86.herrera.com', 'company': {'name': 'Roberta Nichols', 'catchPhrase': 'Open-architected global adapter', 'bs': 'enable visionary markets'}}} 
+[DEBUG] -  2023-02-20 at 17:00:40 - post - Got response with status code = 201. Response = {
+  "name": "Kyle Fisher",
+  "username": "sharon94",
+  "email": "fowlerjoshua@example.net",
+  "address": {
+    "street": "Le Radial",
+    "suite": "Suite 642",
+    "city": "Garcialand",
+    "zipcode": "63859",
+    "geo": {
+      "lat": "-23.5637955",
+      "lng": "-140.436759"
+    }
+  },
+  "phone": "073.986.6052x22014",
+  "website": "srv-86.herrera.com",
+  "company": {
+    "name": "Roberta Nichols",
+    "catchPhrase": "Open-architected global adapter",
+    "bs": "enable visionary markets"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:00:40 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:02:14 - create_user - Creating user with name='Kristin Thomas' username='lynnsawyer' email='fernandezsheila@example.net' address=Address(street='Mcguire Crest', suite='Apt. 098', city='South Haleyton', zipcode='71489', geo=Geo(lat='-25.3380195', lng='104.158888')) phone='771.106.6015x22641' website='desktop-85.johnson.net' company=Company(name='Gloria Clark', catchPhrase='Cloned intermediate Graphical User Interface', bs='benchmark 24/7 convergence') 
+[DEBUG] -  2023-02-20 at 17:02:14 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Kristin Thomas', 'username': 'lynnsawyer', 'email': 'fernandezsheila@example.net', 'address': {'street': 'Mcguire Crest', 'suite': 'Apt. 098', 'city': 'South Haleyton', 'zipcode': '71489', 'geo': {'lat': '-25.3380195', 'lng': '104.158888'}}, 'phone': '771.106.6015x22641', 'website': 'desktop-85.johnson.net', 'company': {'name': 'Gloria Clark', 'catchPhrase': 'Cloned intermediate Graphical User Interface', 'bs': 'benchmark 24/7 convergence'}}} 
+[DEBUG] -  2023-02-20 at 17:02:14 - post - Got response with status code = 201. Response = {
+  "name": "Kristin Thomas",
+  "username": "lynnsawyer",
+  "email": "fernandezsheila@example.net",
+  "address": {
+    "street": "Mcguire Crest",
+    "suite": "Apt. 098",
+    "city": "South Haleyton",
+    "zipcode": "71489",
+    "geo": {
+      "lat": "-25.3380195",
+      "lng": "104.158888"
+    }
+  },
+  "phone": "771.106.6015x22641",
+  "website": "desktop-85.johnson.net",
+  "company": {
+    "name": "Gloria Clark",
+    "catchPhrase": "Cloned intermediate Graphical User Interface",
+    "bs": "benchmark 24/7 convergence"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:02:14 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:10:11 - create_user - Creating user with name='Mary Perkins' username='vfranco' email='cheryl52@example.net' address=Address(street='George Greens', suite='Apt. 862', city='Amyborough', zipcode='58911', geo=Geo(lat='57.052023', lng='-111.257798')) phone='(141)373-7032' website='web-99.howard.com' company=Company(name='Alyssa Raymond', catchPhrase='Adaptive motivating paradigm', bs='re-contextualize robust vortals') 
+[DEBUG] -  2023-02-20 at 17:10:11 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Mary Perkins', 'username': 'vfranco', 'email': 'cheryl52@example.net', 'address': {'street': 'George Greens', 'suite': 'Apt. 862', 'city': 'Amyborough', 'zipcode': '58911', 'geo': {'lat': '57.052023', 'lng': '-111.257798'}}, 'phone': '(141)373-7032', 'website': 'web-99.howard.com', 'company': {'name': 'Alyssa Raymond', 'catchPhrase': 'Adaptive motivating paradigm', 'bs': 're-contextualize robust vortals'}}} 
+[DEBUG] -  2023-02-20 at 17:10:11 - post - Got response with status code = 201. Response = {
+  "name": "Mary Perkins",
+  "username": "vfranco",
+  "email": "cheryl52@example.net",
+  "address": {
+    "street": "George Greens",
+    "suite": "Apt. 862",
+    "city": "Amyborough",
+    "zipcode": "58911",
+    "geo": {
+      "lat": "57.052023",
+      "lng": "-111.257798"
+    }
+  },
+  "phone": "(141)373-7032",
+  "website": "web-99.howard.com",
+  "company": {
+    "name": "Alyssa Raymond",
+    "catchPhrase": "Adaptive motivating paradigm",
+    "bs": "re-contextualize robust vortals"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:10:11 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:19:56 - create_user - Creating user with name='Monica Hansen' username='scott07' email='cynthiayoung@example.net' address=Address(street='Jones Ridge', suite='Suite 063', city='New Gina', zipcode='21645', geo=Geo(lat='-16.593474', lng='10.857001')) phone='085.842.6335x042' website='db-41.carey.info' company=Company(name='Thomas Stewart', catchPhrase='Profound incremental matrices', bs='exploit next-generation applications') 
+[DEBUG] -  2023-02-20 at 17:19:56 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Monica Hansen', 'username': 'scott07', 'email': 'cynthiayoung@example.net', 'address': {'street': 'Jones Ridge', 'suite': 'Suite 063', 'city': 'New Gina', 'zipcode': '21645', 'geo': {'lat': '-16.593474', 'lng': '10.857001'}}, 'phone': '085.842.6335x042', 'website': 'db-41.carey.info', 'company': {'name': 'Thomas Stewart', 'catchPhrase': 'Profound incremental matrices', 'bs': 'exploit next-generation applications'}}} 
+[DEBUG] -  2023-02-20 at 17:19:56 - post - Got response with status code = 201. Response = {
+  "name": "Monica Hansen",
+  "username": "scott07",
+  "email": "cynthiayoung@example.net",
+  "address": {
+    "street": "Jones Ridge",
+    "suite": "Suite 063",
+    "city": "New Gina",
+    "zipcode": "21645",
+    "geo": {
+      "lat": "-16.593474",
+      "lng": "10.857001"
+    }
+  },
+  "phone": "085.842.6335x042",
+  "website": "db-41.carey.info",
+  "company": {
+    "name": "Thomas Stewart",
+    "catchPhrase": "Profound incremental matrices",
+    "bs": "exploit next-generation applications"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:19:56 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:21:12 - create_user - Creating user with name='Andrew Johnson' username='williamswayne' email='robert77@example.net' address=Address(street='Robert Road', suite='Apt. 169', city='Lake Nicholasmouth', zipcode='48630', geo=Geo(lat='27.0227185', lng='-20.084148')) phone='908.891.2380x915' website='lt-71.miles.com' company=Company(name='Alexander Shaw', catchPhrase='Organic coherent challenge', bs='synergize dot-com applications') 
+[DEBUG] -  2023-02-20 at 17:21:12 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Andrew Johnson', 'username': 'williamswayne', 'email': 'robert77@example.net', 'address': {'street': 'Robert Road', 'suite': 'Apt. 169', 'city': 'Lake Nicholasmouth', 'zipcode': '48630', 'geo': {'lat': '27.0227185', 'lng': '-20.084148'}}, 'phone': '908.891.2380x915', 'website': 'lt-71.miles.com', 'company': {'name': 'Alexander Shaw', 'catchPhrase': 'Organic coherent challenge', 'bs': 'synergize dot-com applications'}}} 
+[DEBUG] -  2023-02-20 at 17:21:12 - post - Got response with status code = 201. Response = {
+  "name": "Andrew Johnson",
+  "username": "williamswayne",
+  "email": "robert77@example.net",
+  "address": {
+    "street": "Robert Road",
+    "suite": "Apt. 169",
+    "city": "Lake Nicholasmouth",
+    "zipcode": "48630",
+    "geo": {
+      "lat": "27.0227185",
+      "lng": "-20.084148"
+    }
+  },
+  "phone": "908.891.2380x915",
+  "website": "lt-71.miles.com",
+  "company": {
+    "name": "Alexander Shaw",
+    "catchPhrase": "Organic coherent challenge",
+    "bs": "synergize dot-com applications"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:21:12 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:25:06 - create_user - Creating user with name='Grace King' username='bakerjo' email='catherine42@example.net' address=Address(street='John Track', suite='Apt. 285', city='Henryview', zipcode='23421', geo=Geo(lat='-78.1838845', lng='-82.468219')) phone='904-488-1387x9708' website='email-72.johnson.biz' company=Company(name='Evelyn Proctor', catchPhrase='Customer-focused fresh-thinking open system', bs='enhance scalable eyeballs') 
+[DEBUG] -  2023-02-20 at 17:25:06 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Grace King', 'username': 'bakerjo', 'email': 'catherine42@example.net', 'address': {'street': 'John Track', 'suite': 'Apt. 285', 'city': 'Henryview', 'zipcode': '23421', 'geo': {'lat': '-78.1838845', 'lng': '-82.468219'}}, 'phone': '904-488-1387x9708', 'website': 'email-72.johnson.biz', 'company': {'name': 'Evelyn Proctor', 'catchPhrase': 'Customer-focused fresh-thinking open system', 'bs': 'enhance scalable eyeballs'}}} 
+[DEBUG] -  2023-02-20 at 17:25:06 - post - Got response with status code = 201. Response = {
+  "name": "Grace King",
+  "username": "bakerjo",
+  "email": "catherine42@example.net",
+  "address": {
+    "street": "John Track",
+    "suite": "Apt. 285",
+    "city": "Henryview",
+    "zipcode": "23421",
+    "geo": {
+      "lat": "-78.1838845",
+      "lng": "-82.468219"
+    }
+  },
+  "phone": "904-488-1387x9708",
+  "website": "email-72.johnson.biz",
+  "company": {
+    "name": "Evelyn Proctor",
+    "catchPhrase": "Customer-focused fresh-thinking open system",
+    "bs": "enhance scalable eyeballs"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:25:06 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:26:27 - create_user - Creating user with name='Darius Conway' username='hgonzales' email='fsantos@example.com' address=Address(street='Flores Cliffs', suite='Suite 618', city='Rhondaland', zipcode='51215', geo=Geo(lat='33.5213195', lng='79.450575')) phone='+1-341-168-5975' website='desktop-59.perry.com' company=Company(name='Eric Clark', catchPhrase='Universal disintermediate application', bs='benchmark wireless infrastructures') 
+[DEBUG] -  2023-02-20 at 17:26:27 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Darius Conway', 'username': 'hgonzales', 'email': 'fsantos@example.com', 'address': {'street': 'Flores Cliffs', 'suite': 'Suite 618', 'city': 'Rhondaland', 'zipcode': '51215', 'geo': {'lat': '33.5213195', 'lng': '79.450575'}}, 'phone': '+1-341-168-5975', 'website': 'desktop-59.perry.com', 'company': {'name': 'Eric Clark', 'catchPhrase': 'Universal disintermediate application', 'bs': 'benchmark wireless infrastructures'}}} 
+[DEBUG] -  2023-02-20 at 17:26:28 - post - Got response with status code = 201. Response = {
+  "name": "Darius Conway",
+  "username": "hgonzales",
+  "email": "fsantos@example.com",
+  "address": {
+    "street": "Flores Cliffs",
+    "suite": "Suite 618",
+    "city": "Rhondaland",
+    "zipcode": "51215",
+    "geo": {
+      "lat": "33.5213195",
+      "lng": "79.450575"
+    }
+  },
+  "phone": "+1-341-168-5975",
+  "website": "desktop-59.perry.com",
+  "company": {
+    "name": "Eric Clark",
+    "catchPhrase": "Universal disintermediate application",
+    "bs": "benchmark wireless infrastructures"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:26:28 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:31:15 - create_user - Creating user with name='Sarah Shaffer' username='qterry' email='mccartyrichard@example.com' address=Address(street='Roberts Branch', suite='Apt. 509', city='Port Barbarahaven', zipcode='86228', geo=Geo(lat='-68.290506', lng='-118.693965')) phone='741-095-7580x17347' website='lt-68.davis-bradford.com' company=Company(name='Christopher Powell', catchPhrase='Exclusive dedicated throughput', bs='generate intuitive experiences') 
+[DEBUG] -  2023-02-20 at 17:31:15 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Sarah Shaffer', 'username': 'qterry', 'email': 'mccartyrichard@example.com', 'address': {'street': 'Roberts Branch', 'suite': 'Apt. 509', 'city': 'Port Barbarahaven', 'zipcode': '86228', 'geo': {'lat': '-68.290506', 'lng': '-118.693965'}}, 'phone': '741-095-7580x17347', 'website': 'lt-68.davis-bradford.com', 'company': {'name': 'Christopher Powell', 'catchPhrase': 'Exclusive dedicated throughput', 'bs': 'generate intuitive experiences'}}} 
+[DEBUG] -  2023-02-20 at 17:31:16 - post - Got response with status code = 201. Response = {
+  "name": "Sarah Shaffer",
+  "username": "qterry",
+  "email": "mccartyrichard@example.com",
+  "address": {
+    "street": "Roberts Branch",
+    "suite": "Apt. 509",
+    "city": "Port Barbarahaven",
+    "zipcode": "86228",
+    "geo": {
+      "lat": "-68.290506",
+      "lng": "-118.693965"
+    }
+  },
+  "phone": "741-095-7580x17347",
+  "website": "lt-68.davis-bradford.com",
+  "company": {
+    "name": "Christopher Powell",
+    "catchPhrase": "Exclusive dedicated throughput",
+    "bs": "generate intuitive experiences"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:31:16 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:32:59 - create_user - Creating user with name='Amy Sanders' username='carrkeith' email='morandavid@example.com' address=Address(street='Nixon Trail', suite='Suite 636', city='East Larryview', zipcode='61415', geo=Geo(lat='-25.1968035', lng='107.712445')) phone='+1-488-211-5006' website='srv-86.schaefer.com' company=Company(name='Bryce Jones', catchPhrase='Centralized reciprocal throughput', bs='repurpose user-centric synergies') 
+[DEBUG] -  2023-02-20 at 17:32:59 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Amy Sanders', 'username': 'carrkeith', 'email': 'morandavid@example.com', 'address': {'street': 'Nixon Trail', 'suite': 'Suite 636', 'city': 'East Larryview', 'zipcode': '61415', 'geo': {'lat': '-25.1968035', 'lng': '107.712445'}}, 'phone': '+1-488-211-5006', 'website': 'srv-86.schaefer.com', 'company': {'name': 'Bryce Jones', 'catchPhrase': 'Centralized reciprocal throughput', 'bs': 'repurpose user-centric synergies'}}} 
+[DEBUG] -  2023-02-20 at 17:33:00 - post - Got response with status code = 201. Response = {
+  "name": "Amy Sanders",
+  "username": "carrkeith",
+  "email": "morandavid@example.com",
+  "address": {
+    "street": "Nixon Trail",
+    "suite": "Suite 636",
+    "city": "East Larryview",
+    "zipcode": "61415",
+    "geo": {
+      "lat": "-25.1968035",
+      "lng": "107.712445"
+    }
+  },
+  "phone": "+1-488-211-5006",
+  "website": "srv-86.schaefer.com",
+  "company": {
+    "name": "Bryce Jones",
+    "catchPhrase": "Centralized reciprocal throughput",
+    "bs": "repurpose user-centric synergies"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:33:00 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:34:43 - create_user - Creating user with name='David Erickson' username='jennifer15' email='veronicaknox@example.net' address=Address(street='Amy Road', suite='Suite 998', city='Port Joshua', zipcode='98892', geo=Geo(lat='51.543017', lng='-170.552441')) phone='(367)938-7102' website='email-28.moreno-chambers.com' company=Company(name='Christopher Smith', catchPhrase='Re-engineered discrete infrastructure', bs='whiteboard robust infrastructures') 
+[DEBUG] -  2023-02-20 at 17:34:43 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'David Erickson', 'username': 'jennifer15', 'email': 'veronicaknox@example.net', 'address': {'street': 'Amy Road', 'suite': 'Suite 998', 'city': 'Port Joshua', 'zipcode': '98892', 'geo': {'lat': '51.543017', 'lng': '-170.552441'}}, 'phone': '(367)938-7102', 'website': 'email-28.moreno-chambers.com', 'company': {'name': 'Christopher Smith', 'catchPhrase': 'Re-engineered discrete infrastructure', 'bs': 'whiteboard robust infrastructures'}}} 
+[DEBUG] -  2023-02-20 at 17:34:44 - post - Got response with status code = 201. Response = {
+  "name": "David Erickson",
+  "username": "jennifer15",
+  "email": "veronicaknox@example.net",
+  "address": {
+    "street": "Amy Road",
+    "suite": "Suite 998",
+    "city": "Port Joshua",
+    "zipcode": "98892",
+    "geo": {
+      "lat": "51.543017",
+      "lng": "-170.552441"
+    }
+  },
+  "phone": "(367)938-7102",
+  "website": "email-28.moreno-chambers.com",
+  "company": {
+    "name": "Christopher Smith",
+    "catchPhrase": "Re-engineered discrete infrastructure",
+    "bs": "whiteboard robust infrastructures"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:34:44 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:36:11 - create_user - Creating user with name='Michelle Lucero' username='gbrown' email='carlalane@example.com' address=Address(street='Amy Groves', suite='Suite 826', city='South Lindabury', zipcode='86119', geo=Geo(lat='-31.188384', lng='-46.036249')) phone='105-665-4973x2932' website='email-46.marquez-lopez.com' company=Company(name='Shari Lawrence', catchPhrase='Business-focused heuristic superstructure', bs='iterate value-added eyeballs') 
+[DEBUG] -  2023-02-20 at 17:36:11 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Michelle Lucero', 'username': 'gbrown', 'email': 'carlalane@example.com', 'address': {'street': 'Amy Groves', 'suite': 'Suite 826', 'city': 'South Lindabury', 'zipcode': '86119', 'geo': {'lat': '-31.188384', 'lng': '-46.036249'}}, 'phone': '105-665-4973x2932', 'website': 'email-46.marquez-lopez.com', 'company': {'name': 'Shari Lawrence', 'catchPhrase': 'Business-focused heuristic superstructure', 'bs': 'iterate value-added eyeballs'}}} 
+[DEBUG] -  2023-02-20 at 17:36:11 - post - Got response with status code = 201. Response = {
+  "name": "Michelle Lucero",
+  "username": "gbrown",
+  "email": "carlalane@example.com",
+  "address": {
+    "street": "Amy Groves",
+    "suite": "Suite 826",
+    "city": "South Lindabury",
+    "zipcode": "86119",
+    "geo": {
+      "lat": "-31.188384",
+      "lng": "-46.036249"
+    }
+  },
+  "phone": "105-665-4973x2932",
+  "website": "email-46.marquez-lopez.com",
+  "company": {
+    "name": "Shari Lawrence",
+    "catchPhrase": "Business-focused heuristic superstructure",
+    "bs": "iterate value-added eyeballs"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:36:11 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:37:00 - create_user - Creating user with name='Rebecca Swanson' username='paul59' email='sheryl67@example.org' address=Address(street='Morales Trafficway', suite='Apt. 188', city='New Vincentville', zipcode='27473', geo=Geo(lat='-31.4086545', lng='38.170175')) phone='679-060-1915x6985' website='db-95.johnson-miller.com' company=Company(name='Paige Roman', catchPhrase='Realigned static service-desk', bs='disintermediate extensible users') 
+[DEBUG] -  2023-02-20 at 17:37:00 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Rebecca Swanson', 'username': 'paul59', 'email': 'sheryl67@example.org', 'address': {'street': 'Morales Trafficway', 'suite': 'Apt. 188', 'city': 'New Vincentville', 'zipcode': '27473', 'geo': {'lat': '-31.4086545', 'lng': '38.170175'}}, 'phone': '679-060-1915x6985', 'website': 'db-95.johnson-miller.com', 'company': {'name': 'Paige Roman', 'catchPhrase': 'Realigned static service-desk', 'bs': 'disintermediate extensible users'}}} 
+[DEBUG] -  2023-02-20 at 17:37:01 - post - Got response with status code = 201. Response = {
+  "name": "Rebecca Swanson",
+  "username": "paul59",
+  "email": "sheryl67@example.org",
+  "address": {
+    "street": "Morales Trafficway",
+    "suite": "Apt. 188",
+    "city": "New Vincentville",
+    "zipcode": "27473",
+    "geo": {
+      "lat": "-31.4086545",
+      "lng": "38.170175"
+    }
+  },
+  "phone": "679-060-1915x6985",
+  "website": "db-95.johnson-miller.com",
+  "company": {
+    "name": "Paige Roman",
+    "catchPhrase": "Realigned static service-desk",
+    "bs": "disintermediate extensible users"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:37:01 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:48:37 - create_user - Creating user with name='Michael King' username='robertjacobs' email='gyoung@example.org' address=Address(street='Jeffery Plain', suite='Apt. 949', city='Greenebury', zipcode='71752', geo=Geo(lat='-63.043378', lng='-164.626868')) phone='(256)926-3334x5155' website='web-10.hansen.org' company=Company(name='John Johnson', catchPhrase='Digitized directional implementation', bs='re-intermediate web-enabled channels') 
+[DEBUG] -  2023-02-20 at 17:48:37 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Michael King', 'username': 'robertjacobs', 'email': 'gyoung@example.org', 'address': {'street': 'Jeffery Plain', 'suite': 'Apt. 949', 'city': 'Greenebury', 'zipcode': '71752', 'geo': {'lat': '-63.043378', 'lng': '-164.626868'}}, 'phone': '(256)926-3334x5155', 'website': 'web-10.hansen.org', 'company': {'name': 'John Johnson', 'catchPhrase': 'Digitized directional implementation', 'bs': 're-intermediate web-enabled channels'}}} 
+[DEBUG] -  2023-02-20 at 17:48:37 - post - Got response with status code = 201. Response = {
+  "name": "Michael King",
+  "username": "robertjacobs",
+  "email": "gyoung@example.org",
+  "address": {
+    "street": "Jeffery Plain",
+    "suite": "Apt. 949",
+    "city": "Greenebury",
+    "zipcode": "71752",
+    "geo": {
+      "lat": "-63.043378",
+      "lng": "-164.626868"
+    }
+  },
+  "phone": "(256)926-3334x5155",
+  "website": "web-10.hansen.org",
+  "company": {
+    "name": "John Johnson",
+    "catchPhrase": "Digitized directional implementation",
+    "bs": "re-intermediate web-enabled channels"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:48:37 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:49:41 - create_user - Creating user with name='Debra Nielsen' username='zross' email='danielle60@example.org' address=Address(street='Rosario Estate', suite='Suite 135', city='North Jessica', zipcode='69720', geo=Geo(lat='-40.2835675', lng='-50.281093')) phone='2096254933' website='email-63.estes-anthony.com' company=Company(name='Casey Burke', catchPhrase='Synchronized systemic orchestration', bs='exploit enterprise e-markets') 
+[DEBUG] -  2023-02-20 at 17:49:41 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Debra Nielsen', 'username': 'zross', 'email': 'danielle60@example.org', 'address': {'street': 'Rosario Estate', 'suite': 'Suite 135', 'city': 'North Jessica', 'zipcode': '69720', 'geo': {'lat': '-40.2835675', 'lng': '-50.281093'}}, 'phone': '2096254933', 'website': 'email-63.estes-anthony.com', 'company': {'name': 'Casey Burke', 'catchPhrase': 'Synchronized systemic orchestration', 'bs': 'exploit enterprise e-markets'}}} 
+[DEBUG] -  2023-02-20 at 17:49:41 - post - Got response with status code = 201. Response = {
+  "name": "Debra Nielsen",
+  "username": "zross",
+  "email": "danielle60@example.org",
+  "address": {
+    "street": "Rosario Estate",
+    "suite": "Suite 135",
+    "city": "North Jessica",
+    "zipcode": "69720",
+    "geo": {
+      "lat": "-40.2835675",
+      "lng": "-50.281093"
+    }
+  },
+  "phone": "2096254933",
+  "website": "email-63.estes-anthony.com",
+  "company": {
+    "name": "Casey Burke",
+    "catchPhrase": "Synchronized systemic orchestration",
+    "bs": "exploit enterprise e-markets"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:49:41 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:51:00 - create_user - Creating user with name='Jonathan Schwartz' username='woodschristopher' email='kirstendavidson@example.com' address=Address(street='Nelson Green', suite='Apt. 360', city='West Jeffrey', zipcode='99393', geo=Geo(lat='-30.494475', lng='21.310120')) phone='1175335453' website='email-44.hammond.com' company=Company(name='Ronald Weaver', catchPhrase='Visionary scalable hardware', bs='evolve out-of-the-box channels') 
+[DEBUG] -  2023-02-20 at 17:51:00 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Jonathan Schwartz', 'username': 'woodschristopher', 'email': 'kirstendavidson@example.com', 'address': {'street': 'Nelson Green', 'suite': 'Apt. 360', 'city': 'West Jeffrey', 'zipcode': '99393', 'geo': {'lat': '-30.494475', 'lng': '21.310120'}}, 'phone': '1175335453', 'website': 'email-44.hammond.com', 'company': {'name': 'Ronald Weaver', 'catchPhrase': 'Visionary scalable hardware', 'bs': 'evolve out-of-the-box channels'}}} 
+[DEBUG] -  2023-02-20 at 17:51:00 - post - Got response with status code = 201. Response = {
+  "name": "Jonathan Schwartz",
+  "username": "woodschristopher",
+  "email": "kirstendavidson@example.com",
+  "address": {
+    "street": "Nelson Green",
+    "suite": "Apt. 360",
+    "city": "West Jeffrey",
+    "zipcode": "99393",
+    "geo": {
+      "lat": "-30.494475",
+      "lng": "21.310120"
+    }
+  },
+  "phone": "1175335453",
+  "website": "email-44.hammond.com",
+  "company": {
+    "name": "Ronald Weaver",
+    "catchPhrase": "Visionary scalable hardware",
+    "bs": "evolve out-of-the-box channels"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:51:00 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:52:17 - create_user - Creating user with name='Gary Wright' username='maldonadoalexandra' email='austinalicia@example.net' address=Address(street='Monique Street', suite='Suite 156', city='South Dean', zipcode='33727', geo=Geo(lat='34.4277085', lng='-76.483444')) phone='0724640791' website='desktop-85.newton.net' company=Company(name='Carol Edwards', catchPhrase='Optimized contextually-based complexity', bs='revolutionize ubiquitous info-mediaries') 
+[DEBUG] -  2023-02-20 at 17:52:17 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Gary Wright', 'username': 'maldonadoalexandra', 'email': 'austinalicia@example.net', 'address': {'street': 'Monique Street', 'suite': 'Suite 156', 'city': 'South Dean', 'zipcode': '33727', 'geo': {'lat': '34.4277085', 'lng': '-76.483444'}}, 'phone': '0724640791', 'website': 'desktop-85.newton.net', 'company': {'name': 'Carol Edwards', 'catchPhrase': 'Optimized contextually-based complexity', 'bs': 'revolutionize ubiquitous info-mediaries'}}} 
+[DEBUG] -  2023-02-20 at 17:52:17 - post - Got response with status code = 201. Response = {
+  "name": "Gary Wright",
+  "username": "maldonadoalexandra",
+  "email": "austinalicia@example.net",
+  "address": {
+    "street": "Monique Street",
+    "suite": "Suite 156",
+    "city": "South Dean",
+    "zipcode": "33727",
+    "geo": {
+      "lat": "34.4277085",
+      "lng": "-76.483444"
+    }
+  },
+  "phone": "0724640791",
+  "website": "desktop-85.newton.net",
+  "company": {
+    "name": "Carol Edwards",
+    "catchPhrase": "Optimized contextually-based complexity",
+    "bs": "revolutionize ubiquitous info-mediaries"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:52:17 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:52:56 - create_user - Creating user with name='Peter Duffy' username='ryanjames' email='mbutler@example.net' address=Address(street='Abbott Well', suite='Apt. 655', city='Owenfurt', zipcode='52650', geo=Geo(lat='-0.6462025', lng='-44.169377')) phone='+1-918-892-9934x6048' website='desktop-39.young.info' company=Company(name='Sandra Phillips', catchPhrase='Reactive solution-oriented challenge', bs='engage magnetic applications') 
+[DEBUG] -  2023-02-20 at 17:52:56 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Peter Duffy', 'username': 'ryanjames', 'email': 'mbutler@example.net', 'address': {'street': 'Abbott Well', 'suite': 'Apt. 655', 'city': 'Owenfurt', 'zipcode': '52650', 'geo': {'lat': '-0.6462025', 'lng': '-44.169377'}}, 'phone': '+1-918-892-9934x6048', 'website': 'desktop-39.young.info', 'company': {'name': 'Sandra Phillips', 'catchPhrase': 'Reactive solution-oriented challenge', 'bs': 'engage magnetic applications'}}} 
+[DEBUG] -  2023-02-20 at 17:52:57 - post - Got response with status code = 201. Response = {
+  "name": "Peter Duffy",
+  "username": "ryanjames",
+  "email": "mbutler@example.net",
+  "address": {
+    "street": "Abbott Well",
+    "suite": "Apt. 655",
+    "city": "Owenfurt",
+    "zipcode": "52650",
+    "geo": {
+      "lat": "-0.6462025",
+      "lng": "-44.169377"
+    }
+  },
+  "phone": "+1-918-892-9934x6048",
+  "website": "desktop-39.young.info",
+  "company": {
+    "name": "Sandra Phillips",
+    "catchPhrase": "Reactive solution-oriented challenge",
+    "bs": "engage magnetic applications"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:52:57 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:54:52 - create_user - Creating user with name='Keith Smith' username='fbarber' email='chill@example.com' address=Address(street='Kathryn Freeway', suite='Suite 733', city='Cisnerosfurt', zipcode='62378', geo=Geo(lat='2.317010', lng='155.958714')) phone='411-139-4367' website='lt-54.hill.com' company=Company(name='Lucas Fletcher', catchPhrase='Fundamental bottom-line Internet solution', bs='embrace real-time applications') 
+[DEBUG] -  2023-02-20 at 17:54:52 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Keith Smith', 'username': 'fbarber', 'email': 'chill@example.com', 'address': {'street': 'Kathryn Freeway', 'suite': 'Suite 733', 'city': 'Cisnerosfurt', 'zipcode': '62378', 'geo': {'lat': '2.317010', 'lng': '155.958714'}}, 'phone': '411-139-4367', 'website': 'lt-54.hill.com', 'company': {'name': 'Lucas Fletcher', 'catchPhrase': 'Fundamental bottom-line Internet solution', 'bs': 'embrace real-time applications'}}} 
+[DEBUG] -  2023-02-20 at 17:54:52 - post - Got response with status code = 201. Response = {
+  "name": "Keith Smith",
+  "username": "fbarber",
+  "email": "chill@example.com",
+  "address": {
+    "street": "Kathryn Freeway",
+    "suite": "Suite 733",
+    "city": "Cisnerosfurt",
+    "zipcode": "62378",
+    "geo": {
+      "lat": "2.317010",
+      "lng": "155.958714"
+    }
+  },
+  "phone": "411-139-4367",
+  "website": "lt-54.hill.com",
+  "company": {
+    "name": "Lucas Fletcher",
+    "catchPhrase": "Fundamental bottom-line Internet solution",
+    "bs": "embrace real-time applications"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:54:52 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:55:39 - create_user - Creating user with name='David Ryan' username='deannawilliams' email='melissajones@example.org' address=Address(street='Kevin Plain', suite='Apt. 124', city='Port Jamesborough', zipcode='53494', geo=Geo(lat='56.162764', lng='-105.809330')) phone='+1-793-914-2184' website='lt-55.roman.org' company=Company(name='Lauren Adams', catchPhrase='Ergonomic grid-enabled portal', bs='mesh global schemas') 
+[DEBUG] -  2023-02-20 at 17:55:39 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'David Ryan', 'username': 'deannawilliams', 'email': 'melissajones@example.org', 'address': {'street': 'Kevin Plain', 'suite': 'Apt. 124', 'city': 'Port Jamesborough', 'zipcode': '53494', 'geo': {'lat': '56.162764', 'lng': '-105.809330'}}, 'phone': '+1-793-914-2184', 'website': 'lt-55.roman.org', 'company': {'name': 'Lauren Adams', 'catchPhrase': 'Ergonomic grid-enabled portal', 'bs': 'mesh global schemas'}}} 
+[DEBUG] -  2023-02-20 at 17:55:39 - post - Got response with status code = 201. Response = {
+  "name": "David Ryan",
+  "username": "deannawilliams",
+  "email": "melissajones@example.org",
+  "address": {
+    "street": "Kevin Plain",
+    "suite": "Apt. 124",
+    "city": "Port Jamesborough",
+    "zipcode": "53494",
+    "geo": {
+      "lat": "56.162764",
+      "lng": "-105.809330"
+    }
+  },
+  "phone": "+1-793-914-2184",
+  "website": "lt-55.roman.org",
+  "company": {
+    "name": "Lauren Adams",
+    "catchPhrase": "Ergonomic grid-enabled portal",
+    "bs": "mesh global schemas"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:55:39 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:56:47 - create_user - Creating user with name='Steven Simmons' username='derrick08' email='debra95@example.com' address=Address(street='Christopher Trafficway', suite='Suite 616', city='Lake Antonio', zipcode='60776', geo=Geo(lat='-48.094649', lng='-164.710716')) phone='7906180662' website='desktop-87.acevedo-howell.com' company=Company(name='Jill Orr', catchPhrase='Intuitive mission-critical toolset', bs='revolutionize world-class convergence') 
+[DEBUG] -  2023-02-20 at 17:56:47 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Steven Simmons', 'username': 'derrick08', 'email': 'debra95@example.com', 'address': {'street': 'Christopher Trafficway', 'suite': 'Suite 616', 'city': 'Lake Antonio', 'zipcode': '60776', 'geo': {'lat': '-48.094649', 'lng': '-164.710716'}}, 'phone': '7906180662', 'website': 'desktop-87.acevedo-howell.com', 'company': {'name': 'Jill Orr', 'catchPhrase': 'Intuitive mission-critical toolset', 'bs': 'revolutionize world-class convergence'}}} 
+[DEBUG] -  2023-02-20 at 17:56:48 - post - Got response with status code = 201. Response = {
+  "name": "Steven Simmons",
+  "username": "derrick08",
+  "email": "debra95@example.com",
+  "address": {
+    "street": "Christopher Trafficway",
+    "suite": "Suite 616",
+    "city": "Lake Antonio",
+    "zipcode": "60776",
+    "geo": {
+      "lat": "-48.094649",
+      "lng": "-164.710716"
+    }
+  },
+  "phone": "7906180662",
+  "website": "desktop-87.acevedo-howell.com",
+  "company": {
+    "name": "Jill Orr",
+    "catchPhrase": "Intuitive mission-critical toolset",
+    "bs": "revolutionize world-class convergence"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:56:48 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:58:49 - create_user - Creating user with name='Richard Hampton' username='katherinegutierrez' email='luis25@example.com' address=Address(street='Barbara Fort', suite='Apt. 997', city='Emilytown', zipcode='66689', geo=Geo(lat='-82.440806', lng='1.005589')) phone='001-109-233-5571x977' website='laptop-82.miller-nelson.com' company=Company(name='Mark Becker', catchPhrase='User-centric contextually-based instruction set', bs='cultivate sticky web-readiness') 
+[DEBUG] -  2023-02-20 at 17:58:49 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Richard Hampton', 'username': 'katherinegutierrez', 'email': 'luis25@example.com', 'address': {'street': 'Barbara Fort', 'suite': 'Apt. 997', 'city': 'Emilytown', 'zipcode': '66689', 'geo': {'lat': '-82.440806', 'lng': '1.005589'}}, 'phone': '001-109-233-5571x977', 'website': 'laptop-82.miller-nelson.com', 'company': {'name': 'Mark Becker', 'catchPhrase': 'User-centric contextually-based instruction set', 'bs': 'cultivate sticky web-readiness'}}} 
+[DEBUG] -  2023-02-20 at 17:58:49 - post - Got response with status code = 201. Response = {
+  "name": "Richard Hampton",
+  "username": "katherinegutierrez",
+  "email": "luis25@example.com",
+  "address": {
+    "street": "Barbara Fort",
+    "suite": "Apt. 997",
+    "city": "Emilytown",
+    "zipcode": "66689",
+    "geo": {
+      "lat": "-82.440806",
+      "lng": "1.005589"
+    }
+  },
+  "phone": "001-109-233-5571x977",
+  "website": "laptop-82.miller-nelson.com",
+  "company": {
+    "name": "Mark Becker",
+    "catchPhrase": "User-centric contextually-based instruction set",
+    "bs": "cultivate sticky web-readiness"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:58:49 - create_user - User was created 
+[INFO] -  2023-02-20 at 17:59:16 - create_user - Creating user with name='Willie Hahn' username='ericksonkristine' email='qgates@example.org' address=Address(street='Edwards Bridge', suite='Suite 837', city='West Lindaside', zipcode='43257', geo=Geo(lat='41.095182', lng='-60.839117')) phone='351-720-3033' website='laptop-87.bush.com' company=Company(name='James Howard', catchPhrase='Switchable intermediate synergy', bs='utilize B2B infrastructures') 
+[DEBUG] -  2023-02-20 at 17:59:16 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Willie Hahn', 'username': 'ericksonkristine', 'email': 'qgates@example.org', 'address': {'street': 'Edwards Bridge', 'suite': 'Suite 837', 'city': 'West Lindaside', 'zipcode': '43257', 'geo': {'lat': '41.095182', 'lng': '-60.839117'}}, 'phone': '351-720-3033', 'website': 'laptop-87.bush.com', 'company': {'name': 'James Howard', 'catchPhrase': 'Switchable intermediate synergy', 'bs': 'utilize B2B infrastructures'}}} 
+[DEBUG] -  2023-02-20 at 17:59:16 - post - Got response with status code = 201. Response = {
+  "name": "Willie Hahn",
+  "username": "ericksonkristine",
+  "email": "qgates@example.org",
+  "address": {
+    "street": "Edwards Bridge",
+    "suite": "Suite 837",
+    "city": "West Lindaside",
+    "zipcode": "43257",
+    "geo": {
+      "lat": "41.095182",
+      "lng": "-60.839117"
+    }
+  },
+  "phone": "351-720-3033",
+  "website": "laptop-87.bush.com",
+  "company": {
+    "name": "James Howard",
+    "catchPhrase": "Switchable intermediate synergy",
+    "bs": "utilize B2B infrastructures"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 17:59:16 - create_user - User was created 
+[INFO] -  2023-02-20 at 18:01:38 - create_user - Creating user with name='Kylie Beltran MD' username='nvance' email='aruiz@example.com' address=Address(street='Anthony Via', suite='Apt. 028', city='East Stephen', zipcode='88684', geo=Geo(lat='6.6512075', lng='-140.070306')) phone='(365)057-3236x44296' website='srv-17.simpson-morrow.com' company=Company(name='Jack Kirby', catchPhrase='Total actuating moratorium', bs='aggregate web-enabled technologies') 
+[DEBUG] -  2023-02-20 at 18:01:38 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Kylie Beltran MD', 'username': 'nvance', 'email': 'aruiz@example.com', 'address': {'street': 'Anthony Via', 'suite': 'Apt. 028', 'city': 'East Stephen', 'zipcode': '88684', 'geo': {'lat': '6.6512075', 'lng': '-140.070306'}}, 'phone': '(365)057-3236x44296', 'website': 'srv-17.simpson-morrow.com', 'company': {'name': 'Jack Kirby', 'catchPhrase': 'Total actuating moratorium', 'bs': 'aggregate web-enabled technologies'}}} 
+[DEBUG] -  2023-02-20 at 18:01:38 - post - Got response with status code = 201. Response = {
+  "name": "Kylie Beltran MD",
+  "username": "nvance",
+  "email": "aruiz@example.com",
+  "address": {
+    "street": "Anthony Via",
+    "suite": "Apt. 028",
+    "city": "East Stephen",
+    "zipcode": "88684",
+    "geo": {
+      "lat": "6.6512075",
+      "lng": "-140.070306"
+    }
+  },
+  "phone": "(365)057-3236x44296",
+  "website": "srv-17.simpson-morrow.com",
+  "company": {
+    "name": "Jack Kirby",
+    "catchPhrase": "Total actuating moratorium",
+    "bs": "aggregate web-enabled technologies"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 18:01:38 - create_user - User was created 
+[INFO] -  2023-02-20 at 18:02:56 - create_user - Creating user with name='Sierra Medina' username='bingram' email='kimberlygibson@example.net' address=Address(street='Peter Highway', suite='Suite 938', city='Reedfurt', zipcode='26163', geo=Geo(lat='17.3313545', lng='-9.582475')) phone='001-886-062-6916x1042' website='web-61.davidson.info' company=Company(name='Samantha Jackson', catchPhrase='Front-line encompassing orchestration', bs='visualize interactive content') 
+[DEBUG] -  2023-02-20 at 18:02:56 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Sierra Medina', 'username': 'bingram', 'email': 'kimberlygibson@example.net', 'address': {'street': 'Peter Highway', 'suite': 'Suite 938', 'city': 'Reedfurt', 'zipcode': '26163', 'geo': {'lat': '17.3313545', 'lng': '-9.582475'}}, 'phone': '001-886-062-6916x1042', 'website': 'web-61.davidson.info', 'company': {'name': 'Samantha Jackson', 'catchPhrase': 'Front-line encompassing orchestration', 'bs': 'visualize interactive content'}}} 
+[DEBUG] -  2023-02-20 at 18:02:56 - post - Got response with status code = 201. Response = {
+  "name": "Sierra Medina",
+  "username": "bingram",
+  "email": "kimberlygibson@example.net",
+  "address": {
+    "street": "Peter Highway",
+    "suite": "Suite 938",
+    "city": "Reedfurt",
+    "zipcode": "26163",
+    "geo": {
+      "lat": "17.3313545",
+      "lng": "-9.582475"
+    }
+  },
+  "phone": "001-886-062-6916x1042",
+  "website": "web-61.davidson.info",
+  "company": {
+    "name": "Samantha Jackson",
+    "catchPhrase": "Front-line encompassing orchestration",
+    "bs": "visualize interactive content"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 18:02:56 - create_user - User was created 
+[INFO] -  2023-02-20 at 18:03:34 - create_user - Creating user with name='Ashley Patel' username='emiranda' email='angelrodriguez@example.net' address=Address(street='Jeffrey Lights', suite='Apt. 011', city='Amandaburgh', zipcode='79015', geo=Geo(lat='33.565340', lng='1.285318')) phone='001-289-189-2139x120' website='srv-60.haynes.biz' company=Company(name='Brian Rivera', catchPhrase='Fundamental attitude-oriented Local Area Network', bs='redefine integrated content') 
+[DEBUG] -  2023-02-20 at 18:03:34 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Ashley Patel', 'username': 'emiranda', 'email': 'angelrodriguez@example.net', 'address': {'street': 'Jeffrey Lights', 'suite': 'Apt. 011', 'city': 'Amandaburgh', 'zipcode': '79015', 'geo': {'lat': '33.565340', 'lng': '1.285318'}}, 'phone': '001-289-189-2139x120', 'website': 'srv-60.haynes.biz', 'company': {'name': 'Brian Rivera', 'catchPhrase': 'Fundamental attitude-oriented Local Area Network', 'bs': 'redefine integrated content'}}} 
+[DEBUG] -  2023-02-20 at 18:03:34 - post - Got response with status code = 201. Response = {
+  "name": "Ashley Patel",
+  "username": "emiranda",
+  "email": "angelrodriguez@example.net",
+  "address": {
+    "street": "Jeffrey Lights",
+    "suite": "Apt. 011",
+    "city": "Amandaburgh",
+    "zipcode": "79015",
+    "geo": {
+      "lat": "33.565340",
+      "lng": "1.285318"
+    }
+  },
+  "phone": "001-289-189-2139x120",
+  "website": "srv-60.haynes.biz",
+  "company": {
+    "name": "Brian Rivera",
+    "catchPhrase": "Fundamental attitude-oriented Local Area Network",
+    "bs": "redefine integrated content"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 18:03:34 - create_user - User was created 
+[INFO] -  2023-02-20 at 18:04:25 - create_user - Creating user with name='Larry Vasquez' username='allison37' email='amanda82@example.net' address=Address(street='Wendy Route', suite='Apt. 500', city='Matthewfort', zipcode='27458', geo=Geo(lat='-55.5103915', lng='129.595502')) phone='+1-826-740-4462x16897' website='web-71.delgado-foster.org' company=Company(name='Austin House', catchPhrase='Organized responsive protocol', bs='iterate scalable e-tailers') 
+[DEBUG] -  2023-02-20 at 18:04:25 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Larry Vasquez', 'username': 'allison37', 'email': 'amanda82@example.net', 'address': {'street': 'Wendy Route', 'suite': 'Apt. 500', 'city': 'Matthewfort', 'zipcode': '27458', 'geo': {'lat': '-55.5103915', 'lng': '129.595502'}}, 'phone': '+1-826-740-4462x16897', 'website': 'web-71.delgado-foster.org', 'company': {'name': 'Austin House', 'catchPhrase': 'Organized responsive protocol', 'bs': 'iterate scalable e-tailers'}}} 
+[DEBUG] -  2023-02-20 at 18:04:25 - post - Got response with status code = 201. Response = {
+  "name": "Larry Vasquez",
+  "username": "allison37",
+  "email": "amanda82@example.net",
+  "address": {
+    "street": "Wendy Route",
+    "suite": "Apt. 500",
+    "city": "Matthewfort",
+    "zipcode": "27458",
+    "geo": {
+      "lat": "-55.5103915",
+      "lng": "129.595502"
+    }
+  },
+  "phone": "+1-826-740-4462x16897",
+  "website": "web-71.delgado-foster.org",
+  "company": {
+    "name": "Austin House",
+    "catchPhrase": "Organized responsive protocol",
+    "bs": "iterate scalable e-tailers"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 18:04:25 - create_user - User was created 
+[INFO] -  2023-02-20 at 18:05:09 - create_user - Creating user with name='Brian Bailey' username='davidowens' email='donald26@example.net' address=Address(street='Schmidt Ports', suite='Apt. 354', city='Dunnfurt', zipcode='40622', geo=Geo(lat='64.2754785', lng='3.835105')) phone='776.487.9272x2399' website='lt-40.hoffman-howard.org' company=Company(name='Jennifer Williams', catchPhrase='Polarized analyzing groupware', bs='whiteboard viral niches') 
+[DEBUG] -  2023-02-20 at 18:05:09 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Brian Bailey', 'username': 'davidowens', 'email': 'donald26@example.net', 'address': {'street': 'Schmidt Ports', 'suite': 'Apt. 354', 'city': 'Dunnfurt', 'zipcode': '40622', 'geo': {'lat': '64.2754785', 'lng': '3.835105'}}, 'phone': '776.487.9272x2399', 'website': 'lt-40.hoffman-howard.org', 'company': {'name': 'Jennifer Williams', 'catchPhrase': 'Polarized analyzing groupware', 'bs': 'whiteboard viral niches'}}} 
+[DEBUG] -  2023-02-20 at 18:05:09 - post - Got response with status code = 201. Response = {
+  "name": "Brian Bailey",
+  "username": "davidowens",
+  "email": "donald26@example.net",
+  "address": {
+    "street": "Schmidt Ports",
+    "suite": "Apt. 354",
+    "city": "Dunnfurt",
+    "zipcode": "40622",
+    "geo": {
+      "lat": "64.2754785",
+      "lng": "3.835105"
+    }
+  },
+  "phone": "776.487.9272x2399",
+  "website": "lt-40.hoffman-howard.org",
+  "company": {
+    "name": "Jennifer Williams",
+    "catchPhrase": "Polarized analyzing groupware",
+    "bs": "whiteboard viral niches"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 18:05:09 - create_user - User was created 
+[INFO] -  2023-02-20 at 18:05:52 - create_user - Creating user with name='Alejandro Clark' username='curtisreginald' email='wwalker@example.net' address=Address(street='Michael Points', suite='Suite 017', city='Taylorstad', zipcode='99938', geo=Geo(lat='73.3294535', lng='71.571654')) phone='(100)119-4956' website='desktop-63.kirby.com' company=Company(name='Susan Sweeney', catchPhrase='Down-sized even-keeled architecture', bs='extend viral solutions') 
+[DEBUG] -  2023-02-20 at 18:05:52 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Alejandro Clark', 'username': 'curtisreginald', 'email': 'wwalker@example.net', 'address': {'street': 'Michael Points', 'suite': 'Suite 017', 'city': 'Taylorstad', 'zipcode': '99938', 'geo': {'lat': '73.3294535', 'lng': '71.571654'}}, 'phone': '(100)119-4956', 'website': 'desktop-63.kirby.com', 'company': {'name': 'Susan Sweeney', 'catchPhrase': 'Down-sized even-keeled architecture', 'bs': 'extend viral solutions'}}} 
+[DEBUG] -  2023-02-20 at 18:05:52 - post - Got response with status code = 201. Response = {
+  "name": "Alejandro Clark",
+  "username": "curtisreginald",
+  "email": "wwalker@example.net",
+  "address": {
+    "street": "Michael Points",
+    "suite": "Suite 017",
+    "city": "Taylorstad",
+    "zipcode": "99938",
+    "geo": {
+      "lat": "73.3294535",
+      "lng": "71.571654"
+    }
+  },
+  "phone": "(100)119-4956",
+  "website": "desktop-63.kirby.com",
+  "company": {
+    "name": "Susan Sweeney",
+    "catchPhrase": "Down-sized even-keeled architecture",
+    "bs": "extend viral solutions"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 18:05:52 - create_user - User was created 
+[INFO] -  2023-02-20 at 18:10:02 - create_user - Creating user with name='Steven Baker' username='atran' email='reedtommy@example.net' address=Address(street='Tina Fields', suite='Suite 491', city='East Travis', zipcode='37840', geo=Geo(lat='-26.5539345', lng='62.618146')) phone='001-375-575-4352' website='desktop-79.campbell-baker.org' company=Company(name='Dennis Flores', catchPhrase='Versatile 4thgeneration emulation', bs='enhance granular users') 
+[DEBUG] -  2023-02-20 at 18:10:02 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Steven Baker', 'username': 'atran', 'email': 'reedtommy@example.net', 'address': {'street': 'Tina Fields', 'suite': 'Suite 491', 'city': 'East Travis', 'zipcode': '37840', 'geo': {'lat': '-26.5539345', 'lng': '62.618146'}}, 'phone': '001-375-575-4352', 'website': 'desktop-79.campbell-baker.org', 'company': {'name': 'Dennis Flores', 'catchPhrase': 'Versatile 4thgeneration emulation', 'bs': 'enhance granular users'}}} 
+[DEBUG] -  2023-02-20 at 18:10:02 - post - Got response with status code = 201. Response = {
+  "name": "Steven Baker",
+  "username": "atran",
+  "email": "reedtommy@example.net",
+  "address": {
+    "street": "Tina Fields",
+    "suite": "Suite 491",
+    "city": "East Travis",
+    "zipcode": "37840",
+    "geo": {
+      "lat": "-26.5539345",
+      "lng": "62.618146"
+    }
+  },
+  "phone": "001-375-575-4352",
+  "website": "desktop-79.campbell-baker.org",
+  "company": {
+    "name": "Dennis Flores",
+    "catchPhrase": "Versatile 4thgeneration emulation",
+    "bs": "enhance granular users"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-20 at 18:10:02 - create_user - User was created 
+[INFO] -  2023-02-21 at 11:44:23 - create_user - Creating user with name='Margaret Green' username='peckteresa' email='matthewrubio@example.com' address=Address(street='Bailey Well', suite='Apt. 112', city='Lisaton', zipcode='29578', geo=Geo(lat='73.781167', lng='-135.453617')) phone='747-569-6811' website='db-31.gutierrez.biz' company=Company(name='Kayla Mitchell', catchPhrase='Face-to-face high-level system engine', bs='utilize user-centric e-business') 
+[DEBUG] -  2023-02-21 at 11:44:23 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Margaret Green', 'username': 'peckteresa', 'email': 'matthewrubio@example.com', 'address': {'street': 'Bailey Well', 'suite': 'Apt. 112', 'city': 'Lisaton', 'zipcode': '29578', 'geo': {'lat': '73.781167', 'lng': '-135.453617'}}, 'phone': '747-569-6811', 'website': 'db-31.gutierrez.biz', 'company': {'name': 'Kayla Mitchell', 'catchPhrase': 'Face-to-face high-level system engine', 'bs': 'utilize user-centric e-business'}}} 
+[DEBUG] -  2023-02-21 at 11:44:24 - post - Got response with status code = 201. Response = {
+  "name": "Margaret Green",
+  "username": "peckteresa",
+  "email": "matthewrubio@example.com",
+  "address": {
+    "street": "Bailey Well",
+    "suite": "Apt. 112",
+    "city": "Lisaton",
+    "zipcode": "29578",
+    "geo": {
+      "lat": "73.781167",
+      "lng": "-135.453617"
+    }
+  },
+  "phone": "747-569-6811",
+  "website": "db-31.gutierrez.biz",
+  "company": {
+    "name": "Kayla Mitchell",
+    "catchPhrase": "Face-to-face high-level system engine",
+    "bs": "utilize user-centric e-business"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-21 at 11:44:24 - create_user - User was created 
+[INFO] -  2023-02-21 at 11:47:09 - create_user - Creating user with name='Dennis Jones' username='john16' email='michaelhanson@example.org' address=Address(street='Amy Knolls', suite='Suite 153', city='Kristenside', zipcode='69974', geo=Geo(lat='-50.680180', lng='-91.024177')) phone='+1-745-029-8287x695' website='laptop-47.jennings.com' company=Company(name='Lee Hansen', catchPhrase='Fully-configurable methodical solution', bs='empower synergistic platforms') 
+[DEBUG] -  2023-02-21 at 11:47:09 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Dennis Jones', 'username': 'john16', 'email': 'michaelhanson@example.org', 'address': {'street': 'Amy Knolls', 'suite': 'Suite 153', 'city': 'Kristenside', 'zipcode': '69974', 'geo': {'lat': '-50.680180', 'lng': '-91.024177'}}, 'phone': '+1-745-029-8287x695', 'website': 'laptop-47.jennings.com', 'company': {'name': 'Lee Hansen', 'catchPhrase': 'Fully-configurable methodical solution', 'bs': 'empower synergistic platforms'}}} 
+[DEBUG] -  2023-02-21 at 11:47:09 - post - Got response with status code = 201. Response = {
+  "name": "Dennis Jones",
+  "username": "john16",
+  "email": "michaelhanson@example.org",
+  "address": {
+    "street": "Amy Knolls",
+    "suite": "Suite 153",
+    "city": "Kristenside",
+    "zipcode": "69974",
+    "geo": {
+      "lat": "-50.680180",
+      "lng": "-91.024177"
+    }
+  },
+  "phone": "+1-745-029-8287x695",
+  "website": "laptop-47.jennings.com",
+  "company": {
+    "name": "Lee Hansen",
+    "catchPhrase": "Fully-configurable methodical solution",
+    "bs": "empower synergistic platforms"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-21 at 11:47:09 - create_user - User was created 
+[INFO] -  2023-02-21 at 11:47:53 - create_user - Creating user with name='Robert Kelley' username='tracy56' email='kgarza@example.com' address=Address(street='Tammy Forge', suite='Apt. 986', city='Jillmouth', zipcode='71980', geo=Geo(lat='43.0829615', lng='179.321149')) phone='234.924.8022' website='srv-50.smith-ramsey.org' company=Company(name='Kayla Gonzalez', catchPhrase='Programmable non-volatile core', bs='disintermediate next-generation interfaces') 
+[DEBUG] -  2023-02-21 at 11:47:53 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Robert Kelley', 'username': 'tracy56', 'email': 'kgarza@example.com', 'address': {'street': 'Tammy Forge', 'suite': 'Apt. 986', 'city': 'Jillmouth', 'zipcode': '71980', 'geo': {'lat': '43.0829615', 'lng': '179.321149'}}, 'phone': '234.924.8022', 'website': 'srv-50.smith-ramsey.org', 'company': {'name': 'Kayla Gonzalez', 'catchPhrase': 'Programmable non-volatile core', 'bs': 'disintermediate next-generation interfaces'}}} 
+[DEBUG] -  2023-02-21 at 11:47:53 - post - Got response with status code = 201. Response = {
+  "name": "Robert Kelley",
+  "username": "tracy56",
+  "email": "kgarza@example.com",
+  "address": {
+    "street": "Tammy Forge",
+    "suite": "Apt. 986",
+    "city": "Jillmouth",
+    "zipcode": "71980",
+    "geo": {
+      "lat": "43.0829615",
+      "lng": "179.321149"
+    }
+  },
+  "phone": "234.924.8022",
+  "website": "srv-50.smith-ramsey.org",
+  "company": {
+    "name": "Kayla Gonzalez",
+    "catchPhrase": "Programmable non-volatile core",
+    "bs": "disintermediate next-generation interfaces"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-21 at 11:47:53 - create_user - User was created 
+[INFO] -  2023-02-21 at 11:48:42 - create_user - Creating user with name='Danielle Barajas' username='daviddiaz' email='patricia91@example.com' address=Address(street='Velez Trail', suite='Suite 237', city='West Evan', zipcode='79098', geo=Geo(lat='-0.1068995', lng='-43.069705')) phone='+1-214-912-1874x5473' website='lt-68.miller.com' company=Company(name='Mr. Kevin Jones', catchPhrase='Stand-alone intermediate migration', bs='implement next-generation systems') 
+[DEBUG] -  2023-02-21 at 11:48:42 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Danielle Barajas', 'username': 'daviddiaz', 'email': 'patricia91@example.com', 'address': {'street': 'Velez Trail', 'suite': 'Suite 237', 'city': 'West Evan', 'zipcode': '79098', 'geo': {'lat': '-0.1068995', 'lng': '-43.069705'}}, 'phone': '+1-214-912-1874x5473', 'website': 'lt-68.miller.com', 'company': {'name': 'Mr. Kevin Jones', 'catchPhrase': 'Stand-alone intermediate migration', 'bs': 'implement next-generation systems'}}} 
+[DEBUG] -  2023-02-21 at 11:48:42 - post - Got response with status code = 201. Response = {
+  "name": "Danielle Barajas",
+  "username": "daviddiaz",
+  "email": "patricia91@example.com",
+  "address": {
+    "street": "Velez Trail",
+    "suite": "Suite 237",
+    "city": "West Evan",
+    "zipcode": "79098",
+    "geo": {
+      "lat": "-0.1068995",
+      "lng": "-43.069705"
+    }
+  },
+  "phone": "+1-214-912-1874x5473",
+  "website": "lt-68.miller.com",
+  "company": {
+    "name": "Mr. Kevin Jones",
+    "catchPhrase": "Stand-alone intermediate migration",
+    "bs": "implement next-generation systems"
+  },
+  "id": 11
+} 
+[INFO] -  2023-02-21 at 11:48:42 - create_user - User was created 

@@ -1,0 +1,469 @@
+[INFO] -  2023-02-20 at 14:33:18 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:33:19 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 14:33:19 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 14:33:19 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:33:20 - click - Clicking on partial link text: Gallery 
+[INFO] -  2023-02-20 at 14:33:20 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:33:20 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:43:39 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:43:40 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 14:43:40 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 14:43:40 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:43:41 - click - Clicking on partial link text: Gallery 
+[INFO] -  2023-02-20 at 14:43:41 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:43:41 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:47:23 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:47:24 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 14:47:24 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 14:47:24 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:47:24 - click - Clicking on partial link text: Gallery 
+[INFO] -  2023-02-20 at 14:47:24 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:47:25 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:54:55 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:54:57 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 14:54:57 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 14:54:57 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:54:57 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:54:58 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:54:58 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:54:59 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:54:59 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:00 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:00 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:01 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:01 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:02 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:02 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:03 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:03 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:04 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:04 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:05 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:05 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:06 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:06 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 14:55:07 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:55:07 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:03:28 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 15:03:30 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 15:03:30 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 15:03:30 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:03:30 - click - Clicking on partial link text: Gallery 
+[INFO] -  2023-02-20 at 15:03:30 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 15:03:30 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:06:48 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 15:06:50 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 15:06:50 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 15:06:50 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:50 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:51 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:51 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:52 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:52 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:53 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:53 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:54 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:54 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:55 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:55 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:56 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:56 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:57 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:57 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:58 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:58 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:59 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:06:59 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 15:07:00 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 15:07:00 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:07:34 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:07:36 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 16:07:36 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 16:07:36 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:07:36 - click - Clicking on partial link text: Gallery 
+[INFO] -  2023-02-20 at 16:07:36 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:07:36 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:18:27 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:18:30 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 16:18:30 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 16:18:30 - wait_for - Waiting until <framework.ui.drivers.driver.Driver object at 0x10e7eac50> is satisfied  
+[INFO] -  2023-02-20 at 16:18:30 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:18:30 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:30:16 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:30:17 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 16:30:17 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 16:30:17 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x11102d5a0> is satisfied  
+[INFO] -  2023-02-20 at 16:30:17 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:18 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:18 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:19 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:19 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:20 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:20 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:21 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:22 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:23 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:23 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:24 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:24 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:25 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:25 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:26 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:26 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:27 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:30:27 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:30:27 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:37:14 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:37:15 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 16:37:15 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 16:37:15 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110b4fbe0> is satisfied  
+[INFO] -  2023-02-20 at 16:37:15 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:16 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:16 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:17 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:17 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:18 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:18 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:19 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:20 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:21 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:21 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:22 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:22 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:23 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:23 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:24 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:24 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:25 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:37:25 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:37:25 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:40:24 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:40:25 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 16:40:25 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 16:40:25 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x109721630> is satisfied  
+[INFO] -  2023-02-20 at 16:40:25 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:26 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:26 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:27 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:28 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:28 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:29 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:29 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:30 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:31 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:31 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:32 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:32 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:33 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:33 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:34 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:34 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:35 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:40:36 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:40:36 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:42:45 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:42:46 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 16:42:46 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 16:42:46 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1086dd5a0> is satisfied  
+[INFO] -  2023-02-20 at 16:42:46 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:47 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:47 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:48 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:48 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:49 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:49 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:50 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:51 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:52 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:52 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:53 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:53 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:54 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:54 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:55 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:55 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:56 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:42:56 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:42:56 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:45:59 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:46:00 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 16:46:00 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 16:46:00 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10f72bb50> is satisfied  
+[INFO] -  2023-02-20 at 16:46:00 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:01 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:01 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:02 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:02 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:03 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:03 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:04 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:05 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:06 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:06 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:07 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:07 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:08 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:08 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:09 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:09 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:10 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:46:10 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:46:10 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:48:07 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:48:08 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 16:48:08 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 16:48:08 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110effc70> is satisfied  
+[INFO] -  2023-02-20 at 16:48:08 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:09 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:09 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:10 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:10 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:11 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:11 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:12 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:13 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:14 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:14 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:15 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:15 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:16 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:16 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:17 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:17 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:18 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:48:18 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:48:19 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:50:31 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:50:32 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 16:50:32 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 16:50:32 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1128ffc70> is satisfied  
+[INFO] -  2023-02-20 at 16:50:32 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:33 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:33 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:34 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:34 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:35 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:35 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:36 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:37 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:38 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:38 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:39 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:39 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:40 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:40 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:41 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:41 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:42 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:50:42 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:50:43 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:53:37 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:53:39 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 16:53:39 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 16:53:39 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10bb73be0> is satisfied  
+[INFO] -  2023-02-20 at 16:53:39 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:39 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:40 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:40 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:41 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:41 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:42 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:42 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:44 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:44 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:45 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:45 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:46 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:46 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:47 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:47 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:48 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:48 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 16:53:49 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:53:49 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:01:35 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:01:37 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 17:01:37 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 17:01:37 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1128115a0> is satisfied  
+[INFO] -  2023-02-20 at 17:01:37 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:37 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:38 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:38 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:39 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:39 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:40 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:40 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:42 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:42 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:43 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:43 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:44 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:44 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:45 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:45 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:46 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:46 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:01:47 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:01:47 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:03:09 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:03:10 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 17:03:10 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 17:03:10 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x109a495a0> is satisfied  
+[INFO] -  2023-02-20 at 17:03:10 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:11 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:11 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:12 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:12 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:13 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:13 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:14 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:15 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:16 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:16 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:17 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:17 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:18 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:18 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:19 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:19 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:20 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:03:20 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:03:20 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:11:08 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:11:10 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 17:11:10 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 17:11:10 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10fe1f5b0> is satisfied  
+[INFO] -  2023-02-20 at 17:11:10 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:10 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:11 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:11 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:12 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:12 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:13 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:13 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:15 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:15 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:16 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:16 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:17 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:17 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:18 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:18 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:19 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:19 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:11:20 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:11:20 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:22:03 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:22:04 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 17:22:04 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 17:22:04 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1121d75b0> is satisfied  
+[INFO] -  2023-02-20 at 17:22:04 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:05 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:05 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:06 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:06 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:07 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:07 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:08 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:08 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:09 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:09 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:10 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:10 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:11 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:11 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:12 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:12 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:13 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:13 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:14 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:22:14 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:22:15 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:27:08 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:27:09 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 17:27:09 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 17:27:09 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x111ea3ac0> is satisfied  
+[INFO] -  2023-02-20 at 17:27:09 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:27:09 - click - Clicking on partial link text: Gallery 
+[INFO] -  2023-02-20 at 17:27:09 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:27:10 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:35:23 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:35:24 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 17:35:24 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 17:35:24 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10b1cfac0> is satisfied  
+[INFO] -  2023-02-20 at 17:35:24 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:25 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:25 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:26 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:26 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:27 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:27 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:28 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:28 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:29 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:30 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:30 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:31 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:31 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:32 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:32 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:33 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:33 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:34 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:34 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:35:35 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:35:35 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:36:51 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:36:52 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 17:36:52 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 17:36:52 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1096da050> is satisfied  
+[INFO] -  2023-02-20 at 17:36:52 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:36:52 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:37:40 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:37:42 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 17:37:42 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 17:37:42 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x11157fb50> is satisfied  
+[INFO] -  2023-02-20 at 17:37:42 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:37:43 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:37:43 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:37:44 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:37:44 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:37:45 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:37:45 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:37:46 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:37:46 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:37:46 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:49:15 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:49:17 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-20 at 17:49:17 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-20 at 17:49:17 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x11057f9a0> is satisfied  
+[INFO] -  2023-02-20 at 17:49:17 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-20 at 17:49:17 - click - Clicking on partial link text: Gallery 
+[INFO] -  2023-02-20 at 17:49:17 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:49:17 - close - Closing driver 
+[INFO] -  2023-02-21 at 11:49:21 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-21 at 11:49:22 - click_on_gallery - Clicking on  gallery 
+[INFO] -  2023-02-21 at 11:49:22 - click - Waiting 10 seconds until element partial link text: Gallery is clickable 
+[INFO] -  2023-02-21 at 11:49:22 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10e363ac0> is satisfied  
+[INFO] -  2023-02-21 at 11:49:22 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:23 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:23 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:24 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:24 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:25 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:25 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:26 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:26 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:27 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:27 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:28 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:28 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:29 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:29 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:30 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:30 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:31 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:31 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:32 - find_element - Finding element with partial link text:Gallery 
+[INFO] -  2023-02-21 at 11:49:33 - screenshot - Making screenshot 
+[INFO] -  2023-02-21 at 11:49:33 - close - Closing driver 

@@ -1,0 +1,1326 @@
+[INFO] -  2023-02-20 at 14:26:56 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 14:26:56 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 14:26:56 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 14:26:56 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 14:32:28 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 14:32:28 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 14:32:28 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 14:32:28 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 14:42:58 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 14:42:58 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 14:42:58 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 14:42:58 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 14:46:24 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 14:46:24 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 14:46:24 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 14:46:24 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 14:54:07 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 14:54:07 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 14:54:07 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 14:54:07 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 15:02:40 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 15:02:40 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 15:02:40 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 15:02:40 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 15:06:00 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 15:06:00 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 15:06:01 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 15:06:01 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 16:06:57 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 16:06:57 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:06:57 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 16:06:57 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 16:17:44 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 16:17:44 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:17:44 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 16:17:44 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 16:27:30 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 16:27:30 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:27:30 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 16:27:30 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 16:29:23 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 16:29:23 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:29:23 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 16:29:23 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 16:36:32 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 16:36:32 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:36:32 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 16:36:32 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 16:39:32 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 16:39:32 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:39:32 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 16:39:32 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 16:41:53 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 16:41:53 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:41:53 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 16:41:53 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 16:45:07 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 16:45:07 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:45:07 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 16:45:07 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 16:47:25 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 16:47:25 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:47:25 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 16:47:25 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 16:49:48 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 16:49:48 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:49:48 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 16:49:48 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 16:52:54 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 16:52:54 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:52:54 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 16:52:54 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:00:42 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:00:42 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:00:42 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:00:42 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:02:16 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:02:16 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:02:16 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:02:16 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:10:13 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:10:13 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:10:13 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:10:13 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:19:58 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:19:58 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:19:58 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:19:58 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:21:14 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:21:14 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:21:14 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:21:14 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:25:08 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:25:08 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:25:08 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:25:08 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:26:29 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:26:29 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:26:29 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:26:29 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:31:17 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:31:17 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:31:18 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:31:18 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:33:01 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:33:01 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:33:01 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:33:01 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:34:45 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:34:45 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:34:46 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:34:46 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:36:13 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:36:13 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:36:13 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:36:13 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:37:03 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:37:03 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:37:03 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:37:03 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:48:39 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:48:39 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:48:39 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:48:39 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:49:42 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:49:42 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:49:43 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:49:43 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:51:02 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:51:02 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:51:02 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:51:02 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:52:19 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:52:19 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:52:19 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:52:19 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:52:58 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:52:58 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:52:58 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:52:58 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:54:54 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:54:54 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:54:54 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:54:54 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:55:41 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:55:41 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:55:41 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:55:41 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:56:50 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:56:50 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:56:50 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:56:50 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:58:51 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:58:51 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:58:51 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:58:51 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 17:59:18 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 17:59:18 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:59:18 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 17:59:18 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 18:01:40 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 18:01:40 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:01:40 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 18:01:40 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 18:02:58 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 18:02:58 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:02:58 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 18:02:58 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 18:03:36 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 18:03:36 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:03:36 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 18:03:36 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 18:04:27 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 18:04:27 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:04:27 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 18:04:27 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 18:05:11 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 18:05:11 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:05:11 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 18:05:11 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 18:05:54 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 18:05:54 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:05:54 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 18:05:54 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-20 at 18:10:04 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-20 at 18:10:04 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:10:04 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-20 at 18:10:04 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-21 at 11:44:26 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-21 at 11:44:26 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-21 at 11:44:26 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-21 at 11:44:26 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-21 at 11:47:11 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-21 at 11:47:11 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-21 at 11:47:11 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-21 at 11:47:11 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-21 at 11:47:55 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-21 at 11:47:55 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-21 at 11:47:55 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-21 at 11:47:55 - get_user - Successfully retrieved user 
+[INFO] -  2023-02-21 at 11:48:44 - get_user - Getting user with 4 
+[DEBUG] -  2023-02-21 at 11:48:44 - get - Sending GET response to https://jsonplaceholder.typicode.com/users/4 with parameters {} 
+[DEBUG] -  2023-02-21 at 11:48:44 - get - Got response with status code = 200. Response = {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+} 
+[INFO] -  2023-02-21 at 11:48:44 - get_user - Successfully retrieved user 

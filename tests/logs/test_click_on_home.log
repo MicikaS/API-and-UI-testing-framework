@@ -1,0 +1,210 @@
+[INFO] -  2023-02-20 at 14:27:15 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:27:16 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 14:27:16 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 14:27:16 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:27:17 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:32:48 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:32:50 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 14:32:50 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 14:32:50 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:32:50 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 14:32:50 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:43:18 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:43:20 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 14:43:20 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 14:43:20 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:43:20 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 14:43:20 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:46:54 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:46:55 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 14:46:55 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 14:46:55 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:46:55 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 14:46:55 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:54:26 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:54:27 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 14:54:27 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 14:54:27 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:54:27 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 14:54:27 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:02:59 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 15:03:00 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 15:03:00 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 15:03:00 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 15:03:01 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 15:03:01 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:06:19 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 15:06:20 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 15:06:20 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 15:06:20 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 15:06:21 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 15:06:21 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:07:16 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:07:17 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 16:07:17 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 16:07:17 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:07:18 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 16:07:18 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:18:05 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:18:06 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 16:18:06 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 16:18:06 - wait_for - Waiting until <framework.ui.drivers.driver.Driver object at 0x10e7eb9d0> is satisfied  
+[INFO] -  2023-02-20 at 16:18:06 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:18:07 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:27:51 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:27:53 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 16:27:53 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 16:27:53 - wait_for - Waiting until <framework.ui.drivers.driver.Driver object at 0x1054421d0> is satisfied  
+[INFO] -  2023-02-20 at 16:27:53 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:27:53 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:29:44 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:29:46 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 16:29:46 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 16:29:46 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110f2feb0> is satisfied  
+[INFO] -  2023-02-20 at 16:29:46 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:29:46 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 16:29:46 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:36:52 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:36:54 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 16:36:54 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 16:36:54 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110a53eb0> is satisfied  
+[INFO] -  2023-02-20 at 16:36:54 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:36:54 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 16:36:54 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:39:52 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:39:54 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 16:39:54 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 16:39:54 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x109627f40> is satisfied  
+[INFO] -  2023-02-20 at 16:39:54 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:39:54 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 16:39:54 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:42:14 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:42:15 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 16:42:15 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 16:42:15 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1085e3eb0> is satisfied  
+[INFO] -  2023-02-20 at 16:42:15 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:42:15 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 16:42:15 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:45:28 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:45:29 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 16:45:29 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 16:45:29 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10f62bf40> is satisfied  
+[INFO] -  2023-02-20 at 16:45:29 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:45:29 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 16:45:29 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:47:45 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:47:47 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 16:47:47 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 16:47:47 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110dfff40> is satisfied  
+[INFO] -  2023-02-20 at 16:47:47 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:47:47 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 16:47:47 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:50:08 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:50:10 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 16:50:10 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 16:50:10 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x112807f40> is satisfied  
+[INFO] -  2023-02-20 at 16:50:10 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:50:10 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 16:50:10 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:53:15 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:53:16 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 16:53:16 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 16:53:16 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10ba6feb0> is satisfied  
+[INFO] -  2023-02-20 at 16:53:16 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:53:17 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 16:53:17 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:01:03 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:01:05 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:01:05 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:01:05 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x112717eb0> is satisfied  
+[INFO] -  2023-02-20 at 17:01:05 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:01:05 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 17:01:05 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:02:36 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:02:38 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:02:38 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:02:38 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10994beb0> is satisfied  
+[INFO] -  2023-02-20 at 17:02:38 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:02:38 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 17:02:38 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:10:34 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:10:35 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:10:35 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:10:35 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10fd23d90> is satisfied  
+[INFO] -  2023-02-20 at 17:10:35 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:10:36 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 17:10:36 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:20:18 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:20:20 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:20:20 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:20:20 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1039b8f70> is satisfied  
+[INFO] -  2023-02-20 at 17:20:20 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:20:20 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:21:33 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:21:35 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:21:35 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:21:35 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1120dbd90> is satisfied  
+[INFO] -  2023-02-20 at 17:21:35 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:21:35 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 17:21:35 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:25:26 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:25:28 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:25:28 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:25:28 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x104d38f70> is satisfied  
+[INFO] -  2023-02-20 at 17:25:28 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:25:28 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:26:49 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:26:50 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:26:50 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:26:50 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x111da3d90> is satisfied  
+[INFO] -  2023-02-20 at 17:26:50 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:26:50 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 17:26:50 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:31:37 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:31:39 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:31:39 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:31:39 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10817af80> is satisfied  
+[INFO] -  2023-02-20 at 17:31:39 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:31:39 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:35:04 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:35:06 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:35:06 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:35:06 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10b0cfd90> is satisfied  
+[INFO] -  2023-02-20 at 17:35:06 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:35:06 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 17:35:06 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:36:32 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:36:34 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:36:34 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:36:34 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1096a7d90> is satisfied  
+[INFO] -  2023-02-20 at 17:36:34 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:36:34 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 17:36:34 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:37:21 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:37:23 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:37:23 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:37:23 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x11147fe20> is satisfied  
+[INFO] -  2023-02-20 at 17:37:23 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:37:23 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 17:37:23 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:48:57 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:48:58 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 17:48:58 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 17:48:58 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110483c70> is satisfied  
+[INFO] -  2023-02-20 at 17:48:58 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:48:59 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 17:48:59 - close - Closing driver 
+[INFO] -  2023-02-20 at 18:06:12 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 18:06:14 - click_on_home - Clicking on home 
+[INFO] -  2023-02-20 at 18:06:14 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-20 at 18:06:14 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110a12a70> is satisfied  
+[INFO] -  2023-02-20 at 18:06:14 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 18:06:14 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-20 at 18:06:14 - close - Closing driver 
+[INFO] -  2023-02-21 at 11:49:02 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-21 at 11:49:04 - click_on_home - Clicking on home 
+[INFO] -  2023-02-21 at 11:49:04 - click - Waiting 10 seconds until element partial link text: Home is clickable 
+[INFO] -  2023-02-21 at 11:49:04 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10e263d90> is satisfied  
+[INFO] -  2023-02-21 at 11:49:04 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-21 at 11:49:04 - click - Clicking on partial link text: Home 
+[INFO] -  2023-02-21 at 11:49:04 - close - Closing driver 

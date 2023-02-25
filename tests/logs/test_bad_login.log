@@ -1,0 +1,712 @@
+[INFO] -  2023-02-20 at 14:33:28 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 14:33:30 - login - Starting login 
+[INFO] -  2023-02-20 at 14:33:30 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 14:33:30 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 14:33:30 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 14:33:30 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 14:33:30 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 14:33:30 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 14:33:30 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 14:33:30 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 14:33:30 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 14:33:30 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 14:33:30 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 14:33:30 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 14:33:30 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 14:33:30 - text - Getting text 
+[INFO] -  2023-02-20 at 14:33:30 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 14:33:30 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 14:33:30 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:33:31 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:43:49 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 14:43:51 - login - Starting login 
+[INFO] -  2023-02-20 at 14:43:51 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 14:43:51 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 14:43:51 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 14:43:51 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 14:43:51 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 14:43:51 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 14:43:51 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 14:43:51 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 14:43:51 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 14:43:51 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 14:43:51 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 14:43:51 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 14:43:51 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 14:43:51 - text - Getting text 
+[INFO] -  2023-02-20 at 14:43:51 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 14:43:51 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 14:43:51 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 14:43:51 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 14:43:51 - text - Getting text 
+[INFO] -  2023-02-20 at 14:43:51 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 14:43:51 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 14:43:51 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:43:51 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:47:33 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 14:47:35 - login - Starting login 
+[INFO] -  2023-02-20 at 14:47:35 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 14:47:35 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 14:47:35 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 14:47:35 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 14:47:35 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 14:47:35 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 14:47:35 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 14:47:35 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 14:47:35 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 14:47:35 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 14:47:35 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 14:47:35 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 14:47:35 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 14:47:35 - text - Getting text 
+[INFO] -  2023-02-20 at 14:47:35 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 14:47:35 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 14:47:35 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 14:47:35 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 14:47:35 - text - Getting text 
+[INFO] -  2023-02-20 at 14:47:35 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 14:47:35 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 14:47:35 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:47:35 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:55:15 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 14:55:17 - login - Starting login 
+[INFO] -  2023-02-20 at 14:55:17 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 14:55:17 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 14:55:17 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 14:55:17 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 14:55:17 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 14:55:17 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 14:55:17 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 14:55:17 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 14:55:17 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 14:55:17 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 14:55:17 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 14:55:17 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 14:55:17 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 14:55:17 - text - Getting text 
+[INFO] -  2023-02-20 at 14:55:17 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 14:55:17 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 14:55:17 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 14:55:17 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 14:55:17 - text - Getting text 
+[INFO] -  2023-02-20 at 14:55:17 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 14:55:17 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 14:55:17 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:55:17 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:03:38 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 15:03:40 - login - Starting login 
+[INFO] -  2023-02-20 at 15:03:40 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 15:03:40 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 15:03:40 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 15:03:40 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 15:03:40 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 15:03:40 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 15:03:40 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 15:03:40 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 15:03:40 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 15:03:40 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 15:03:40 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 15:03:41 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 15:03:41 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 15:03:41 - text_ - Getting text 
+[INFO] -  2023-02-20 at 15:03:41 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 15:03:41 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 15:03:41 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 15:03:41 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 15:03:41 - text_ - Getting text 
+[INFO] -  2023-02-20 at 15:03:41 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 15:03:41 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 15:03:41 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 15:03:41 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:07:09 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 15:07:11 - login - Starting login 
+[INFO] -  2023-02-20 at 15:07:11 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 15:07:11 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 15:07:11 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 15:07:11 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 15:07:11 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 15:07:11 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 15:07:11 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 15:07:11 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 15:07:11 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 15:07:11 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 15:07:11 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 15:07:12 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 15:07:12 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 15:07:12 - text - Getting text 
+[INFO] -  2023-02-20 at 15:07:12 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 15:07:12 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 15:07:12 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 15:07:12 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 15:07:12 - text - Getting text 
+[INFO] -  2023-02-20 at 15:07:12 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 15:07:12 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 15:07:12 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:07:45 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 16:07:46 - login - Starting login 
+[INFO] -  2023-02-20 at 16:07:46 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 16:07:46 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 16:07:46 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 16:07:47 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:07:47 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 16:07:47 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 16:07:47 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 16:07:47 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:07:47 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 16:07:47 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 16:07:47 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:07:47 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:07:47 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:07:47 - text - Getting text 
+[INFO] -  2023-02-20 at 16:07:47 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:07:47 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:07:47 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:07:47 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:18:40 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 16:18:41 - login - Starting login 
+[INFO] -  2023-02-20 at 16:18:41 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 16:18:41 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 16:18:41 - wait_for - Waiting until <framework.ui.drivers.driver.Driver object at 0x10e809840> is satisfied  
+[INFO] -  2023-02-20 at 16:18:41 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:18:41 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:30:36 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 16:30:38 - login - Starting login 
+[INFO] -  2023-02-20 at 16:30:38 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 16:30:38 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 16:30:38 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110f2feb0> is satisfied  
+[INFO] -  2023-02-20 at 16:30:38 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 16:30:38 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:30:38 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 16:30:38 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 16:30:38 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110f5c280> is satisfied  
+[INFO] -  2023-02-20 at 16:30:38 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 16:30:38 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:30:38 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 16:30:38 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 16:30:38 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110f5c310> is satisfied  
+[INFO] -  2023-02-20 at 16:30:38 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:30:38 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:30:38 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:30:38 - text - Getting text 
+[INFO] -  2023-02-20 at 16:30:38 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:30:38 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110f5c4c0> is satisfied  
+[INFO] -  2023-02-20 at 16:30:38 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:30:38 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 16:30:38 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:30:38 - text - Getting text 
+[INFO] -  2023-02-20 at 16:30:38 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:30:38 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110f5c3a0> is satisfied  
+[INFO] -  2023-02-20 at 16:30:38 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:30:38 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:37:34 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 16:37:36 - login - Starting login 
+[INFO] -  2023-02-20 at 16:37:36 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 16:37:36 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 16:37:36 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110b4f640> is satisfied  
+[INFO] -  2023-02-20 at 16:37:36 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 16:37:36 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:37:36 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 16:37:36 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 16:37:36 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110a85240> is satisfied  
+[INFO] -  2023-02-20 at 16:37:36 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 16:37:36 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:37:36 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 16:37:36 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 16:37:36 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110a852d0> is satisfied  
+[INFO] -  2023-02-20 at 16:37:36 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:37:36 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:37:36 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:37:36 - text - Getting text 
+[INFO] -  2023-02-20 at 16:37:36 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:37:36 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110a85480> is satisfied  
+[INFO] -  2023-02-20 at 16:37:36 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:37:36 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:37:36 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:40:44 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 16:40:46 - login - Starting login 
+[INFO] -  2023-02-20 at 16:40:46 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 16:40:46 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 16:40:46 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x109627f40> is satisfied  
+[INFO] -  2023-02-20 at 16:40:46 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 16:40:46 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:40:46 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 16:40:46 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 16:40:46 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x109668310> is satisfied  
+[INFO] -  2023-02-20 at 16:40:46 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 16:40:46 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:40:46 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 16:40:46 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 16:40:46 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1096683a0> is satisfied  
+[INFO] -  2023-02-20 at 16:40:46 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:40:47 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:40:47 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:40:47 - text - Getting text 
+[INFO] -  2023-02-20 at 16:40:47 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:40:47 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x109668550> is satisfied  
+[INFO] -  2023-02-20 at 16:40:47 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:40:47 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:40:47 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:43:05 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 16:43:07 - login - Starting login 
+[INFO] -  2023-02-20 at 16:43:07 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 16:43:07 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 16:43:07 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1085e3eb0> is satisfied  
+[INFO] -  2023-02-20 at 16:43:07 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 16:43:07 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:43:07 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 16:43:07 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 16:43:07 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10862c280> is satisfied  
+[INFO] -  2023-02-20 at 16:43:07 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 16:43:07 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:43:07 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 16:43:07 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 16:43:07 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10862c310> is satisfied  
+[INFO] -  2023-02-20 at 16:43:07 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:43:07 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:43:07 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:43:07 - text - Getting text 
+[INFO] -  2023-02-20 at 16:43:07 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:43:07 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10862c4c0> is satisfied  
+[INFO] -  2023-02-20 at 16:43:07 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:43:07 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 16:43:07 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:43:07 - text - Getting text 
+[INFO] -  2023-02-20 at 16:43:07 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:43:07 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10862c3a0> is satisfied  
+[INFO] -  2023-02-20 at 16:43:07 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:43:07 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:46:19 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 16:46:21 - login - Starting login 
+[INFO] -  2023-02-20 at 16:46:21 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 16:46:21 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 16:46:21 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10f628820> is satisfied  
+[INFO] -  2023-02-20 at 16:46:21 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 16:46:21 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:46:21 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 16:46:21 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 16:46:21 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10f6dc550> is satisfied  
+[INFO] -  2023-02-20 at 16:46:21 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 16:46:21 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:46:21 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 16:46:21 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 16:46:21 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10f6dc5e0> is satisfied  
+[INFO] -  2023-02-20 at 16:46:21 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:46:22 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:46:22 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:46:22 - text - Getting text 
+[INFO] -  2023-02-20 at 16:46:22 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:46:22 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10f6dc790> is satisfied  
+[INFO] -  2023-02-20 at 16:46:22 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:46:22 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 16:46:22 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:46:22 - text - Getting text 
+[INFO] -  2023-02-20 at 16:46:22 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:46:22 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10f6dc670> is satisfied  
+[INFO] -  2023-02-20 at 16:46:22 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:46:22 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:48:27 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 16:48:29 - login - Starting login 
+[INFO] -  2023-02-20 at 16:48:29 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 16:48:29 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 16:48:29 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110eff6d0> is satisfied  
+[INFO] -  2023-02-20 at 16:48:29 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 16:48:29 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:48:29 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 16:48:29 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 16:48:29 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110e452d0> is satisfied  
+[INFO] -  2023-02-20 at 16:48:29 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 16:48:29 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:48:29 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 16:48:29 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 16:48:29 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110e45360> is satisfied  
+[INFO] -  2023-02-20 at 16:48:29 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:48:29 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:48:29 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:48:29 - text - Getting text 
+[INFO] -  2023-02-20 at 16:48:29 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:48:29 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110e45510> is satisfied  
+[INFO] -  2023-02-20 at 16:48:29 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:48:29 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 16:48:29 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:48:29 - text - Getting text 
+[INFO] -  2023-02-20 at 16:48:29 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:48:29 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110e453f0> is satisfied  
+[INFO] -  2023-02-20 at 16:48:29 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:48:29 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:50:51 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 16:50:53 - login - Starting login 
+[INFO] -  2023-02-20 at 16:50:53 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 16:50:53 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 16:50:53 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1128ff6d0> is satisfied  
+[INFO] -  2023-02-20 at 16:50:53 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 16:50:53 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:50:53 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 16:50:53 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 16:50:53 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1128512d0> is satisfied  
+[INFO] -  2023-02-20 at 16:50:53 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 16:50:53 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:50:53 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 16:50:53 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 16:50:53 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x112851360> is satisfied  
+[INFO] -  2023-02-20 at 16:50:53 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:50:53 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:50:53 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:50:53 - text - Getting text 
+[INFO] -  2023-02-20 at 16:50:53 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:50:53 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x112851510> is satisfied  
+[INFO] -  2023-02-20 at 16:50:53 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:50:53 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 16:50:53 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:50:53 - text - Getting text 
+[INFO] -  2023-02-20 at 16:50:53 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:50:53 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1128513f0> is satisfied  
+[INFO] -  2023-02-20 at 16:50:53 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:50:53 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:53:57 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 16:53:59 - login - Starting login 
+[INFO] -  2023-02-20 at 16:53:59 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 16:53:59 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 16:53:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10bb73640> is satisfied  
+[INFO] -  2023-02-20 at 16:53:59 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 16:53:59 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:53:59 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 16:53:59 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 16:53:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10babd240> is satisfied  
+[INFO] -  2023-02-20 at 16:53:59 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 16:53:59 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 16:53:59 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 16:53:59 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 16:53:59 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10babd2d0> is satisfied  
+[INFO] -  2023-02-20 at 16:53:59 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:54:00 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 16:54:00 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:54:00 - text - Getting text 
+[INFO] -  2023-02-20 at 16:54:00 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:54:00 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10babd480> is satisfied  
+[INFO] -  2023-02-20 at 16:54:00 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:54:00 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 16:54:00 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 16:54:00 - text - Getting text 
+[INFO] -  2023-02-20 at 16:54:00 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 16:54:00 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10babd360> is satisfied  
+[INFO] -  2023-02-20 at 16:54:00 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 16:54:00 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:01:57 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 17:01:59 - login - Starting login 
+[INFO] -  2023-02-20 at 17:01:59 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 17:01:59 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 17:01:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x112717eb0> is satisfied  
+[INFO] -  2023-02-20 at 17:01:59 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:02:00 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:02:00 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 17:02:00 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 17:02:00 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11275c280> is satisfied  
+[INFO] -  2023-02-20 at 17:02:00 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:02:00 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:02:00 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 17:02:00 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 17:02:00 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x11275c310> is satisfied  
+[INFO] -  2023-02-20 at 17:02:00 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:02:00 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:02:00 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:02:00 - text - Getting text 
+[INFO] -  2023-02-20 at 17:02:00 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:02:00 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11275c4c0> is satisfied  
+[INFO] -  2023-02-20 at 17:02:00 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:02:00 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 17:02:00 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:02:00 - text - Getting text 
+[INFO] -  2023-02-20 at 17:02:00 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:02:00 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11275c3a0> is satisfied  
+[INFO] -  2023-02-20 at 17:02:00 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:02:00 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:03:29 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 17:03:31 - login - Starting login 
+[INFO] -  2023-02-20 at 17:03:31 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 17:03:31 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 17:03:31 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10994beb0> is satisfied  
+[INFO] -  2023-02-20 at 17:03:31 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:03:31 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:03:31 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 17:03:31 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 17:03:31 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10995c280> is satisfied  
+[INFO] -  2023-02-20 at 17:03:31 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:03:31 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:03:31 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 17:03:31 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 17:03:31 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10995c310> is satisfied  
+[INFO] -  2023-02-20 at 17:03:31 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:03:32 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:03:32 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:03:32 - text - Getting text 
+[INFO] -  2023-02-20 at 17:03:32 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:03:32 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10995c4c0> is satisfied  
+[INFO] -  2023-02-20 at 17:03:32 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:03:32 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 17:03:32 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:03:32 - text - Getting text 
+[INFO] -  2023-02-20 at 17:03:32 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:03:32 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10995c3a0> is satisfied  
+[INFO] -  2023-02-20 at 17:03:32 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:03:32 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:11:29 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 17:11:30 - login - Starting login 
+[INFO] -  2023-02-20 at 17:11:30 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 17:11:30 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 17:11:30 - _get_element - Waiting 10 seconds until id: username appear 
+[INFO] -  2023-02-20 at 17:11:30 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10fd23d90> is satisfied  
+[INFO] -  2023-02-20 at 17:11:30 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:11:31 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:11:31 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 17:11:31 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 17:11:31 - _get_element - Waiting 10 seconds until id: password appear 
+[INFO] -  2023-02-20 at 17:11:31 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10fdc0160> is satisfied  
+[INFO] -  2023-02-20 at 17:11:31 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:11:31 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:11:31 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 17:11:31 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 17:11:31 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10fdc01f0> is satisfied  
+[INFO] -  2023-02-20 at 17:11:31 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:11:31 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:11:31 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:11:31 - text - Getting text 
+[INFO] -  2023-02-20 at 17:11:31 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:11:31 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10fdc03a0> is satisfied  
+[INFO] -  2023-02-20 at 17:11:31 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:11:31 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 17:11:31 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:11:31 - text - Getting text 
+[INFO] -  2023-02-20 at 17:11:31 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:11:31 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10fdc0280> is satisfied  
+[INFO] -  2023-02-20 at 17:11:31 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:11:31 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:22:22 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 17:22:24 - login - Starting login 
+[INFO] -  2023-02-20 at 17:22:24 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 17:22:24 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 17:22:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1120dbd90> is satisfied  
+[INFO] -  2023-02-20 at 17:22:24 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:22:24 - _get_element - Waiting 10 seconds until id: username appear 
+[INFO] -  2023-02-20 at 17:22:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1120dbd90> is satisfied  
+[INFO] -  2023-02-20 at 17:22:24 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:22:24 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:22:24 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 17:22:24 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 17:22:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1120f8160> is satisfied  
+[INFO] -  2023-02-20 at 17:22:24 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:22:24 - _get_element - Waiting 10 seconds until id: password appear 
+[INFO] -  2023-02-20 at 17:22:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1120f8160> is satisfied  
+[INFO] -  2023-02-20 at 17:22:24 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:22:24 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:22:24 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 17:22:24 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 17:22:24 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1120f81f0> is satisfied  
+[INFO] -  2023-02-20 at 17:22:24 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:22:24 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:22:24 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:22:24 - text - Getting text 
+[INFO] -  2023-02-20 at 17:22:24 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:22:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1120f83a0> is satisfied  
+[INFO] -  2023-02-20 at 17:22:24 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:22:24 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 17:22:24 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:22:24 - text - Getting text 
+[INFO] -  2023-02-20 at 17:22:24 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:22:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1120f8280> is satisfied  
+[INFO] -  2023-02-20 at 17:22:24 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:22:24 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:27:17 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 17:27:19 - login - Starting login 
+[INFO] -  2023-02-20 at 17:27:19 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 17:27:19 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 17:27:19 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111ea3880> is satisfied  
+[INFO] -  2023-02-20 at 17:27:19 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:27:19 - _get_element - Waiting 10 seconds until id: username appear 
+[INFO] -  2023-02-20 at 17:27:19 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111ea3880> is satisfied  
+[INFO] -  2023-02-20 at 17:27:19 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:27:19 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:27:19 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 17:27:19 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 17:27:19 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111ea3f40> is satisfied  
+[INFO] -  2023-02-20 at 17:27:19 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:27:19 - _get_element - Waiting 10 seconds until id: password appear 
+[INFO] -  2023-02-20 at 17:27:19 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111ea3f40> is satisfied  
+[INFO] -  2023-02-20 at 17:27:19 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:27:19 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:27:19 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 17:27:19 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 17:27:19 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x111ea3e20> is satisfied  
+[INFO] -  2023-02-20 at 17:27:19 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:27:20 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:27:20 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:27:20 - text - Getting text 
+[INFO] -  2023-02-20 at 17:27:20 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:27:20 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111ea2f80> is satisfied  
+[INFO] -  2023-02-20 at 17:27:20 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:27:20 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 17:27:20 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:27:20 - text - Getting text 
+[INFO] -  2023-02-20 at 17:27:20 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:27:20 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111ea27a0> is satisfied  
+[INFO] -  2023-02-20 at 17:27:20 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:27:20 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:35:42 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 17:35:44 - login - Starting login 
+[INFO] -  2023-02-20 at 17:35:44 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 17:35:44 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 17:35:44 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b1cf520> is satisfied  
+[INFO] -  2023-02-20 at 17:35:44 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:35:44 - _get_element - Waiting 10 seconds until id: username appear 
+[INFO] -  2023-02-20 at 17:35:44 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b1cf520> is satisfied  
+[INFO] -  2023-02-20 at 17:35:44 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:35:45 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:35:45 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 17:35:45 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 17:35:45 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b16d120> is satisfied  
+[INFO] -  2023-02-20 at 17:35:45 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:35:45 - _get_element - Waiting 10 seconds until id: password appear 
+[INFO] -  2023-02-20 at 17:35:45 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b16d120> is satisfied  
+[INFO] -  2023-02-20 at 17:35:45 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:35:45 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:35:45 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 17:35:45 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 17:35:45 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10b16d1b0> is satisfied  
+[INFO] -  2023-02-20 at 17:35:45 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:35:45 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:35:45 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:35:45 - text - Getting text 
+[INFO] -  2023-02-20 at 17:35:45 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:35:45 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b16d360> is satisfied  
+[INFO] -  2023-02-20 at 17:35:45 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:35:45 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 17:35:45 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:35:45 - text - Getting text 
+[INFO] -  2023-02-20 at 17:35:45 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:35:45 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b16d240> is satisfied  
+[INFO] -  2023-02-20 at 17:35:45 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:35:45 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:37:54 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 17:37:55 - login - Starting login 
+[INFO] -  2023-02-20 at 17:37:55 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 17:37:55 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 17:37:55 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11157f5b0> is satisfied  
+[INFO] -  2023-02-20 at 17:37:55 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:37:55 - _get_element - Waiting 10 seconds until id: username appear 
+[INFO] -  2023-02-20 at 17:37:55 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11157f5b0> is satisfied  
+[INFO] -  2023-02-20 at 17:37:55 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:37:56 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:37:56 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 17:37:56 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 17:37:56 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11149d1b0> is satisfied  
+[INFO] -  2023-02-20 at 17:37:56 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:37:56 - _get_element - Waiting 10 seconds until id: password appear 
+[INFO] -  2023-02-20 at 17:37:56 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11149d1b0> is satisfied  
+[INFO] -  2023-02-20 at 17:37:56 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:37:56 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:37:56 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 17:37:56 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 17:37:56 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x11149d240> is satisfied  
+[INFO] -  2023-02-20 at 17:37:56 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:37:56 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:37:56 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:37:56 - text - Getting text 
+[INFO] -  2023-02-20 at 17:37:56 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:37:56 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11149d3f0> is satisfied  
+[INFO] -  2023-02-20 at 17:37:56 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:37:56 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 17:37:56 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:37:56 - text - Getting text 
+[INFO] -  2023-02-20 at 17:37:56 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:37:56 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11149d2d0> is satisfied  
+[INFO] -  2023-02-20 at 17:37:56 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:37:56 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:49:24 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-20 at 17:49:26 - login - Starting login 
+[INFO] -  2023-02-20 at 17:49:26 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-20 at 17:49:26 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-20 at 17:49:26 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11057f760> is satisfied  
+[INFO] -  2023-02-20 at 17:49:26 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:49:26 - _get_element - Waiting 10 seconds until id: username appear 
+[INFO] -  2023-02-20 at 17:49:26 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11057f760> is satisfied  
+[INFO] -  2023-02-20 at 17:49:26 - find_element - Finding element with id:username 
+[INFO] -  2023-02-20 at 17:49:26 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:49:26 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-20 at 17:49:26 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-20 at 17:49:26 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11057fe20> is satisfied  
+[INFO] -  2023-02-20 at 17:49:26 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:49:26 - _get_element - Waiting 10 seconds until id: password appear 
+[INFO] -  2023-02-20 at 17:49:26 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11057fe20> is satisfied  
+[INFO] -  2023-02-20 at 17:49:26 - find_element - Finding element with id:password 
+[INFO] -  2023-02-20 at 17:49:26 - send_keys - Sending keys 
+[INFO] -  2023-02-20 at 17:49:26 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-20 at 17:49:26 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-20 at 17:49:26 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x11057dea0> is satisfied  
+[INFO] -  2023-02-20 at 17:49:26 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:49:27 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-20 at 17:49:27 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:49:27 - text - Getting text 
+[INFO] -  2023-02-20 at 17:49:27 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:49:27 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11057e680> is satisfied  
+[INFO] -  2023-02-20 at 17:49:27 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:49:27 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-20 at 17:49:27 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-20 at 17:49:27 - text - Getting text 
+[INFO] -  2023-02-20 at 17:49:27 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-20 at 17:49:27 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x11057e5f0> is satisfied  
+[INFO] -  2023-02-20 at 17:49:27 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-20 at 17:49:27 - close - Closing driver 
+[INFO] -  2023-02-21 at 11:49:41 - get - Opening page https://the-internet.herokuapp.com/login 
+[INFO] -  2023-02-21 at 11:49:43 - login - Starting login 
+[INFO] -  2023-02-21 at 11:49:43 - set_username - Setting username with key {username} 
+[INFO] -  2023-02-21 at 11:49:43 - send_keys - Waiting 10 seconds until element id: username appear 
+[INFO] -  2023-02-21 at 11:49:43 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10e363520> is satisfied  
+[INFO] -  2023-02-21 at 11:49:43 - find_element - Finding element with id:username 
+[INFO] -  2023-02-21 at 11:49:43 - _get_element - Waiting 10 seconds until id: username appear 
+[INFO] -  2023-02-21 at 11:49:43 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10e363520> is satisfied  
+[INFO] -  2023-02-21 at 11:49:43 - find_element - Finding element with id:username 
+[INFO] -  2023-02-21 at 11:49:44 - send_keys - Sending keys 
+[INFO] -  2023-02-21 at 11:49:44 - set_password - Setting password with key {password} 
+[INFO] -  2023-02-21 at 11:49:44 - send_keys - Waiting 10 seconds until element id: password appear 
+[INFO] -  2023-02-21 at 11:49:44 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10e2ad090> is satisfied  
+[INFO] -  2023-02-21 at 11:49:44 - find_element - Finding element with id:password 
+[INFO] -  2023-02-21 at 11:49:44 - _get_element - Waiting 10 seconds until id: password appear 
+[INFO] -  2023-02-21 at 11:49:44 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10e2ad090> is satisfied  
+[INFO] -  2023-02-21 at 11:49:44 - find_element - Finding element with id:password 
+[INFO] -  2023-02-21 at 11:49:44 - send_keys - Sending keys 
+[INFO] -  2023-02-21 at 11:49:44 - click_on_login_button - Clicking on login button 
+[INFO] -  2023-02-21 at 11:49:44 - click - Waiting 10 seconds until element xpath: //*[@id="login"]/button is clickable 
+[INFO] -  2023-02-21 at 11:49:44 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10e2ad120> is satisfied  
+[INFO] -  2023-02-21 at 11:49:44 - find_element - Finding element with xpath://*[@id="login"]/button 
+[INFO] -  2023-02-21 at 11:49:44 - click - Clicking on xpath: //*[@id="login"]/button 
+[INFO] -  2023-02-21 at 11:49:44 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-21 at 11:49:44 - text - Getting text 
+[INFO] -  2023-02-21 at 11:49:44 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-21 at 11:49:44 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10e2ad2d0> is satisfied  
+[INFO] -  2023-02-21 at 11:49:44 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-21 at 11:49:44 - login - Message after logging: Your username is invalid!
+× 
+[INFO] -  2023-02-21 at 11:49:44 - get_message_box - Getting message box after logging 
+[INFO] -  2023-02-21 at 11:49:44 - text - Getting text 
+[INFO] -  2023-02-21 at 11:49:44 - _get_element - Waiting 10 seconds until xpath: //*[@id="flash"] appear 
+[INFO] -  2023-02-21 at 11:49:44 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10e2ad1b0> is satisfied  
+[INFO] -  2023-02-21 at 11:49:44 - find_element - Finding element with xpath://*[@id="flash"] 
+[INFO] -  2023-02-21 at 11:49:44 - close - Closing driver 

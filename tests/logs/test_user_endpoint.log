@@ -1,0 +1,2652 @@
+[DEBUG] -  2023-02-20 at 14:26:53 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Kelly Williams', 'username': 'contreraslisa', 'email': 'patriciaalvarez@example.net', 'address': {'street': 'Carter Ford', 'suite': 'Suite 235', 'city': 'Lake Christopherfort', 'zipcode': '54025', 'geo': {'lat': '-10.7600965', 'lng': '-105.372766'}}, 'phone': '001-305-318-7035x960', 'website': 'web-88.davis.org', 'company': {'name': 'Robert Donovan', 'catchPhrase': 'Cloned global function', 'bs': 'strategize killer e-tailers'}}} 
+[DEBUG] -  2023-02-20 at 14:26:53 - post - Got response with status code = 201. Response = {
+  "name": "Kelly Williams",
+  "username": "contreraslisa",
+  "email": "patriciaalvarez@example.net",
+  "address": {
+    "street": "Carter Ford",
+    "suite": "Suite 235",
+    "city": "Lake Christopherfort",
+    "zipcode": "54025",
+    "geo": {
+      "lat": "-10.7600965",
+      "lng": "-105.372766"
+    }
+  },
+  "phone": "001-305-318-7035x960",
+  "website": "web-88.davis.org",
+  "company": {
+    "name": "Robert Donovan",
+    "catchPhrase": "Cloned global function",
+    "bs": "strategize killer e-tailers"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 14:26:54 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 14:26:54 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 14:26:55 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 14:26:55 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 14:32:26 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Timothy Byrd', 'username': 'xdickerson', 'email': 'chungthomas@example.org', 'address': {'street': 'Ronald Mountain', 'suite': 'Suite 461', 'city': 'West Gary', 'zipcode': '95762', 'geo': {'lat': '27.027229', 'lng': '108.407221'}}, 'phone': '4950057281', 'website': 'desktop-51.carter.com', 'company': {'name': 'Steven Ramsey', 'catchPhrase': 'Robust dedicated emulation', 'bs': 'seize value-added e-commerce'}}} 
+[DEBUG] -  2023-02-20 at 14:32:26 - post - Got response with status code = 201. Response = {
+  "name": "Timothy Byrd",
+  "username": "xdickerson",
+  "email": "chungthomas@example.org",
+  "address": {
+    "street": "Ronald Mountain",
+    "suite": "Suite 461",
+    "city": "West Gary",
+    "zipcode": "95762",
+    "geo": {
+      "lat": "27.027229",
+      "lng": "108.407221"
+    }
+  },
+  "phone": "4950057281",
+  "website": "desktop-51.carter.com",
+  "company": {
+    "name": "Steven Ramsey",
+    "catchPhrase": "Robust dedicated emulation",
+    "bs": "seize value-added e-commerce"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 14:32:26 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 14:32:27 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 14:32:27 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 14:32:27 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 14:42:55 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Michael Farrell', 'username': 'lwells', 'email': 'katherinevega@example.org', 'address': {'street': 'Scott Plains', 'suite': 'Suite 891', 'city': 'West Mark', 'zipcode': '62544', 'geo': {'lat': '-67.5747745', 'lng': '-99.574081'}}, 'phone': '001-002-080-5450x23290', 'website': 'lt-88.wright.com', 'company': {'name': 'Tiffany Andrade', 'catchPhrase': 'Balanced 4thgeneration utilization', 'bs': 'extend viral deliverables'}}} 
+[DEBUG] -  2023-02-20 at 14:42:56 - post - Got response with status code = 201. Response = {
+  "name": "Michael Farrell",
+  "username": "lwells",
+  "email": "katherinevega@example.org",
+  "address": {
+    "street": "Scott Plains",
+    "suite": "Suite 891",
+    "city": "West Mark",
+    "zipcode": "62544",
+    "geo": {
+      "lat": "-67.5747745",
+      "lng": "-99.574081"
+    }
+  },
+  "phone": "001-002-080-5450x23290",
+  "website": "lt-88.wright.com",
+  "company": {
+    "name": "Tiffany Andrade",
+    "catchPhrase": "Balanced 4thgeneration utilization",
+    "bs": "extend viral deliverables"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 14:42:56 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 14:42:57 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 14:42:57 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 14:42:57 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 14:46:21 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Carol Black', 'username': 'allenashley', 'email': 'ptaylor@example.com', 'address': {'street': 'Madison Viaduct', 'suite': 'Suite 814', 'city': 'North Meganmouth', 'zipcode': '43102', 'geo': {'lat': '-15.561448', 'lng': '-50.498527'}}, 'phone': '724-136-0996x91818', 'website': 'web-54.santiago.com', 'company': {'name': 'Riley Rice', 'catchPhrase': 'Team-oriented multimedia capacity', 'bs': 'syndicate cross-platform initiatives'}}} 
+[DEBUG] -  2023-02-20 at 14:46:21 - post - Got response with status code = 201. Response = {
+  "name": "Carol Black",
+  "username": "allenashley",
+  "email": "ptaylor@example.com",
+  "address": {
+    "street": "Madison Viaduct",
+    "suite": "Suite 814",
+    "city": "North Meganmouth",
+    "zipcode": "43102",
+    "geo": {
+      "lat": "-15.561448",
+      "lng": "-50.498527"
+    }
+  },
+  "phone": "724-136-0996x91818",
+  "website": "web-54.santiago.com",
+  "company": {
+    "name": "Riley Rice",
+    "catchPhrase": "Team-oriented multimedia capacity",
+    "bs": "syndicate cross-platform initiatives"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 14:46:22 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 14:46:22 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 14:46:23 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 14:46:23 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 14:54:05 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'William White', 'username': 'hevans', 'email': 'mariesmith@example.org', 'address': {'street': 'Dennis Burg', 'suite': 'Suite 457', 'city': 'North Destinyfort', 'zipcode': '99773', 'geo': {'lat': '-17.6548505', 'lng': '125.190480'}}, 'phone': '771.476.7134x076', 'website': 'email-06.chandler-smith.net', 'company': {'name': 'Zachary Jones', 'catchPhrase': 'Universal fresh-thinking toolset', 'bs': 'empower scalable deliverables'}}} 
+[DEBUG] -  2023-02-20 at 14:54:05 - post - Got response with status code = 201. Response = {
+  "name": "William White",
+  "username": "hevans",
+  "email": "mariesmith@example.org",
+  "address": {
+    "street": "Dennis Burg",
+    "suite": "Suite 457",
+    "city": "North Destinyfort",
+    "zipcode": "99773",
+    "geo": {
+      "lat": "-17.6548505",
+      "lng": "125.190480"
+    }
+  },
+  "phone": "771.476.7134x076",
+  "website": "email-06.chandler-smith.net",
+  "company": {
+    "name": "Zachary Jones",
+    "catchPhrase": "Universal fresh-thinking toolset",
+    "bs": "empower scalable deliverables"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 14:54:05 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 14:54:06 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 14:54:07 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 14:54:07 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 15:02:37 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'John Gregory', 'username': 'laurendurham', 'email': 'brandon75@example.net', 'address': {'street': 'Morrison Grove', 'suite': 'Suite 391', 'city': 'Simpsonburgh', 'zipcode': '12750', 'geo': {'lat': '-66.417565', 'lng': '-91.499249'}}, 'phone': '+1-433-466-7928x2199', 'website': 'laptop-20.myers.net', 'company': {'name': 'John Howell', 'catchPhrase': 'Re-engineered impactful time-frame', 'bs': 'enhance magnetic channels'}}} 
+[DEBUG] -  2023-02-20 at 15:02:38 - post - Got response with status code = 201. Response = {
+  "name": "John Gregory",
+  "username": "laurendurham",
+  "email": "brandon75@example.net",
+  "address": {
+    "street": "Morrison Grove",
+    "suite": "Suite 391",
+    "city": "Simpsonburgh",
+    "zipcode": "12750",
+    "geo": {
+      "lat": "-66.417565",
+      "lng": "-91.499249"
+    }
+  },
+  "phone": "+1-433-466-7928x2199",
+  "website": "laptop-20.myers.net",
+  "company": {
+    "name": "John Howell",
+    "catchPhrase": "Re-engineered impactful time-frame",
+    "bs": "enhance magnetic channels"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 15:02:38 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 15:02:39 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 15:02:39 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 15:02:39 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 15:05:58 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Benjamin Curry', 'username': 'michael28', 'email': 'brandi63@example.com', 'address': {'street': 'Gordon Walk', 'suite': 'Suite 357', 'city': 'South Kayla', 'zipcode': '30692', 'geo': {'lat': '-64.5549415', 'lng': '-132.203293'}}, 'phone': '001-396-446-1896x9070', 'website': 'db-36.cooper-austin.net', 'company': {'name': 'Chelsea Moore', 'catchPhrase': 'Organized explicit success', 'bs': 'drive innovative channels'}}} 
+[DEBUG] -  2023-02-20 at 15:05:58 - post - Got response with status code = 201. Response = {
+  "name": "Benjamin Curry",
+  "username": "michael28",
+  "email": "brandi63@example.com",
+  "address": {
+    "street": "Gordon Walk",
+    "suite": "Suite 357",
+    "city": "South Kayla",
+    "zipcode": "30692",
+    "geo": {
+      "lat": "-64.5549415",
+      "lng": "-132.203293"
+    }
+  },
+  "phone": "001-396-446-1896x9070",
+  "website": "db-36.cooper-austin.net",
+  "company": {
+    "name": "Chelsea Moore",
+    "catchPhrase": "Organized explicit success",
+    "bs": "drive innovative channels"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 15:05:59 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 15:05:59 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 15:06:00 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 15:06:00 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 16:06:55 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Marc Small', 'username': 'buckphilip', 'email': 'petersonkyle@example.net', 'address': {'street': 'Jeremy Drive', 'suite': 'Suite 192', 'city': 'New Jenniferville', 'zipcode': '23946', 'geo': {'lat': '-2.7059785', 'lng': '27.711130'}}, 'phone': '1717433814', 'website': 'desktop-95.turner-solomon.com', 'company': {'name': 'Patricia Wong', 'catchPhrase': 'Seamless optimal toolset', 'bs': 'exploit global niches'}}} 
+[DEBUG] -  2023-02-20 at 16:06:55 - post - Got response with status code = 201. Response = {
+  "name": "Marc Small",
+  "username": "buckphilip",
+  "email": "petersonkyle@example.net",
+  "address": {
+    "street": "Jeremy Drive",
+    "suite": "Suite 192",
+    "city": "New Jenniferville",
+    "zipcode": "23946",
+    "geo": {
+      "lat": "-2.7059785",
+      "lng": "27.711130"
+    }
+  },
+  "phone": "1717433814",
+  "website": "desktop-95.turner-solomon.com",
+  "company": {
+    "name": "Patricia Wong",
+    "catchPhrase": "Seamless optimal toolset",
+    "bs": "exploit global niches"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 16:06:55 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:06:56 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 16:06:56 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:06:56 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 16:17:41 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Dylan Goodwin', 'username': 'loriestrada', 'email': 'austinodonnell@example.com', 'address': {'street': 'Rollins Highway', 'suite': 'Apt. 614', 'city': 'Brownton', 'zipcode': '06941', 'geo': {'lat': '12.2502335', 'lng': '7.284420'}}, 'phone': '(789)634-2108', 'website': 'web-23.cobb-walker.com', 'company': {'name': 'Jonathan Sullivan', 'catchPhrase': 'Focused demand-driven interface', 'bs': 'productize best-of-breed solutions'}}} 
+[DEBUG] -  2023-02-20 at 16:17:42 - post - Got response with status code = 201. Response = {
+  "name": "Dylan Goodwin",
+  "username": "loriestrada",
+  "email": "austinodonnell@example.com",
+  "address": {
+    "street": "Rollins Highway",
+    "suite": "Apt. 614",
+    "city": "Brownton",
+    "zipcode": "06941",
+    "geo": {
+      "lat": "12.2502335",
+      "lng": "7.284420"
+    }
+  },
+  "phone": "(789)634-2108",
+  "website": "web-23.cobb-walker.com",
+  "company": {
+    "name": "Jonathan Sullivan",
+    "catchPhrase": "Focused demand-driven interface",
+    "bs": "productize best-of-breed solutions"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 16:17:42 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:17:42 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 16:17:43 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:17:43 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 16:27:27 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Russell Carter', 'username': 'johnsonandrew', 'email': 'gregduke@example.com', 'address': {'street': 'Robert Gardens', 'suite': 'Suite 847', 'city': 'Larryland', 'zipcode': '74465', 'geo': {'lat': '-32.394601', 'lng': '-60.855667'}}, 'phone': '001-878-438-2512x29326', 'website': 'lt-96.oconnor-rice.com', 'company': {'name': 'Kimberly Smith MD', 'catchPhrase': 'Vision-oriented dedicated product', 'bs': 'productize cross-media users'}}} 
+[DEBUG] -  2023-02-20 at 16:27:28 - post - Got response with status code = 201. Response = {
+  "name": "Russell Carter",
+  "username": "johnsonandrew",
+  "email": "gregduke@example.com",
+  "address": {
+    "street": "Robert Gardens",
+    "suite": "Suite 847",
+    "city": "Larryland",
+    "zipcode": "74465",
+    "geo": {
+      "lat": "-32.394601",
+      "lng": "-60.855667"
+    }
+  },
+  "phone": "001-878-438-2512x29326",
+  "website": "lt-96.oconnor-rice.com",
+  "company": {
+    "name": "Kimberly Smith MD",
+    "catchPhrase": "Vision-oriented dedicated product",
+    "bs": "productize cross-media users"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 16:27:28 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:27:29 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 16:27:29 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:27:29 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 16:29:20 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Brenda Martin', 'username': 'ebuchanan', 'email': 'ballen@example.org', 'address': {'street': 'Thomas Springs', 'suite': 'Suite 708', 'city': 'Lauraburgh', 'zipcode': '85950', 'geo': {'lat': '47.4570395', 'lng': '-155.431960'}}, 'phone': '651.689.4764x6551', 'website': 'db-37.reid-ford.biz', 'company': {'name': 'Michael Waller', 'catchPhrase': 'Enterprise-wide coherent adapter', 'bs': 'transform vertical bandwidth'}}} 
+[DEBUG] -  2023-02-20 at 16:29:21 - post - Got response with status code = 201. Response = {
+  "name": "Brenda Martin",
+  "username": "ebuchanan",
+  "email": "ballen@example.org",
+  "address": {
+    "street": "Thomas Springs",
+    "suite": "Suite 708",
+    "city": "Lauraburgh",
+    "zipcode": "85950",
+    "geo": {
+      "lat": "47.4570395",
+      "lng": "-155.431960"
+    }
+  },
+  "phone": "651.689.4764x6551",
+  "website": "db-37.reid-ford.biz",
+  "company": {
+    "name": "Michael Waller",
+    "catchPhrase": "Enterprise-wide coherent adapter",
+    "bs": "transform vertical bandwidth"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 16:29:21 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:29:22 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 16:29:22 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:29:23 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 16:36:29 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Kevin Trujillo', 'username': 'christopher30', 'email': 'derrick41@example.com', 'address': {'street': 'Villegas Ridge', 'suite': 'Suite 699', 'city': 'Jeremystad', 'zipcode': '73711', 'geo': {'lat': '25.6233065', 'lng': '72.320924'}}, 'phone': '001-824-295-3825x679', 'website': 'email-70.garcia.com', 'company': {'name': 'Edward Adkins', 'catchPhrase': 'Robust 4thgeneration Internet solution', 'bs': 'seize B2B channels'}}} 
+[DEBUG] -  2023-02-20 at 16:36:29 - post - Got response with status code = 201. Response = {
+  "name": "Kevin Trujillo",
+  "username": "christopher30",
+  "email": "derrick41@example.com",
+  "address": {
+    "street": "Villegas Ridge",
+    "suite": "Suite 699",
+    "city": "Jeremystad",
+    "zipcode": "73711",
+    "geo": {
+      "lat": "25.6233065",
+      "lng": "72.320924"
+    }
+  },
+  "phone": "001-824-295-3825x679",
+  "website": "email-70.garcia.com",
+  "company": {
+    "name": "Edward Adkins",
+    "catchPhrase": "Robust 4thgeneration Internet solution",
+    "bs": "seize B2B channels"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 16:36:30 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:36:30 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 16:36:31 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:36:31 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 16:39:29 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Dakota Massey', 'username': 'yolandablack', 'email': 'tporter@example.com', 'address': {'street': 'Brown Coves', 'suite': 'Apt. 759', 'city': 'Lake Stacie', 'zipcode': '08894', 'geo': {'lat': '67.931834', 'lng': '134.853423'}}, 'phone': '+1-367-615-6753', 'website': 'lt-17.moody-williams.info', 'company': {'name': 'Sarah Smith', 'catchPhrase': 'Realigned exuding framework', 'bs': 'synthesize ubiquitous deliverables'}}} 
+[DEBUG] -  2023-02-20 at 16:39:30 - post - Got response with status code = 201. Response = {
+  "name": "Dakota Massey",
+  "username": "yolandablack",
+  "email": "tporter@example.com",
+  "address": {
+    "street": "Brown Coves",
+    "suite": "Apt. 759",
+    "city": "Lake Stacie",
+    "zipcode": "08894",
+    "geo": {
+      "lat": "67.931834",
+      "lng": "134.853423"
+    }
+  },
+  "phone": "+1-367-615-6753",
+  "website": "lt-17.moody-williams.info",
+  "company": {
+    "name": "Sarah Smith",
+    "catchPhrase": "Realigned exuding framework",
+    "bs": "synthesize ubiquitous deliverables"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 16:39:30 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:39:30 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 16:39:31 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:39:31 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 16:41:51 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Kristen Schneider', 'username': 'robinsonerin', 'email': 'mdavis@example.org', 'address': {'street': 'Christopher Fork', 'suite': 'Suite 928', 'city': 'Taylorborough', 'zipcode': '62867', 'geo': {'lat': '0.1533995', 'lng': '-32.933349'}}, 'phone': '672.557.4295', 'website': 'db-84.rivers.info', 'company': {'name': 'Maxwell Nelson', 'catchPhrase': 'Persistent even-keeled artificial intelligence', 'bs': 'empower one-to-one schemas'}}} 
+[DEBUG] -  2023-02-20 at 16:41:51 - post - Got response with status code = 201. Response = {
+  "name": "Kristen Schneider",
+  "username": "robinsonerin",
+  "email": "mdavis@example.org",
+  "address": {
+    "street": "Christopher Fork",
+    "suite": "Suite 928",
+    "city": "Taylorborough",
+    "zipcode": "62867",
+    "geo": {
+      "lat": "0.1533995",
+      "lng": "-32.933349"
+    }
+  },
+  "phone": "672.557.4295",
+  "website": "db-84.rivers.info",
+  "company": {
+    "name": "Maxwell Nelson",
+    "catchPhrase": "Persistent even-keeled artificial intelligence",
+    "bs": "empower one-to-one schemas"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 16:41:52 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:41:52 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 16:41:53 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:41:53 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 16:45:05 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Anthony Fowler', 'username': 'michael10', 'email': 'ocooper@example.com', 'address': {'street': 'Francisco Road', 'suite': 'Suite 048', 'city': 'Rileystad', 'zipcode': '58028', 'geo': {'lat': '18.4178335', 'lng': '-152.548440'}}, 'phone': '+1-909-882-7304', 'website': 'db-39.gonzalez.com', 'company': {'name': 'Charles Love', 'catchPhrase': 'Balanced local help-desk', 'bs': 'drive bricks-and-clicks solutions'}}} 
+[DEBUG] -  2023-02-20 at 16:45:05 - post - Got response with status code = 201. Response = {
+  "name": "Anthony Fowler",
+  "username": "michael10",
+  "email": "ocooper@example.com",
+  "address": {
+    "street": "Francisco Road",
+    "suite": "Suite 048",
+    "city": "Rileystad",
+    "zipcode": "58028",
+    "geo": {
+      "lat": "18.4178335",
+      "lng": "-152.548440"
+    }
+  },
+  "phone": "+1-909-882-7304",
+  "website": "db-39.gonzalez.com",
+  "company": {
+    "name": "Charles Love",
+    "catchPhrase": "Balanced local help-desk",
+    "bs": "drive bricks-and-clicks solutions"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 16:45:05 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:45:06 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 16:45:06 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:45:07 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 16:47:22 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Amber Rivera', 'username': 'middletonjoe', 'email': 'egreen@example.org', 'address': {'street': 'Dean Crossroad', 'suite': 'Apt. 624', 'city': 'East Emily', 'zipcode': '13931', 'geo': {'lat': '-16.4902155', 'lng': '-46.563569'}}, 'phone': '2639236634', 'website': 'email-81.moore-williams.info', 'company': {'name': 'Diane Pittman', 'catchPhrase': 'Synchronized next generation complexity', 'bs': 'repurpose B2B deliverables'}}} 
+[DEBUG] -  2023-02-20 at 16:47:23 - post - Got response with status code = 201. Response = {
+  "name": "Amber Rivera",
+  "username": "middletonjoe",
+  "email": "egreen@example.org",
+  "address": {
+    "street": "Dean Crossroad",
+    "suite": "Apt. 624",
+    "city": "East Emily",
+    "zipcode": "13931",
+    "geo": {
+      "lat": "-16.4902155",
+      "lng": "-46.563569"
+    }
+  },
+  "phone": "2639236634",
+  "website": "email-81.moore-williams.info",
+  "company": {
+    "name": "Diane Pittman",
+    "catchPhrase": "Synchronized next generation complexity",
+    "bs": "repurpose B2B deliverables"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 16:47:23 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:47:23 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 16:47:24 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:47:24 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 16:49:45 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Martha Gates', 'username': 'michael43', 'email': 'travishull@example.com', 'address': {'street': 'Sanders Greens', 'suite': 'Suite 158', 'city': 'Brookestad', 'zipcode': '63675', 'geo': {'lat': '-85.3426125', 'lng': '169.025925'}}, 'phone': '001-414-501-7561x5179', 'website': 'db-01.moore.org', 'company': {'name': 'Lauren Johnson', 'catchPhrase': 'User-friendly local monitoring', 'bs': 'whiteboard wireless e-business'}}} 
+[DEBUG] -  2023-02-20 at 16:49:46 - post - Got response with status code = 201. Response = {
+  "name": "Martha Gates",
+  "username": "michael43",
+  "email": "travishull@example.com",
+  "address": {
+    "street": "Sanders Greens",
+    "suite": "Suite 158",
+    "city": "Brookestad",
+    "zipcode": "63675",
+    "geo": {
+      "lat": "-85.3426125",
+      "lng": "169.025925"
+    }
+  },
+  "phone": "001-414-501-7561x5179",
+  "website": "db-01.moore.org",
+  "company": {
+    "name": "Lauren Johnson",
+    "catchPhrase": "User-friendly local monitoring",
+    "bs": "whiteboard wireless e-business"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 16:49:46 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:49:47 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 16:49:48 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:49:48 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 16:52:52 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Ricky Nelson', 'username': 'michael66', 'email': 'changjasmine@example.org', 'address': {'street': 'Katrina Square', 'suite': 'Suite 310', 'city': 'Brianton', 'zipcode': '50370', 'geo': {'lat': '-24.039449', 'lng': '75.840520'}}, 'phone': '965-526-4815', 'website': 'laptop-18.cantu.net', 'company': {'name': 'Christopher Mcconnell', 'catchPhrase': 'Diverse intermediate methodology', 'bs': 'matrix distributed interfaces'}}} 
+[DEBUG] -  2023-02-20 at 16:52:52 - post - Got response with status code = 201. Response = {
+  "name": "Ricky Nelson",
+  "username": "michael66",
+  "email": "changjasmine@example.org",
+  "address": {
+    "street": "Katrina Square",
+    "suite": "Suite 310",
+    "city": "Brianton",
+    "zipcode": "50370",
+    "geo": {
+      "lat": "-24.039449",
+      "lng": "75.840520"
+    }
+  },
+  "phone": "965-526-4815",
+  "website": "laptop-18.cantu.net",
+  "company": {
+    "name": "Christopher Mcconnell",
+    "catchPhrase": "Diverse intermediate methodology",
+    "bs": "matrix distributed interfaces"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 16:52:52 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:52:53 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 16:52:54 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 16:52:54 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:00:40 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Amanda Santiago', 'username': 'joseph56', 'email': 'wmorgan@example.org', 'address': {'street': 'Toni Trail', 'suite': 'Suite 323', 'city': 'Lake Rachel', 'zipcode': '88389', 'geo': {'lat': '1.529400', 'lng': '-76.346736'}}, 'phone': '1773298588', 'website': 'web-65.hernandez.com', 'company': {'name': 'Edwin Davis', 'catchPhrase': 'Synergized impactful parallelism', 'bs': 'matrix front-end niches'}}} 
+[DEBUG] -  2023-02-20 at 17:00:40 - post - Got response with status code = 201. Response = {
+  "name": "Amanda Santiago",
+  "username": "joseph56",
+  "email": "wmorgan@example.org",
+  "address": {
+    "street": "Toni Trail",
+    "suite": "Suite 323",
+    "city": "Lake Rachel",
+    "zipcode": "88389",
+    "geo": {
+      "lat": "1.529400",
+      "lng": "-76.346736"
+    }
+  },
+  "phone": "1773298588",
+  "website": "web-65.hernandez.com",
+  "company": {
+    "name": "Edwin Davis",
+    "catchPhrase": "Synergized impactful parallelism",
+    "bs": "matrix front-end niches"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:00:40 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:00:41 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:00:41 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:00:42 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:02:13 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Anna Mendez', 'username': 'hwiggins', 'email': 'thomas29@example.com', 'address': {'street': 'Lee Gateway', 'suite': 'Suite 301', 'city': 'North Danaburgh', 'zipcode': '09570', 'geo': {'lat': '58.735783', 'lng': '125.823965'}}, 'phone': '001-327-292-8568x32915', 'website': 'email-42.casey.com', 'company': {'name': 'Rebecca Wood', 'catchPhrase': 'Configurable human-resource service-desk', 'bs': 'productize killer metrics'}}} 
+[DEBUG] -  2023-02-20 at 17:02:14 - post - Got response with status code = 201. Response = {
+  "name": "Anna Mendez",
+  "username": "hwiggins",
+  "email": "thomas29@example.com",
+  "address": {
+    "street": "Lee Gateway",
+    "suite": "Suite 301",
+    "city": "North Danaburgh",
+    "zipcode": "09570",
+    "geo": {
+      "lat": "58.735783",
+      "lng": "125.823965"
+    }
+  },
+  "phone": "001-327-292-8568x32915",
+  "website": "email-42.casey.com",
+  "company": {
+    "name": "Rebecca Wood",
+    "catchPhrase": "Configurable human-resource service-desk",
+    "bs": "productize killer metrics"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:02:14 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:02:14 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:02:15 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:02:15 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:10:11 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Kristi Jacobs', 'username': 'sierrahenry', 'email': 'dianeflores@example.org', 'address': {'street': 'Melanie Valleys', 'suite': 'Apt. 741', 'city': 'Lake Teresa', 'zipcode': '73182', 'geo': {'lat': '9.9504675', 'lng': '-113.650072'}}, 'phone': '894-861-3743x5722', 'website': 'laptop-19.bell.com', 'company': {'name': 'Jennifer Hardy PhD', 'catchPhrase': 'Balanced global structure', 'bs': 'matrix clicks-and-mortar e-business'}}} 
+[DEBUG] -  2023-02-20 at 17:10:11 - post - Got response with status code = 201. Response = {
+  "name": "Kristi Jacobs",
+  "username": "sierrahenry",
+  "email": "dianeflores@example.org",
+  "address": {
+    "street": "Melanie Valleys",
+    "suite": "Apt. 741",
+    "city": "Lake Teresa",
+    "zipcode": "73182",
+    "geo": {
+      "lat": "9.9504675",
+      "lng": "-113.650072"
+    }
+  },
+  "phone": "894-861-3743x5722",
+  "website": "laptop-19.bell.com",
+  "company": {
+    "name": "Jennifer Hardy PhD",
+    "catchPhrase": "Balanced global structure",
+    "bs": "matrix clicks-and-mortar e-business"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:10:11 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:10:12 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:10:12 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:10:13 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:19:55 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Megan Todd', 'username': 'timothyhood', 'email': 'murphyheather@example.org', 'address': {'street': 'Williams Curve', 'suite': 'Suite 345', 'city': 'Michelleshire', 'zipcode': '51645', 'geo': {'lat': '80.267197', 'lng': '23.564102'}}, 'phone': '001-936-179-0464x79716', 'website': 'laptop-97.macias.com', 'company': {'name': 'Megan Lewis', 'catchPhrase': 'Universal needs-based frame', 'bs': 'expedite web-enabled e-services'}}} 
+[DEBUG] -  2023-02-20 at 17:19:56 - post - Got response with status code = 201. Response = {
+  "name": "Megan Todd",
+  "username": "timothyhood",
+  "email": "murphyheather@example.org",
+  "address": {
+    "street": "Williams Curve",
+    "suite": "Suite 345",
+    "city": "Michelleshire",
+    "zipcode": "51645",
+    "geo": {
+      "lat": "80.267197",
+      "lng": "23.564102"
+    }
+  },
+  "phone": "001-936-179-0464x79716",
+  "website": "laptop-97.macias.com",
+  "company": {
+    "name": "Megan Lewis",
+    "catchPhrase": "Universal needs-based frame",
+    "bs": "expedite web-enabled e-services"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:19:56 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:19:57 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:19:57 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:19:57 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:21:11 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Jon Mcconnell', 'username': 'mwade', 'email': 'fdavis@example.org', 'address': {'street': 'Sarah Divide', 'suite': 'Apt. 424', 'city': 'Fowlerberg', 'zipcode': '65232', 'geo': {'lat': '15.6902445', 'lng': '-32.046697'}}, 'phone': '465.991.2512x421', 'website': 'db-82.hart.com', 'company': {'name': 'Megan Delgado', 'catchPhrase': 'De-engineered encompassing standardization', 'bs': 'cultivate scalable solutions'}}} 
+[DEBUG] -  2023-02-20 at 17:21:12 - post - Got response with status code = 201. Response = {
+  "name": "Jon Mcconnell",
+  "username": "mwade",
+  "email": "fdavis@example.org",
+  "address": {
+    "street": "Sarah Divide",
+    "suite": "Apt. 424",
+    "city": "Fowlerberg",
+    "zipcode": "65232",
+    "geo": {
+      "lat": "15.6902445",
+      "lng": "-32.046697"
+    }
+  },
+  "phone": "465.991.2512x421",
+  "website": "db-82.hart.com",
+  "company": {
+    "name": "Megan Delgado",
+    "catchPhrase": "De-engineered encompassing standardization",
+    "bs": "cultivate scalable solutions"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:21:12 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:21:12 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:21:13 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:21:13 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:25:05 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Julia Patel', 'username': 'herreradeborah', 'email': 'farmersydney@example.net', 'address': {'street': 'Jones Brooks', 'suite': 'Apt. 662', 'city': 'New Anthonyside', 'zipcode': '65654', 'geo': {'lat': '11.3108465', 'lng': '-96.918329'}}, 'phone': '(571)634-1572', 'website': 'db-85.stark-copeland.com', 'company': {'name': 'Amanda Ruiz', 'catchPhrase': 'Inverse coherent extranet', 'bs': 'engage enterprise relationships'}}} 
+[DEBUG] -  2023-02-20 at 17:25:06 - post - Got response with status code = 201. Response = {
+  "name": "Julia Patel",
+  "username": "herreradeborah",
+  "email": "farmersydney@example.net",
+  "address": {
+    "street": "Jones Brooks",
+    "suite": "Apt. 662",
+    "city": "New Anthonyside",
+    "zipcode": "65654",
+    "geo": {
+      "lat": "11.3108465",
+      "lng": "-96.918329"
+    }
+  },
+  "phone": "(571)634-1572",
+  "website": "db-85.stark-copeland.com",
+  "company": {
+    "name": "Amanda Ruiz",
+    "catchPhrase": "Inverse coherent extranet",
+    "bs": "engage enterprise relationships"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:25:06 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:25:06 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:25:07 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:25:07 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:26:27 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'April Moore', 'username': 'osmith', 'email': 'frank31@example.org', 'address': {'street': 'Pacheco Summit', 'suite': 'Suite 760', 'city': 'Jeremyfort', 'zipcode': '79260', 'geo': {'lat': '17.4621675', 'lng': '66.005127'}}, 'phone': '531-492-0864', 'website': 'email-01.smith.com', 'company': {'name': 'Reginald Gamble', 'catchPhrase': 'Face-to-face maximized encryption', 'bs': 'benchmark out-of-the-box methodologies'}}} 
+[DEBUG] -  2023-02-20 at 17:26:27 - post - Got response with status code = 201. Response = {
+  "name": "April Moore",
+  "username": "osmith",
+  "email": "frank31@example.org",
+  "address": {
+    "street": "Pacheco Summit",
+    "suite": "Suite 760",
+    "city": "Jeremyfort",
+    "zipcode": "79260",
+    "geo": {
+      "lat": "17.4621675",
+      "lng": "66.005127"
+    }
+  },
+  "phone": "531-492-0864",
+  "website": "email-01.smith.com",
+  "company": {
+    "name": "Reginald Gamble",
+    "catchPhrase": "Face-to-face maximized encryption",
+    "bs": "benchmark out-of-the-box methodologies"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:26:28 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:26:28 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:26:29 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:26:29 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:31:15 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Joshua Hawkins', 'username': 'gjones', 'email': 'jessecruz@example.com', 'address': {'street': 'Hernandez River', 'suite': 'Suite 004', 'city': 'East Mike', 'zipcode': '54050', 'geo': {'lat': '-5.9236925', 'lng': '-26.998330'}}, 'phone': '250-607-5878x41759', 'website': 'email-31.thompson.org', 'company': {'name': 'Randy Gaines', 'catchPhrase': 'Multi-layered leadingedge Graphic Interface', 'bs': 'integrate cross-platform convergence'}}} 
+[DEBUG] -  2023-02-20 at 17:31:15 - post - Got response with status code = 201. Response = {
+  "name": "Joshua Hawkins",
+  "username": "gjones",
+  "email": "jessecruz@example.com",
+  "address": {
+    "street": "Hernandez River",
+    "suite": "Suite 004",
+    "city": "East Mike",
+    "zipcode": "54050",
+    "geo": {
+      "lat": "-5.9236925",
+      "lng": "-26.998330"
+    }
+  },
+  "phone": "250-607-5878x41759",
+  "website": "email-31.thompson.org",
+  "company": {
+    "name": "Randy Gaines",
+    "catchPhrase": "Multi-layered leadingedge Graphic Interface",
+    "bs": "integrate cross-platform convergence"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:31:16 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:31:16 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:31:17 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:31:17 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:32:59 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Nathaniel Pennington', 'username': 'wanglinda', 'email': 'johnfischer@example.com', 'address': {'street': 'Teresa Plain', 'suite': 'Suite 597', 'city': 'Robertsview', 'zipcode': '07471', 'geo': {'lat': '44.2901395', 'lng': '9.089913'}}, 'phone': '(596)689-7041x46230', 'website': 'desktop-18.harper.com', 'company': {'name': 'Timothy Elliott', 'catchPhrase': 'Face-to-face bifurcated standardization', 'bs': 'e-enable user-centric e-tailers'}}} 
+[DEBUG] -  2023-02-20 at 17:32:59 - post - Got response with status code = 201. Response = {
+  "name": "Nathaniel Pennington",
+  "username": "wanglinda",
+  "email": "johnfischer@example.com",
+  "address": {
+    "street": "Teresa Plain",
+    "suite": "Suite 597",
+    "city": "Robertsview",
+    "zipcode": "07471",
+    "geo": {
+      "lat": "44.2901395",
+      "lng": "9.089913"
+    }
+  },
+  "phone": "(596)689-7041x46230",
+  "website": "desktop-18.harper.com",
+  "company": {
+    "name": "Timothy Elliott",
+    "catchPhrase": "Face-to-face bifurcated standardization",
+    "bs": "e-enable user-centric e-tailers"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:33:00 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:33:00 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:33:01 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:33:01 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:34:43 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Daniel Haynes', 'username': 'mdominguez', 'email': 'laura86@example.com', 'address': {'street': 'Rocha Stravenue', 'suite': 'Apt. 997', 'city': 'Hallstad', 'zipcode': '39060', 'geo': {'lat': '28.0237875', 'lng': '7.840713'}}, 'phone': '001-007-265-1203x8087', 'website': 'desktop-15.allen-rivera.com', 'company': {'name': 'Eddie Mckinney', 'catchPhrase': 'Optional background Local Area Network', 'bs': 'disintermediate cross-platform content'}}} 
+[DEBUG] -  2023-02-20 at 17:34:43 - post - Got response with status code = 201. Response = {
+  "name": "Daniel Haynes",
+  "username": "mdominguez",
+  "email": "laura86@example.com",
+  "address": {
+    "street": "Rocha Stravenue",
+    "suite": "Apt. 997",
+    "city": "Hallstad",
+    "zipcode": "39060",
+    "geo": {
+      "lat": "28.0237875",
+      "lng": "7.840713"
+    }
+  },
+  "phone": "001-007-265-1203x8087",
+  "website": "desktop-15.allen-rivera.com",
+  "company": {
+    "name": "Eddie Mckinney",
+    "catchPhrase": "Optional background Local Area Network",
+    "bs": "disintermediate cross-platform content"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:34:44 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:34:44 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:34:45 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:34:45 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:36:11 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Stephen Moreno', 'username': 'bonnie32', 'email': 'masonjack@example.com', 'address': {'street': 'Johnson Lakes', 'suite': 'Apt. 290', 'city': 'Crystaltown', 'zipcode': '86367', 'geo': {'lat': '72.3897245', 'lng': '89.214468'}}, 'phone': '2021578120', 'website': 'web-18.stone.com', 'company': {'name': 'Jonathan Oconnor', 'catchPhrase': 'Optional mission-critical knowledge user', 'bs': 'leverage clicks-and-mortar mindshare'}}} 
+[DEBUG] -  2023-02-20 at 17:36:11 - post - Got response with status code = 201. Response = {
+  "name": "Stephen Moreno",
+  "username": "bonnie32",
+  "email": "masonjack@example.com",
+  "address": {
+    "street": "Johnson Lakes",
+    "suite": "Apt. 290",
+    "city": "Crystaltown",
+    "zipcode": "86367",
+    "geo": {
+      "lat": "72.3897245",
+      "lng": "89.214468"
+    }
+  },
+  "phone": "2021578120",
+  "website": "web-18.stone.com",
+  "company": {
+    "name": "Jonathan Oconnor",
+    "catchPhrase": "Optional mission-critical knowledge user",
+    "bs": "leverage clicks-and-mortar mindshare"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:36:11 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:36:12 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:36:12 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:36:12 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:37:00 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Ashley Carlson', 'username': 'lopezandrew', 'email': 'iwashington@example.org', 'address': {'street': 'Brenda Drive', 'suite': 'Apt. 372', 'city': 'Lake Michellehaven', 'zipcode': '00659', 'geo': {'lat': '-32.3876355', 'lng': '40.683245'}}, 'phone': '2722044306', 'website': 'db-11.johnson.com', 'company': {'name': 'Monica Kent', 'catchPhrase': 'Ergonomic intermediate toolset', 'bs': 'reinvent killer supply-chains'}}} 
+[DEBUG] -  2023-02-20 at 17:37:00 - post - Got response with status code = 201. Response = {
+  "name": "Ashley Carlson",
+  "username": "lopezandrew",
+  "email": "iwashington@example.org",
+  "address": {
+    "street": "Brenda Drive",
+    "suite": "Apt. 372",
+    "city": "Lake Michellehaven",
+    "zipcode": "00659",
+    "geo": {
+      "lat": "-32.3876355",
+      "lng": "40.683245"
+    }
+  },
+  "phone": "2722044306",
+  "website": "db-11.johnson.com",
+  "company": {
+    "name": "Monica Kent",
+    "catchPhrase": "Ergonomic intermediate toolset",
+    "bs": "reinvent killer supply-chains"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:37:01 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:37:01 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:37:02 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:37:02 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:48:37 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Megan Davis', 'username': 'tinagonzalez', 'email': 'jonathan23@example.com', 'address': {'street': 'Cortez Circles', 'suite': 'Suite 406', 'city': 'Heathermouth', 'zipcode': '13496', 'geo': {'lat': '-43.2463655', 'lng': '-62.179099'}}, 'phone': '(708)655-2933x38655', 'website': 'srv-35.cox-moon.com', 'company': {'name': 'Anthony Alexander', 'catchPhrase': 'Optional foreground matrix', 'bs': 'harness frictionless networks'}}} 
+[DEBUG] -  2023-02-20 at 17:48:37 - post - Got response with status code = 201. Response = {
+  "name": "Megan Davis",
+  "username": "tinagonzalez",
+  "email": "jonathan23@example.com",
+  "address": {
+    "street": "Cortez Circles",
+    "suite": "Suite 406",
+    "city": "Heathermouth",
+    "zipcode": "13496",
+    "geo": {
+      "lat": "-43.2463655",
+      "lng": "-62.179099"
+    }
+  },
+  "phone": "(708)655-2933x38655",
+  "website": "srv-35.cox-moon.com",
+  "company": {
+    "name": "Anthony Alexander",
+    "catchPhrase": "Optional foreground matrix",
+    "bs": "harness frictionless networks"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:48:37 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:48:38 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:48:38 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:48:39 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:49:40 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Tammy Cruz', 'username': 'james91', 'email': 'chadgarrett@example.com', 'address': {'street': 'Kimberly Shoal', 'suite': 'Suite 951', 'city': 'New Austinton', 'zipcode': '01389', 'geo': {'lat': '52.4434865', 'lng': '33.785658'}}, 'phone': '001-135-910-9441x9545', 'website': 'desktop-04.acosta.org', 'company': {'name': 'Mary Morgan', 'catchPhrase': 'Cross-platform systematic algorithm', 'bs': 'synthesize plug-and-play users'}}} 
+[DEBUG] -  2023-02-20 at 17:49:40 - post - Got response with status code = 201. Response = {
+  "name": "Tammy Cruz",
+  "username": "james91",
+  "email": "chadgarrett@example.com",
+  "address": {
+    "street": "Kimberly Shoal",
+    "suite": "Suite 951",
+    "city": "New Austinton",
+    "zipcode": "01389",
+    "geo": {
+      "lat": "52.4434865",
+      "lng": "33.785658"
+    }
+  },
+  "phone": "001-135-910-9441x9545",
+  "website": "desktop-04.acosta.org",
+  "company": {
+    "name": "Mary Morgan",
+    "catchPhrase": "Cross-platform systematic algorithm",
+    "bs": "synthesize plug-and-play users"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:49:41 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:49:41 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:49:42 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:49:42 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:50:59 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Timothy Kline', 'username': 'smithmichelle', 'email': 'sanchezlaura@example.org', 'address': {'street': 'Walker Estates', 'suite': 'Apt. 651', 'city': 'North Katherine', 'zipcode': '89958', 'geo': {'lat': '-49.9348755', 'lng': '25.715302'}}, 'phone': '227-255-6687', 'website': 'srv-26.martinez-maldonado.com', 'company': {'name': 'Patrick Henderson', 'catchPhrase': 'Ergonomic bi-directional workforce', 'bs': 'deploy robust bandwidth'}}} 
+[DEBUG] -  2023-02-20 at 17:50:59 - post - Got response with status code = 201. Response = {
+  "name": "Timothy Kline",
+  "username": "smithmichelle",
+  "email": "sanchezlaura@example.org",
+  "address": {
+    "street": "Walker Estates",
+    "suite": "Apt. 651",
+    "city": "North Katherine",
+    "zipcode": "89958",
+    "geo": {
+      "lat": "-49.9348755",
+      "lng": "25.715302"
+    }
+  },
+  "phone": "227-255-6687",
+  "website": "srv-26.martinez-maldonado.com",
+  "company": {
+    "name": "Patrick Henderson",
+    "catchPhrase": "Ergonomic bi-directional workforce",
+    "bs": "deploy robust bandwidth"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:51:00 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:51:00 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:51:01 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:51:01 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:52:16 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Ashley Ball', 'username': 'burnettthomas', 'email': 'amy76@example.net', 'address': {'street': 'Chandler Prairie', 'suite': 'Suite 770', 'city': 'Ryanport', 'zipcode': '63130', 'geo': {'lat': '-80.7868065', 'lng': '37.740391'}}, 'phone': '779-348-1316x688', 'website': 'desktop-79.johnson.com', 'company': {'name': 'Gregory Riley', 'catchPhrase': 'Reactive next generation framework', 'bs': 'revolutionize dynamic supply-chains'}}} 
+[DEBUG] -  2023-02-20 at 17:52:17 - post - Got response with status code = 201. Response = {
+  "name": "Ashley Ball",
+  "username": "burnettthomas",
+  "email": "amy76@example.net",
+  "address": {
+    "street": "Chandler Prairie",
+    "suite": "Suite 770",
+    "city": "Ryanport",
+    "zipcode": "63130",
+    "geo": {
+      "lat": "-80.7868065",
+      "lng": "37.740391"
+    }
+  },
+  "phone": "779-348-1316x688",
+  "website": "desktop-79.johnson.com",
+  "company": {
+    "name": "Gregory Riley",
+    "catchPhrase": "Reactive next generation framework",
+    "bs": "revolutionize dynamic supply-chains"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:52:17 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:52:17 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:52:18 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:52:18 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:52:56 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Kevin Douglas', 'username': 'walterscalvin', 'email': 'kylelopez@example.net', 'address': {'street': 'Solomon Cape', 'suite': 'Suite 108', 'city': 'Howardland', 'zipcode': '09203', 'geo': {'lat': '-21.160060', 'lng': '123.108658'}}, 'phone': '001-467-060-9072x5400', 'website': 'email-47.garcia.com', 'company': {'name': 'Thomas Garcia', 'catchPhrase': 'Inverse asymmetric solution', 'bs': 'drive compelling portals'}}} 
+[DEBUG] -  2023-02-20 at 17:52:56 - post - Got response with status code = 201. Response = {
+  "name": "Kevin Douglas",
+  "username": "walterscalvin",
+  "email": "kylelopez@example.net",
+  "address": {
+    "street": "Solomon Cape",
+    "suite": "Suite 108",
+    "city": "Howardland",
+    "zipcode": "09203",
+    "geo": {
+      "lat": "-21.160060",
+      "lng": "123.108658"
+    }
+  },
+  "phone": "001-467-060-9072x5400",
+  "website": "email-47.garcia.com",
+  "company": {
+    "name": "Thomas Garcia",
+    "catchPhrase": "Inverse asymmetric solution",
+    "bs": "drive compelling portals"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:52:57 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:52:57 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:52:58 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:52:58 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:54:51 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Leslie Dickerson', 'username': 'jasonmyers', 'email': 'ibarramark@example.org', 'address': {'street': 'Carr Lodge', 'suite': 'Apt. 375', 'city': 'South Sarah', 'zipcode': '95737', 'geo': {'lat': '56.463121', 'lng': '-35.585369'}}, 'phone': '(422)173-9143x1310', 'website': 'laptop-75.bentley-davis.info', 'company': {'name': 'Tiffany Ward', 'catchPhrase': 'Multi-channeled bandwidth-monitored system engine', 'bs': 'iterate bleeding-edge convergence'}}} 
+[DEBUG] -  2023-02-20 at 17:54:52 - post - Got response with status code = 201. Response = {
+  "name": "Leslie Dickerson",
+  "username": "jasonmyers",
+  "email": "ibarramark@example.org",
+  "address": {
+    "street": "Carr Lodge",
+    "suite": "Apt. 375",
+    "city": "South Sarah",
+    "zipcode": "95737",
+    "geo": {
+      "lat": "56.463121",
+      "lng": "-35.585369"
+    }
+  },
+  "phone": "(422)173-9143x1310",
+  "website": "laptop-75.bentley-davis.info",
+  "company": {
+    "name": "Tiffany Ward",
+    "catchPhrase": "Multi-channeled bandwidth-monitored system engine",
+    "bs": "iterate bleeding-edge convergence"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:54:52 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:54:52 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:54:53 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:54:53 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:55:38 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'David Jones', 'username': 'garnermelissa', 'email': 'jandersen@example.net', 'address': {'street': 'Mary Stravenue', 'suite': 'Apt. 466', 'city': 'Rachelland', 'zipcode': '00936', 'geo': {'lat': '17.236305', 'lng': '88.401622'}}, 'phone': '+1-528-016-4874x242', 'website': 'lt-18.nash-gibson.net', 'company': {'name': 'Kathleen Anderson', 'catchPhrase': 'Implemented system-worthy orchestration', 'bs': 'streamline interactive paradigms'}}} 
+[DEBUG] -  2023-02-20 at 17:55:39 - post - Got response with status code = 201. Response = {
+  "name": "David Jones",
+  "username": "garnermelissa",
+  "email": "jandersen@example.net",
+  "address": {
+    "street": "Mary Stravenue",
+    "suite": "Apt. 466",
+    "city": "Rachelland",
+    "zipcode": "00936",
+    "geo": {
+      "lat": "17.236305",
+      "lng": "88.401622"
+    }
+  },
+  "phone": "+1-528-016-4874x242",
+  "website": "lt-18.nash-gibson.net",
+  "company": {
+    "name": "Kathleen Anderson",
+    "catchPhrase": "Implemented system-worthy orchestration",
+    "bs": "streamline interactive paradigms"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:55:39 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:55:39 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:55:40 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:55:40 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:56:47 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Tammy Howell', 'username': 'christopherortiz', 'email': 'zoe28@example.net', 'address': {'street': 'David Brook', 'suite': 'Suite 765', 'city': 'East Waynemouth', 'zipcode': '82701', 'geo': {'lat': '6.293345', 'lng': '86.494896'}}, 'phone': '(063)818-1389', 'website': 'lt-09.harris-tate.com', 'company': {'name': 'Julie Roberts', 'catchPhrase': 'Profit-focused didactic structure', 'bs': 'exploit bleeding-edge e-tailers'}}} 
+[DEBUG] -  2023-02-20 at 17:56:47 - post - Got response with status code = 201. Response = {
+  "name": "Tammy Howell",
+  "username": "christopherortiz",
+  "email": "zoe28@example.net",
+  "address": {
+    "street": "David Brook",
+    "suite": "Suite 765",
+    "city": "East Waynemouth",
+    "zipcode": "82701",
+    "geo": {
+      "lat": "6.293345",
+      "lng": "86.494896"
+    }
+  },
+  "phone": "(063)818-1389",
+  "website": "lt-09.harris-tate.com",
+  "company": {
+    "name": "Julie Roberts",
+    "catchPhrase": "Profit-focused didactic structure",
+    "bs": "exploit bleeding-edge e-tailers"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:56:48 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:56:48 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:56:49 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:56:49 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:58:48 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Melissa Stevens', 'username': 'gonzalezjames', 'email': 'william90@example.com', 'address': {'street': 'Mills Highway', 'suite': 'Apt. 998', 'city': 'West Brendaville', 'zipcode': '53798', 'geo': {'lat': '-88.3122455', 'lng': '3.033630'}}, 'phone': '830-855-3597x9081', 'website': 'lt-20.scott.biz', 'company': {'name': 'Carolyn Smith', 'catchPhrase': 'Expanded background hardware', 'bs': 'deliver cross-media niches'}}} 
+[DEBUG] -  2023-02-20 at 17:58:49 - post - Got response with status code = 201. Response = {
+  "name": "Melissa Stevens",
+  "username": "gonzalezjames",
+  "email": "william90@example.com",
+  "address": {
+    "street": "Mills Highway",
+    "suite": "Apt. 998",
+    "city": "West Brendaville",
+    "zipcode": "53798",
+    "geo": {
+      "lat": "-88.3122455",
+      "lng": "3.033630"
+    }
+  },
+  "phone": "830-855-3597x9081",
+  "website": "lt-20.scott.biz",
+  "company": {
+    "name": "Carolyn Smith",
+    "catchPhrase": "Expanded background hardware",
+    "bs": "deliver cross-media niches"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:58:49 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:58:49 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:58:50 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:58:50 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 17:59:16 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Scott Martin', 'username': 'crawfordsteven', 'email': 'xfrank@example.org', 'address': {'street': 'Garcia Drives', 'suite': 'Apt. 931', 'city': 'East Taylor', 'zipcode': '67025', 'geo': {'lat': '-80.188916', 'lng': '75.834627'}}, 'phone': '+1-285-960-2823x64166', 'website': 'email-55.garcia.com', 'company': {'name': 'Melissa Johnson', 'catchPhrase': 'Stand-alone didactic conglomeration', 'bs': 'monetize one-to-one infrastructures'}}} 
+[DEBUG] -  2023-02-20 at 17:59:16 - post - Got response with status code = 201. Response = {
+  "name": "Scott Martin",
+  "username": "crawfordsteven",
+  "email": "xfrank@example.org",
+  "address": {
+    "street": "Garcia Drives",
+    "suite": "Apt. 931",
+    "city": "East Taylor",
+    "zipcode": "67025",
+    "geo": {
+      "lat": "-80.188916",
+      "lng": "75.834627"
+    }
+  },
+  "phone": "+1-285-960-2823x64166",
+  "website": "email-55.garcia.com",
+  "company": {
+    "name": "Melissa Johnson",
+    "catchPhrase": "Stand-alone didactic conglomeration",
+    "bs": "monetize one-to-one infrastructures"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 17:59:16 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:59:16 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 17:59:17 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 17:59:17 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 18:01:37 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Valerie Hill', 'username': 'melissagillespie', 'email': 'pearsonkimberly@example.org', 'address': {'street': 'Alvarez Loaf', 'suite': 'Apt. 316', 'city': 'Port Jody', 'zipcode': '36136', 'geo': {'lat': '84.964450', 'lng': '-19.320785'}}, 'phone': '001-064-068-6596x99213', 'website': 'web-14.flores.com', 'company': {'name': 'Kristin Mckenzie', 'catchPhrase': 'Horizontal demand-driven extranet', 'bs': 'scale synergistic e-commerce'}}} 
+[DEBUG] -  2023-02-20 at 18:01:38 - post - Got response with status code = 201. Response = {
+  "name": "Valerie Hill",
+  "username": "melissagillespie",
+  "email": "pearsonkimberly@example.org",
+  "address": {
+    "street": "Alvarez Loaf",
+    "suite": "Apt. 316",
+    "city": "Port Jody",
+    "zipcode": "36136",
+    "geo": {
+      "lat": "84.964450",
+      "lng": "-19.320785"
+    }
+  },
+  "phone": "001-064-068-6596x99213",
+  "website": "web-14.flores.com",
+  "company": {
+    "name": "Kristin Mckenzie",
+    "catchPhrase": "Horizontal demand-driven extranet",
+    "bs": "scale synergistic e-commerce"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 18:01:38 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:01:38 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 18:01:39 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:01:39 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 18:02:56 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'James Bryant', 'username': 'reyesdylan', 'email': 'mryan@example.com', 'address': {'street': 'Carlos Branch', 'suite': 'Apt. 246', 'city': 'Wilkinsontown', 'zipcode': '47191', 'geo': {'lat': '65.5941005', 'lng': '65.202687'}}, 'phone': '+1-173-661-6120x592', 'website': 'lt-87.taylor.info', 'company': {'name': 'Jose Smith', 'catchPhrase': 'De-engineered real-time customer loyalty', 'bs': 'utilize viral mindshare'}}} 
+[DEBUG] -  2023-02-20 at 18:02:56 - post - Got response with status code = 201. Response = {
+  "name": "James Bryant",
+  "username": "reyesdylan",
+  "email": "mryan@example.com",
+  "address": {
+    "street": "Carlos Branch",
+    "suite": "Apt. 246",
+    "city": "Wilkinsontown",
+    "zipcode": "47191",
+    "geo": {
+      "lat": "65.5941005",
+      "lng": "65.202687"
+    }
+  },
+  "phone": "+1-173-661-6120x592",
+  "website": "lt-87.taylor.info",
+  "company": {
+    "name": "Jose Smith",
+    "catchPhrase": "De-engineered real-time customer loyalty",
+    "bs": "utilize viral mindshare"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 18:02:56 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:02:57 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 18:02:58 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:02:58 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 18:03:34 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Peter Williams', 'username': 'april69', 'email': 'martinnicole@example.com', 'address': {'street': 'Jones Center', 'suite': 'Suite 811', 'city': 'New William', 'zipcode': '59683', 'geo': {'lat': '-63.129441', 'lng': '-170.811226'}}, 'phone': '072.589.1153', 'website': 'srv-68.harris-collins.com', 'company': {'name': 'Kayla Garcia', 'catchPhrase': 'Persistent human-resource Graphical User Interface', 'bs': 'evolve holistic solutions'}}} 
+[DEBUG] -  2023-02-20 at 18:03:34 - post - Got response with status code = 201. Response = {
+  "name": "Peter Williams",
+  "username": "april69",
+  "email": "martinnicole@example.com",
+  "address": {
+    "street": "Jones Center",
+    "suite": "Suite 811",
+    "city": "New William",
+    "zipcode": "59683",
+    "geo": {
+      "lat": "-63.129441",
+      "lng": "-170.811226"
+    }
+  },
+  "phone": "072.589.1153",
+  "website": "srv-68.harris-collins.com",
+  "company": {
+    "name": "Kayla Garcia",
+    "catchPhrase": "Persistent human-resource Graphical User Interface",
+    "bs": "evolve holistic solutions"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 18:03:34 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:03:35 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 18:03:36 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:03:36 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 18:04:25 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Crystal Campbell', 'username': 'johnfernandez', 'email': 'kimberly26@example.net', 'address': {'street': 'Mary Cove', 'suite': 'Apt. 532', 'city': 'West Jacob', 'zipcode': '26586', 'geo': {'lat': '-22.105901', 'lng': '78.190854'}}, 'phone': '001-025-965-1832', 'website': 'email-06.fernandez.com', 'company': {'name': 'Wesley Wilson', 'catchPhrase': 'Monitored zero-defect adapter', 'bs': 'reinvent open-source deliverables'}}} 
+[DEBUG] -  2023-02-20 at 18:04:25 - post - Got response with status code = 201. Response = {
+  "name": "Crystal Campbell",
+  "username": "johnfernandez",
+  "email": "kimberly26@example.net",
+  "address": {
+    "street": "Mary Cove",
+    "suite": "Apt. 532",
+    "city": "West Jacob",
+    "zipcode": "26586",
+    "geo": {
+      "lat": "-22.105901",
+      "lng": "78.190854"
+    }
+  },
+  "phone": "001-025-965-1832",
+  "website": "email-06.fernandez.com",
+  "company": {
+    "name": "Wesley Wilson",
+    "catchPhrase": "Monitored zero-defect adapter",
+    "bs": "reinvent open-source deliverables"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 18:04:25 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:04:26 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 18:04:26 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:04:27 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 18:05:08 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Janet Campbell', 'username': 'joshua39', 'email': 'teresasutton@example.net', 'address': {'street': 'Campbell Motorway', 'suite': 'Suite 163', 'city': 'West Lisashire', 'zipcode': '44344', 'geo': {'lat': '-0.146684', 'lng': '-48.001298'}}, 'phone': '(242)329-9216', 'website': 'laptop-94.mullen-miller.com', 'company': {'name': 'Diana Gonzales', 'catchPhrase': 'Devolved tangible Graphical User Interface', 'bs': 'leverage clicks-and-mortar web-readiness'}}} 
+[DEBUG] -  2023-02-20 at 18:05:09 - post - Got response with status code = 201. Response = {
+  "name": "Janet Campbell",
+  "username": "joshua39",
+  "email": "teresasutton@example.net",
+  "address": {
+    "street": "Campbell Motorway",
+    "suite": "Suite 163",
+    "city": "West Lisashire",
+    "zipcode": "44344",
+    "geo": {
+      "lat": "-0.146684",
+      "lng": "-48.001298"
+    }
+  },
+  "phone": "(242)329-9216",
+  "website": "laptop-94.mullen-miller.com",
+  "company": {
+    "name": "Diana Gonzales",
+    "catchPhrase": "Devolved tangible Graphical User Interface",
+    "bs": "leverage clicks-and-mortar web-readiness"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 18:05:09 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:05:10 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 18:05:10 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:05:11 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 18:05:52 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Bryan Moore', 'username': 'arthur08', 'email': 'russellsharon@example.net', 'address': {'street': 'Andrea Mountain', 'suite': 'Suite 182', 'city': 'Lake Steventon', 'zipcode': '33170', 'geo': {'lat': '19.2760025', 'lng': '101.008904'}}, 'phone': '(105)148-0001x660', 'website': 'db-86.nelson.com', 'company': {'name': 'Mark Jones', 'catchPhrase': 'Programmable reciprocal application', 'bs': 'morph 24/7 synergies'}}} 
+[DEBUG] -  2023-02-20 at 18:05:52 - post - Got response with status code = 201. Response = {
+  "name": "Bryan Moore",
+  "username": "arthur08",
+  "email": "russellsharon@example.net",
+  "address": {
+    "street": "Andrea Mountain",
+    "suite": "Suite 182",
+    "city": "Lake Steventon",
+    "zipcode": "33170",
+    "geo": {
+      "lat": "19.2760025",
+      "lng": "101.008904"
+    }
+  },
+  "phone": "(105)148-0001x660",
+  "website": "db-86.nelson.com",
+  "company": {
+    "name": "Mark Jones",
+    "catchPhrase": "Programmable reciprocal application",
+    "bs": "morph 24/7 synergies"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 18:05:52 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:05:53 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 18:05:53 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:05:54 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-20 at 18:10:01 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Charles Ortiz', 'username': 'gabrielhernandez', 'email': 'nathan74@example.org', 'address': {'street': 'Nelson View', 'suite': 'Apt. 665', 'city': 'Port Randyfurt', 'zipcode': '91129', 'geo': {'lat': '32.3369745', 'lng': '160.234525'}}, 'phone': '(003)597-1872x19806', 'website': 'laptop-41.barajas.com', 'company': {'name': 'Erica Cunningham', 'catchPhrase': 'Secured holistic paradigm', 'bs': 'transition granular ROI'}}} 
+[DEBUG] -  2023-02-20 at 18:10:02 - post - Got response with status code = 201. Response = {
+  "name": "Charles Ortiz",
+  "username": "gabrielhernandez",
+  "email": "nathan74@example.org",
+  "address": {
+    "street": "Nelson View",
+    "suite": "Apt. 665",
+    "city": "Port Randyfurt",
+    "zipcode": "91129",
+    "geo": {
+      "lat": "32.3369745",
+      "lng": "160.234525"
+    }
+  },
+  "phone": "(003)597-1872x19806",
+  "website": "laptop-41.barajas.com",
+  "company": {
+    "name": "Erica Cunningham",
+    "catchPhrase": "Secured holistic paradigm",
+    "bs": "transition granular ROI"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-20 at 18:10:02 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:10:03 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-20 at 18:10:03 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-20 at 18:10:03 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-21 at 11:44:23 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Shaun Montes', 'username': 'eedwards', 'email': 'barbararoberts@example.org', 'address': {'street': 'Vargas Harbor', 'suite': 'Apt. 943', 'city': 'New Jillfort', 'zipcode': '40670', 'geo': {'lat': '-18.178350', 'lng': '-67.451733'}}, 'phone': '8307439322', 'website': 'lt-48.smith.com', 'company': {'name': 'Lindsey Martin', 'catchPhrase': 'Synergistic transitional archive', 'bs': 'strategize front-end relationships'}}} 
+[DEBUG] -  2023-02-21 at 11:44:23 - post - Got response with status code = 201. Response = {
+  "name": "Shaun Montes",
+  "username": "eedwards",
+  "email": "barbararoberts@example.org",
+  "address": {
+    "street": "Vargas Harbor",
+    "suite": "Apt. 943",
+    "city": "New Jillfort",
+    "zipcode": "40670",
+    "geo": {
+      "lat": "-18.178350",
+      "lng": "-67.451733"
+    }
+  },
+  "phone": "8307439322",
+  "website": "lt-48.smith.com",
+  "company": {
+    "name": "Lindsey Martin",
+    "catchPhrase": "Synergistic transitional archive",
+    "bs": "strategize front-end relationships"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-21 at 11:44:24 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-21 at 11:44:24 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-21 at 11:44:25 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-21 at 11:44:25 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-21 at 11:47:09 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Jennifer Brown', 'username': 'jacobthomas', 'email': 'robertkim@example.com', 'address': {'street': 'Khan Court', 'suite': 'Suite 899', 'city': 'Scottchester', 'zipcode': '09196', 'geo': {'lat': '-42.5893335', 'lng': '165.745252'}}, 'phone': '581.291.8201', 'website': 'email-53.white.org', 'company': {'name': 'Renee Adkins', 'catchPhrase': 'Synchronized 24hour Graphic Interface', 'bs': 'disintermediate out-of-the-box metrics'}}} 
+[DEBUG] -  2023-02-21 at 11:47:09 - post - Got response with status code = 201. Response = {
+  "name": "Jennifer Brown",
+  "username": "jacobthomas",
+  "email": "robertkim@example.com",
+  "address": {
+    "street": "Khan Court",
+    "suite": "Suite 899",
+    "city": "Scottchester",
+    "zipcode": "09196",
+    "geo": {
+      "lat": "-42.5893335",
+      "lng": "165.745252"
+    }
+  },
+  "phone": "581.291.8201",
+  "website": "email-53.white.org",
+  "company": {
+    "name": "Renee Adkins",
+    "catchPhrase": "Synchronized 24hour Graphic Interface",
+    "bs": "disintermediate out-of-the-box metrics"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-21 at 11:47:09 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-21 at 11:47:10 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-21 at 11:47:10 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-21 at 11:47:10 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-21 at 11:47:52 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Jose Lee', 'username': 'vhartman', 'email': 'zacharymiller@example.org', 'address': {'street': 'Victoria Villages', 'suite': 'Apt. 908', 'city': 'Phillipsmouth', 'zipcode': '02030', 'geo': {'lat': '27.493107', 'lng': '-133.589167'}}, 'phone': '(292)041-1438x38582', 'website': 'web-39.johns.com', 'company': {'name': 'Marcus Boyd', 'catchPhrase': 'Customer-focused asymmetric portal', 'bs': 'embrace leading-edge technologies'}}} 
+[DEBUG] -  2023-02-21 at 11:47:53 - post - Got response with status code = 201. Response = {
+  "name": "Jose Lee",
+  "username": "vhartman",
+  "email": "zacharymiller@example.org",
+  "address": {
+    "street": "Victoria Villages",
+    "suite": "Apt. 908",
+    "city": "Phillipsmouth",
+    "zipcode": "02030",
+    "geo": {
+      "lat": "27.493107",
+      "lng": "-133.589167"
+    }
+  },
+  "phone": "(292)041-1438x38582",
+  "website": "web-39.johns.com",
+  "company": {
+    "name": "Marcus Boyd",
+    "catchPhrase": "Customer-focused asymmetric portal",
+    "bs": "embrace leading-edge technologies"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-21 at 11:47:53 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-21 at 11:47:53 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-21 at 11:47:54 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-21 at 11:47:54 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 
+[DEBUG] -  2023-02-21 at 11:48:41 - post - Sending POST response to https://jsonplaceholder.typicode.com/users with parameters {'json': {'name': 'Samuel Henson', 'username': 'beckjoseph', 'email': 'christopher37@example.net', 'address': {'street': 'Courtney Forge', 'suite': 'Suite 017', 'city': 'Wesleymouth', 'zipcode': '41627', 'geo': {'lat': '-84.6708775', 'lng': '10.120678'}}, 'phone': '+1-943-110-5076x83431', 'website': 'web-71.adams.com', 'company': {'name': 'Ryan Stephens', 'catchPhrase': 'Multi-channeled regional open architecture', 'bs': 'engage killer functionalities'}}} 
+[DEBUG] -  2023-02-21 at 11:48:42 - post - Got response with status code = 201. Response = {
+  "name": "Samuel Henson",
+  "username": "beckjoseph",
+  "email": "christopher37@example.net",
+  "address": {
+    "street": "Courtney Forge",
+    "suite": "Suite 017",
+    "city": "Wesleymouth",
+    "zipcode": "41627",
+    "geo": {
+      "lat": "-84.6708775",
+      "lng": "10.120678"
+    }
+  },
+  "phone": "+1-943-110-5076x83431",
+  "website": "web-71.adams.com",
+  "company": {
+    "name": "Ryan Stephens",
+    "catchPhrase": "Multi-channeled regional open architecture",
+    "bs": "engage killer functionalities"
+  },
+  "id": 11
+} 
+[DEBUG] -  2023-02-21 at 11:48:42 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/{id} with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-21 at 11:48:42 - delete - Got response with status code = 200. Response = {} 
+[DEBUG] -  2023-02-21 at 11:48:43 - get - Sending GET response to https://jsonplaceholder.typicode.com/users with parameters {'params': {'id': '2'}} 
+[DEBUG] -  2023-02-21 at 11:48:43 - get - Got response with status code = 200. Response = [
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  }
+] 

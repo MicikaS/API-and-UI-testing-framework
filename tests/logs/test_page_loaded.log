@@ -1,0 +1,227 @@
+[INFO] -  2023-02-20 at 14:27:05 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:27:07 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 14:27:07 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:27:07 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 14:27:07 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:27:07 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:27:07 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:32:38 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:32:39 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 14:32:39 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:32:39 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 14:32:39 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:32:39 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:32:39 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:43:08 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:43:10 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 14:43:10 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:43:10 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 14:43:10 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:43:10 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:43:10 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:46:34 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:46:35 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 14:46:35 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:46:35 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 14:46:35 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:46:35 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:54:16 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:54:18 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 14:54:18 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 14:54:18 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 14:54:18 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 14:54:18 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:02:50 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 15:02:51 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 15:02:51 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 15:02:51 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 15:02:51 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 15:02:51 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:06:10 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 15:06:12 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 15:06:12 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 15:06:12 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 15:06:12 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 15:06:12 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:07:07 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:07:08 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 16:07:08 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:07:08 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:07:08 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:07:08 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:17:54 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:17:55 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 16:17:55 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:17:55 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:17:55 - wait_for - Waiting until <framework.ui.drivers.driver.Driver object at 0x10e7eb8b0> is satisfied  
+[INFO] -  2023-02-20 at 16:17:55 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:17:56 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:27:40 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:27:41 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 16:27:41 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:27:41 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:27:41 - wait_for - Waiting until <framework.ui.drivers.driver.Driver object at 0x1054ac400> is satisfied  
+[INFO] -  2023-02-20 at 16:27:41 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:27:42 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:29:33 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:29:34 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 16:29:34 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:29:34 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:29:34 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110eac040> is satisfied  
+[INFO] -  2023-02-20 at 16:29:34 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:29:34 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:36:41 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:36:43 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 16:36:43 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:36:43 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:36:43 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1109cc040> is satisfied  
+[INFO] -  2023-02-20 at 16:36:43 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:36:43 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:39:41 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:39:43 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 16:39:43 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:39:43 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:39:43 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1095a80d0> is satisfied  
+[INFO] -  2023-02-20 at 16:39:43 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:39:43 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:42:03 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:42:04 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 16:42:04 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:42:04 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:42:04 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x108564040> is satisfied  
+[INFO] -  2023-02-20 at 16:42:04 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:42:04 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:45:17 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:45:18 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 16:45:18 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:45:18 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:45:18 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10f5ac0d0> is satisfied  
+[INFO] -  2023-02-20 at 16:45:18 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:45:18 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:45:18 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:47:34 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:47:36 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 16:47:36 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:47:36 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:47:36 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110d800d0> is satisfied  
+[INFO] -  2023-02-20 at 16:47:36 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:47:36 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:49:58 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:49:59 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 16:49:59 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:49:59 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:49:59 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1127880d0> is satisfied  
+[INFO] -  2023-02-20 at 16:49:59 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:49:59 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:53:04 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:53:06 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 16:53:06 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 16:53:06 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 16:53:06 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b9e0040> is satisfied  
+[INFO] -  2023-02-20 at 16:53:06 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 16:53:06 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:00:52 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:00:54 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:00:54 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:00:54 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:00:54 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1126a00d0> is satisfied  
+[INFO] -  2023-02-20 at 17:00:54 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:00:54 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:02:25 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:02:27 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:02:27 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:02:27 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:02:27 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1098d40d0> is satisfied  
+[INFO] -  2023-02-20 at 17:02:27 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:02:27 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:10:23 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:10:24 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:10:24 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:10:24 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:10:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10fca4160> is satisfied  
+[INFO] -  2023-02-20 at 17:10:24 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:10:24 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:20:08 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:20:09 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:20:09 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:20:09 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:20:09 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x103840160> is satisfied  
+[INFO] -  2023-02-20 at 17:20:09 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:20:10 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:21:23 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:21:25 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:21:25 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:21:25 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:21:25 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x112058160> is satisfied  
+[INFO] -  2023-02-20 at 17:21:25 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:21:25 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:25:17 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:25:19 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:25:19 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:25:19 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:25:19 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x104bbc160> is satisfied  
+[INFO] -  2023-02-20 at 17:25:19 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:25:19 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:26:39 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:26:41 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:26:41 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:26:41 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:26:41 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111d20160> is satisfied  
+[INFO] -  2023-02-20 at 17:26:41 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:26:41 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:31:27 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:31:29 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:31:29 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:31:29 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:31:29 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x108000160> is satisfied  
+[INFO] -  2023-02-20 at 17:31:29 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:31:29 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:33:11 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:33:13 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:33:13 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:33:13 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:33:13 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x111430160> is satisfied  
+[INFO] -  2023-02-20 at 17:33:13 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:33:13 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:34:55 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:34:57 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:34:57 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:34:57 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:34:57 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10b04c160> is satisfied  
+[INFO] -  2023-02-20 at 17:34:57 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:34:57 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:36:23 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:36:24 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:36:24 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:36:24 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:36:24 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x109624160> is satisfied  
+[INFO] -  2023-02-20 at 17:36:24 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:36:24 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:37:12 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:37:14 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:37:14 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:37:14 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:37:14 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x1114001f0> is satisfied  
+[INFO] -  2023-02-20 at 17:37:14 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:37:14 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:48:48 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:48:50 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 17:48:50 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 17:48:50 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 17:48:50 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110400040> is satisfied  
+[INFO] -  2023-02-20 at 17:48:50 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 17:48:50 - close - Closing driver 
+[INFO] -  2023-02-20 at 18:06:04 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 18:06:05 - validation_element - Getting validation element 
+[INFO] -  2023-02-20 at 18:06:05 - visible - Checking if element is visible 
+[INFO] -  2023-02-20 at 18:06:05 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-20 at 18:06:05 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x110826b00> is satisfied  
+[INFO] -  2023-02-20 at 18:06:05 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-20 at 18:06:05 - close - Closing driver 
+[INFO] -  2023-02-21 at 11:48:53 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-21 at 11:48:55 - validation_element - Getting validation element 
+[INFO] -  2023-02-21 at 11:48:55 - visible - Checking if element is visible 
+[INFO] -  2023-02-21 at 11:48:55 - _get_element - Waiting 10 seconds until partial link text: Home appear 
+[INFO] -  2023-02-21 at 11:48:55 - wait_for - Waiting until <function presence_of_element_located.<locals>._predicate at 0x10e1e8160> is satisfied  
+[INFO] -  2023-02-21 at 11:48:55 - find_element - Finding element with partial link text:Home 
+[INFO] -  2023-02-21 at 11:48:55 - close - Closing driver 

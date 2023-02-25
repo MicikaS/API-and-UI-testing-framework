@@ -1,0 +1,204 @@
+[INFO] -  2023-02-20 at 14:26:54 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 14:26:54 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 14:26:55 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 14:26:55 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 14:32:27 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 14:32:27 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 14:32:27 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 14:32:27 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 14:42:57 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 14:42:57 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 14:42:57 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 14:42:57 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 14:46:22 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 14:46:22 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 14:46:22 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 14:46:22 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 14:54:06 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 14:54:06 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 14:54:06 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 14:54:06 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 15:02:39 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 15:02:39 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 15:02:39 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 15:02:39 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 15:05:59 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 15:05:59 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 15:05:59 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 15:05:59 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 16:06:56 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 16:06:56 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:06:56 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 16:06:56 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 16:17:43 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 16:17:43 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:17:43 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 16:17:43 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 16:27:29 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 16:27:29 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:27:29 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 16:27:29 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 16:29:22 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 16:29:22 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:29:22 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 16:29:22 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 16:36:30 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 16:36:30 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:36:31 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 16:36:31 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 16:39:31 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 16:39:31 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:39:31 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 16:39:31 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 16:41:52 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 16:41:52 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:41:52 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 16:41:52 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 16:45:06 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 16:45:06 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:45:06 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 16:45:06 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 16:47:23 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 16:47:23 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:47:24 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 16:47:24 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 16:49:47 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 16:49:47 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:49:47 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 16:49:47 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 16:52:53 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 16:52:53 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 16:52:53 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 16:52:53 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:00:41 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:00:41 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:00:41 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:00:41 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:02:14 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:02:14 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:02:15 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:02:15 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:10:12 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:10:12 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:10:12 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:10:12 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:19:57 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:19:57 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:19:57 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:19:57 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:21:12 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:21:12 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:21:13 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:21:13 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:25:06 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:25:06 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:25:07 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:25:07 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:26:28 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:26:28 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:26:28 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:26:28 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:31:16 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:31:16 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:31:17 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:31:17 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:33:00 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:33:00 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:33:00 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:33:00 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:34:44 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:34:44 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:34:44 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:34:44 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:36:12 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:36:12 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:36:12 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:36:12 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:37:01 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:37:01 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:37:02 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:37:02 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:48:38 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:48:38 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:48:38 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:48:38 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:49:41 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:49:41 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:49:41 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:49:41 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:51:00 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:51:00 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:51:01 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:51:01 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:52:17 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:52:17 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:52:18 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:52:18 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:52:57 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:52:57 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:52:57 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:52:57 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:54:52 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:54:52 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:54:53 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:54:53 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:55:39 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:55:39 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:55:40 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:55:40 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:56:48 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:56:48 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:56:49 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:56:49 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:58:50 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:58:50 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:58:50 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:58:50 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 17:59:16 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 17:59:16 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 17:59:17 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 17:59:17 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 18:01:38 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 18:01:38 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:01:39 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 18:01:39 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 18:02:57 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 18:02:57 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:02:57 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 18:02:57 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 18:03:35 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 18:03:35 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:03:35 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 18:03:35 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 18:04:26 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 18:04:26 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:04:26 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 18:04:26 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 18:05:10 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 18:05:10 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:05:10 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 18:05:10 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 18:05:53 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 18:05:53 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:05:53 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 18:05:53 - delete_user - User was deleted 
+[INFO] -  2023-02-20 at 18:10:03 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-20 at 18:10:03 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-20 at 18:10:03 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-20 at 18:10:03 - delete_user - User was deleted 
+[INFO] -  2023-02-21 at 11:44:24 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-21 at 11:44:24 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-21 at 11:44:24 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-21 at 11:44:24 - delete_user - User was deleted 
+[INFO] -  2023-02-21 at 11:47:10 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-21 at 11:47:10 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-21 at 11:47:10 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-21 at 11:47:10 - delete_user - User was deleted 
+[INFO] -  2023-02-21 at 11:47:53 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-21 at 11:47:53 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-21 at 11:47:54 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-21 at 11:47:54 - delete_user - User was deleted 
+[INFO] -  2023-02-21 at 11:48:42 - delete_user - Deleting user with 10 
+[DEBUG] -  2023-02-21 at 11:48:42 - delete - Sending DELETE response to https://jsonplaceholder.typicode.com/users/10 with parameters {} 
+[DEBUG] -  2023-02-21 at 11:48:43 - delete - Got response with status code = 200. Response = {} 
+[INFO] -  2023-02-21 at 11:48:43 - delete_user - User was deleted 

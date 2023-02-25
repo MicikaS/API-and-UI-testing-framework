@@ -1,0 +1,198 @@
+[INFO] -  2023-02-20 at 14:27:20 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:27:21 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 14:27:21 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 14:27:21 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 14:27:21 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:32:53 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:32:55 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 14:32:55 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 14:32:55 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 14:32:55 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 14:32:55 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:43:23 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:43:26 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 14:43:26 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 14:43:26 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 14:43:26 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 14:43:26 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:46:58 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:47:00 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 14:47:00 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 14:47:00 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 14:47:00 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 14:47:00 - close - Closing driver 
+[INFO] -  2023-02-20 at 14:54:30 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 14:54:32 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 14:54:32 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 14:54:32 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 14:54:32 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 14:54:32 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:03:03 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 15:03:05 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 15:03:05 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 15:03:05 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 15:03:05 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 15:03:05 - close - Closing driver 
+[INFO] -  2023-02-20 at 15:06:23 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 15:06:25 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 15:06:25 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 15:06:25 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 15:06:25 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 15:06:25 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:07:20 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:07:22 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 16:07:22 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 16:07:22 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:07:22 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 16:07:22 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:18:11 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:18:12 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 16:18:12 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 16:18:12 - wait_for - Waiting until <framework.ui.drivers.driver.Driver object at 0x10e80af20> is satisfied  
+[INFO] -  2023-02-20 at 16:18:12 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 16:18:13 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:29:50 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:29:51 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 16:29:51 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 16:29:51 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x11102d5a0> is satisfied  
+[INFO] -  2023-02-20 at 16:29:51 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:29:51 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 16:29:51 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:36:58 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:37:00 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 16:37:00 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 16:37:00 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110b4d5a0> is satisfied  
+[INFO] -  2023-02-20 at 16:37:00 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:37:00 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 16:37:00 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:39:58 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:39:59 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 16:39:59 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 16:39:59 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x109721630> is satisfied  
+[INFO] -  2023-02-20 at 16:39:59 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:40:00 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 16:40:00 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:42:19 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:42:21 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 16:42:21 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 16:42:21 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1086dd5a0> is satisfied  
+[INFO] -  2023-02-20 at 16:42:21 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:42:21 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 16:42:21 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:45:33 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:45:35 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 16:45:35 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 16:45:35 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10f72bb50> is satisfied  
+[INFO] -  2023-02-20 at 16:45:35 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:45:35 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 16:45:35 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:47:51 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:47:52 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 16:47:52 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 16:47:52 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110efd630> is satisfied  
+[INFO] -  2023-02-20 at 16:47:52 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:47:53 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 16:47:53 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:50:14 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:50:16 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 16:50:16 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 16:50:16 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1128fd630> is satisfied  
+[INFO] -  2023-02-20 at 16:50:16 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:50:16 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 16:50:16 - close - Closing driver 
+[INFO] -  2023-02-20 at 16:53:20 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 16:53:22 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 16:53:22 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 16:53:22 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10bb715a0> is satisfied  
+[INFO] -  2023-02-20 at 16:53:22 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 16:53:22 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 16:53:22 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:01:09 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:01:10 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 17:01:10 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 17:01:10 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1128115a0> is satisfied  
+[INFO] -  2023-02-20 at 17:01:10 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:01:11 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 17:01:11 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:02:42 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:02:44 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 17:02:44 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 17:02:44 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x109a495a0> is satisfied  
+[INFO] -  2023-02-20 at 17:02:44 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:02:44 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 17:02:44 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:10:40 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:10:41 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 17:10:41 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 17:10:41 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10fe1d480> is satisfied  
+[INFO] -  2023-02-20 at 17:10:41 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:10:41 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 17:10:41 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:20:23 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:20:25 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 17:20:25 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 17:20:25 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1039ba710> is satisfied  
+[INFO] -  2023-02-20 at 17:20:25 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:20:25 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:21:38 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:21:39 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 17:21:39 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 17:21:39 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1121d5480> is satisfied  
+[INFO] -  2023-02-20 at 17:21:39 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:21:39 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 17:21:39 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:26:53 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:26:55 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 17:26:55 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 17:26:55 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x111ea1480> is satisfied  
+[INFO] -  2023-02-20 at 17:26:55 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:26:55 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 17:26:55 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:31:42 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:31:43 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 17:31:43 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 17:31:43 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10817b370> is satisfied  
+[INFO] -  2023-02-20 at 17:31:43 - screenshot - Making screenshot 
+[INFO] -  2023-02-20 at 17:31:44 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:35:09 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:35:10 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 17:35:10 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 17:35:10 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10b1cd480> is satisfied  
+[INFO] -  2023-02-20 at 17:35:10 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:35:11 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 17:35:11 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:36:37 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:36:39 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 17:36:39 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 17:36:39 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x1097a1480> is satisfied  
+[INFO] -  2023-02-20 at 17:36:39 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:36:39 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 17:36:39 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:37:26 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:37:28 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 17:37:28 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 17:37:28 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x11157d510> is satisfied  
+[INFO] -  2023-02-20 at 17:37:28 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:37:28 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 17:37:28 - close - Closing driver 
+[INFO] -  2023-02-20 at 17:49:01 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 17:49:03 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 17:49:03 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 17:49:03 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x11057d360> is satisfied  
+[INFO] -  2023-02-20 at 17:49:03 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 17:49:03 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 17:49:03 - close - Closing driver 
+[INFO] -  2023-02-20 at 18:06:17 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-20 at 18:06:18 - click_on_about - Clicking on about 
+[INFO] -  2023-02-20 at 18:06:18 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-20 at 18:06:18 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x110a76200> is satisfied  
+[INFO] -  2023-02-20 at 18:06:18 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-20 at 18:06:18 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-20 at 18:06:18 - close - Closing driver 
+[INFO] -  2023-02-21 at 11:49:07 - get - Opening page https://the-internet.herokuapp.com/disappearing_elements 
+[INFO] -  2023-02-21 at 11:49:09 - click_on_about - Clicking on about 
+[INFO] -  2023-02-21 at 11:49:09 - click - Waiting 10 seconds until element partial link text: About is clickable 
+[INFO] -  2023-02-21 at 11:49:09 - wait_for - Waiting until <function element_to_be_clickable.<locals>._predicate at 0x10e361480> is satisfied  
+[INFO] -  2023-02-21 at 11:49:09 - find_element - Finding element with partial link text:About 
+[INFO] -  2023-02-21 at 11:49:09 - click - Clicking on partial link text: About 
+[INFO] -  2023-02-21 at 11:49:09 - close - Closing driver 
